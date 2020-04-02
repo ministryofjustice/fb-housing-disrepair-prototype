@@ -1,9 +1,36 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "**This is the main content section of your start page**\r\n\r\n[Edit this page](/edit) with content for your own service.\r\n\r\n## Adding more content\r\n\r\nYou can add multiple headings, links and paragraphs - all in this one content section.\r\n\r\nUse [markdown](https://www.gov.uk/guidance/how-to-publish-on-gov-uk/markdown) to format headings, bullet lists and links.",
-  "heading": "This is your start page heading",
-  "lede": "This is your start page first paragraph. You can only have one paragraph here.",
-  "steps": [],
+  "body": "Use this service to find out:\r\n- what are the steps you need to follow to solve your problem\r\n- where can you get help in your area\r\n\r\nThis takes less than 5 minutes.",
+  "components": [
+    {
+      "_id": "page.start--warning",
+      "_type": "warning",
+      "html": "This service is for people who are renting or in temporary accommodation."
+    }
+  ],
+  "heading": "Find out what to do to solve a housing disrepair issue",
+  "lede": "This service is for people who are renting or in temporary accommodation",
+  "steps": [
+    "page.are-you-renting-in-england-or-wales",
+    "page.not-within-england-or-wales",
+    "page.are-you-renting-from-private-landlord",
+    "page.are-you-living-with-landlord",
+    "page.are-you--at-risk-of-being-homeless",
+    "page.urgency-risk-of-being-homeless",
+    "page.are-you-about-to-go-to-court",
+    "page.urgency-about-to-go-to-court",
+    "page.have-you-stopped-paying-rent",
+    "page.urgency-stopped-paying-rent",
+    "page.what-is-the-problem-with-your-housing",
+    "page.checked-all-the-boxes",
+    "page.what-steps-have-you-taken-so-far",
+    "page.local-authority-make-a-complaint",
+    "page.what-to-do-now",
+    "page.court-have-you-tried-mediation",
+    "page.court-are-you-in-time",
+    "page.court-what-steps-have-you-taken",
+    "page.court-info-what-to-do-now"
+  ],
   "url": "/"
 }

@@ -1,0 +1,75 @@
+{
+  "_id": "page.what-to-do-now",
+  "_type": "page.content",
+  "components": [
+    {
+      "_id": "page.what-to-do-now--details",
+      "_type": "details",
+      "html": "You should contact the Local Authority",
+      "show": {
+        "identifier": "auto_name__17",
+        "negated": true,
+        "operator": "defined"
+      }
+    },
+    {
+      "_id": "page.what-to-do-now--details--2",
+      "_type": "details",
+      "html": "Well done on you, good scout!",
+      "show": {
+        "identifier": "auto_name__19",
+        "operator": "defined"
+      }
+    },
+    {
+      "_id": "page.what-to-do-now--details--3",
+      "_type": "details",
+      "html": "You definitely should write your landlord a love letter.",
+      "show": {
+        "identifier": "auto_name__16",
+        "negated": true,
+        "operator": "defined"
+      }
+    },
+    {
+      "_id": "page.what-to-do-now--details--4",
+      "_type": "details",
+      "html": "Call the po po!",
+      "show": {
+        "identifier": "auto_name__13",
+        "operator": "defined"
+      }
+    },
+    {
+      "_id": "page.what-to-do-now--content",
+      "_type": "content",
+      "html": "You should contact the police now.",
+      "show": {
+        "identifier": "auto_name__18",
+        "negated": true,
+        "operator": "defined"
+      }
+    },
+    {
+      "_id": "page.what-to-do-now--content--2",
+      "_type": "content",
+      "show": {
+        "all": [
+          {
+            "identifier": "auto_name__17",
+            "negated": true,
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__8",
+            "negated": true,
+            "operator": "defined"
+          }
+        ],
+        "conditionsType": "all"
+      }
+    }
+  ],
+  "heading": "INFO: What to do now?",
+  "url": "what-to-do-now"
+}

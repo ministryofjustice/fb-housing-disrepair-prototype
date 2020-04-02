@@ -1,0 +1,57 @@
+{
+  "_id": "page.what-steps-have-you-taken-so-far",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.what-steps-have-you-taken-so-far--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Select all that apply",
+      "items": [
+        {
+          "_id": "page.what-steps-have-you-taken-so-far--checkboxes--checkbox.auto_name__15",
+          "_type": "checkbox",
+          "label": "Told the landlord in person or by phone",
+          "name": "auto_name__15"
+        },
+        {
+          "_id": "page.what-steps-have-you-taken-so-far--checkboxes--checkbox.auto_name__16",
+          "_type": "checkbox",
+          "label": "Written a letter to the landlord",
+          "name": "auto_name__16"
+        },
+        {
+          "_id": "page.what-steps-have-you-taken-so-far--checkboxes--checkbox.auto_name__17",
+          "_type": "checkbox",
+          "label": "Contacted the Local Authority",
+          "name": "auto_name__17"
+        },
+        {
+          "_id": "page.what-steps-have-you-taken-so-far--checkboxes--checkbox.auto_name__18",
+          "_type": "checkbox",
+          "label": "Contacted the police",
+          "name": "auto_name__18"
+        },
+        {
+          "_id": "page.what-steps-have-you-taken-so-far--checkboxes--checkbox.auto_name__19",
+          "_type": "checkbox",
+          "label": "Fixed the problem and now want compensation",
+          "name": "auto_name__19"
+        },
+        {
+          "_id": "page.what-steps-have-you-taken-so-far--checkboxes--checkbox.auto_name__20",
+          "_type": "checkbox",
+          "label": "Considering making a court claim",
+          "name": "auto_name__20"
+        },
+        {
+          "_id": "page.what-steps-have-you-taken-so-far--checkboxes--checkbox.auto_name__21",
+          "_type": "checkbox",
+          "label": "Considering making a complaint under environmental health act",
+          "name": "auto_name__21"
+        }
+      ],
+      "legend": "What steps have you taken so far?"
+    }
+  ],
+  "url": "what-steps-have-you-taken-so-far"
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "page.court-are-you-in-time",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.court-are-you-in-time--radios.auto_name__23",
+      "_type": "radios",
+      "hint": "I feel this is a weird question?",
+      "items": [
+        {
+          "_id": "page.court-are-you-in-time--radios.auto_name__23--radio.auto_value__11",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__11"
+        },
+        {
+          "_id": "page.court-are-you-in-time--radios.auto_name__23--radio.auto_value__12",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__12"
+        }
+      ],
+      "legend": "Court: Are you in time?",
+      "name": "auto_name__23",
+      "show": {
+        "identifier": "auto_name__22",
+        "operator": "is",
+        "value": "auto_value__9"
+      }
+    }
+  ],
+  "url": "court-are-you-in-time"
+}

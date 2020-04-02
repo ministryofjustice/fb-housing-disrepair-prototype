@@ -1,0 +1,43 @@
+{
+  "_id": "page.court-what-steps-have-you-taken",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.court-what-steps-have-you-taken--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.court-what-steps-have-you-taken--checkboxes--checkbox.auto_name__24",
+          "_type": "checkbox",
+          "label": "Have you sent official letter of claim?",
+          "name": "auto_name__24"
+        },
+        {
+          "_id": "page.court-what-steps-have-you-taken--checkboxes--checkbox.auto_name__25",
+          "_type": "checkbox",
+          "label": "Have you instructed expert to gather evidence?",
+          "name": "auto_name__25"
+        },
+        {
+          "_id": "page.court-what-steps-have-you-taken--checkboxes--checkbox.auto_name__26",
+          "_type": "checkbox",
+          "label": "Applied for help with legal costs",
+          "name": "auto_name__26"
+        },
+        {
+          "_id": "page.court-what-steps-have-you-taken--checkboxes--checkbox.auto_name__27",
+          "_type": "checkbox",
+          "label": "Made an appointment with a legal adviser",
+          "name": "auto_name__27"
+        }
+      ],
+      "legend": "What steps have you taken?",
+      "show": {
+        "identifier": "auto_name__23",
+        "operator": "is",
+        "value": "auto_value__11"
+      }
+    }
+  ],
+  "url": "court-what-steps-have-you-taken"
+}

@@ -1,0 +1,12 @@
+{
+  "_id": "page.urgency-risk-of-being-homeless",
+  "_type": "page.exit",
+  "heading": "Urgency: At risk of being homeless",
+  "lede": "Result page for people at risk of being homeless",
+  "show": {
+    "identifier": "auto_name__5",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "url": "urgency-risk-of-being-homeless"
+}

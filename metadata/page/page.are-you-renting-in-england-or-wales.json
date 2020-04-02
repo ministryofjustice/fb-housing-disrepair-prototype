@@ -1,0 +1,34 @@
+{
+  "_id": "page.are-you-renting-in-england-or-wales",
+  "_type": "page.singlequestion",
+  "actionType": "saveContinue",
+  "components": [
+    {
+      "_id": "page.are-you-renting-in-england-or-wales--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.are-you-renting-in-england-or-wales--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "1"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.are-you-renting-in-england-or-wales--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No",
+          "value": "0"
+        }
+      ],
+      "legend": "Are you renting in England or Wales?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "are-you-renting-in-england-or-wales"
+}

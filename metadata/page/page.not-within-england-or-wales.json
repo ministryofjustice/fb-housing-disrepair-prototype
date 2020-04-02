@@ -1,0 +1,14 @@
+{
+  "_id": "page.not-within-england-or-wales",
+  "_type": "page.exit",
+  "enableSteps": "boom",
+  "heading": "This service is for residents in England or Wales",
+  "lede": "We are working on housing disrepair in England or Wales.",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "0"
+  },
+  "undefined": "oom",
+  "url": "not-within-england-or-wales"
+}

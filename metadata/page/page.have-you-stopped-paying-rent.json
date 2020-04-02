@@ -1,0 +1,28 @@
+{
+  "_id": "page.have-you-stopped-paying-rent",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.have-you-stopped-paying-rent--radios.auto_name__7",
+      "_type": "radios",
+      "hint": "This may be because your landlord has not responded to a problem in your home.",
+      "items": [
+        {
+          "_id": "page.have-you-stopped-paying-rent--radios.auto_name__7--radio.auto_value__7",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__7"
+        },
+        {
+          "_id": "page.have-you-stopped-paying-rent--radios.auto_name__7--radio.auto_value__8",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__8"
+        }
+      ],
+      "legend": "Have you stopped paying rent?",
+      "name": "auto_name__7"
+    }
+  ],
+  "url": "have-you-stopped-paying-rent"
+}

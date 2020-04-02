@@ -1,0 +1,31 @@
+{
+  "_id": "page.court-info-what-to-do-now",
+  "_type": "page.content",
+  "components": [
+    {
+      "_id": "page.court-info-what-to-do-now--details",
+      "_type": "details",
+      "html": "Advise \"Made an appointment with a legal adviser\"",
+      "show": {
+        "identifier": "auto_name__27",
+        "operator": "defined"
+      }
+    },
+    {
+      "_id": "page.court-info-what-to-do-now--content",
+      "_type": "content",
+      "html": "- Information on legal advice / funding\r\n- How to claim"
+    },
+    {
+      "_id": "page.court-info-what-to-do-now--details--2",
+      "_type": "details",
+      "html": "Advise: \"Has sent official letter of claim!\"",
+      "show": {
+        "identifier": "auto_name__24",
+        "operator": "defined"
+      }
+    }
+  ],
+  "heading": "Court: INFO - What to do now?",
+  "url": "court-info-what-to-do-now"
+}
