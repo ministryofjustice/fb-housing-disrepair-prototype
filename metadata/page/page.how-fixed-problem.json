@@ -1,0 +1,36 @@
+{
+  "_id": "page.how-fixed-problem",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.how-fixed-problem--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.how-fixed-problem--checkboxes--checkbox.auto_name__45",
+          "_type": "checkbox",
+          "label": "Tried to carry out repairs but was problem not fixed ",
+          "name": "auto_name__45"
+        },
+        {
+          "_id": "page.how-fixed-problem--checkboxes--checkbox.auto_name__46",
+          "_type": "checkbox",
+          "label": "Got quotes for someone to fix the problem ",
+          "name": "auto_name__46"
+        },
+        {
+          "_id": "page.how-fixed-problem--checkboxes--checkbox.auto_name__47",
+          "_type": "checkbox",
+          "label": "Paid someone to fix the problem ",
+          "name": "auto_name__47"
+        }
+      ],
+      "legend": "How did you try to fix the problem? "
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__17",
+    "operator": "defined"
+  },
+  "url": "how-fixed-problem"
+}

@@ -1,0 +1,56 @@
+{
+  "_id": "page.broken-appliance-problem",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.broken-appliance-problem--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Select as many problem areas as apply",
+      "items": [
+        {
+          "_id": "page.broken-appliance-problem--checkboxes--checkbox.auto_name__31",
+          "_type": "checkbox",
+          "label": "Utility meters",
+          "name": "auto_name__31"
+        },
+        {
+          "_id": "page.broken-appliance-problem--checkboxes--checkbox.auto_name__36",
+          "_type": "checkbox",
+          "label": "Supply of hot and cold water",
+          "name": "auto_name__36"
+        },
+        {
+          "_id": "page.broken-appliance-problem--checkboxes--checkbox.auto_name__37",
+          "_type": "checkbox",
+          "label": "Drainage or other plumbing",
+          "name": "auto_name__37"
+        },
+        {
+          "_id": "page.broken-appliance-problem--checkboxes--checkbox.auto_name__33",
+          "_type": "checkbox",
+          "label": "Electric wiring",
+          "name": "auto_name__33"
+        },
+        {
+          "_id": "page.broken-appliance-problem--checkboxes--checkbox.auto_name__34",
+          "_type": "checkbox",
+          "label": "Water or gas pipes",
+          "name": "auto_name__34"
+        },
+        {
+          "_id": "page.broken-appliance-problem--checkboxes--checkbox.auto_name__35",
+          "_type": "checkbox",
+          "label": "Heaters or radiators",
+          "name": "auto_name__35"
+        }
+      ],
+      "legend": "Water, gas, electricity or heating is not working "
+    }
+  ],
+  "sectionHeading": "What kind of problem do you need help with?",
+  "show": {
+    "identifier": "auto_name__9",
+    "operator": "defined"
+  },
+  "url": "utility-problem"
+}

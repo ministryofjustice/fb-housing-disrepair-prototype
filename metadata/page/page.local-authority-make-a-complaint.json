@@ -8,9 +8,9 @@
       "html": "We will teach you the ins and outs of proceeding against your Evil Landlord, beware though, this will be no easy peasy path, you will be daunted by the dark forces within the deep deep legal environment health system."
     }
   ],
-  "heading": "Local Authority: Make a Complaint about Landlord",
+  "heading": "Local Authority: Make a Complaint about Landlord under environmental health act",
   "show": {
-    "identifier": "auto_name__21",
+    "identifier": "auto_name__15",
     "operator": "defined"
   },
   "url": "local-authority-make-a-complaint"

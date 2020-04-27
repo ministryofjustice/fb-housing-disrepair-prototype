@@ -1,0 +1,8 @@
+{
+  "_id": "page.cya-test",
+  "_type": "page.summary",
+  "actionType": "confirm",
+  "sendBody": "",
+  "sendHeading": "",
+  "url": "cya-test"
+}

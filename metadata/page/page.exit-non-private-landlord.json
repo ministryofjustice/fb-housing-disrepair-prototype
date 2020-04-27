@@ -1,0 +1,13 @@
+{
+  "_id": "page.exit-non-private-landlord",
+  "_type": "page.content",
+  "body": "You may be able to find information here: ",
+  "heading": "Sorry, you’re not able to use this checker ",
+  "lede": "It is only for people renting from a private landlord at the moment. ",
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "auto_value__4"
+  },
+  "url": "exit-non-private-landlord"
+}

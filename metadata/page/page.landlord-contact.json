@@ -1,0 +1,36 @@
+{
+  "_id": "page.landlord-contact",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.landlord-contact--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__21",
+          "_type": "checkbox",
+          "label": "Spoken to the landlord - in person or over the phone",
+          "name": "auto_name__21"
+        },
+        {
+          "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__43",
+          "_type": "checkbox",
+          "label": "Written a letter to the landlord",
+          "name": "auto_name__43"
+        },
+        {
+          "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__44",
+          "_type": "checkbox",
+          "label": "Written more than 3 letters to the landlord",
+          "name": "auto_name__44"
+        }
+      ],
+      "legend": "How did you tell the landlord?"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__18",
+    "operator": "defined"
+  },
+  "url": "landlord-contact"
+}

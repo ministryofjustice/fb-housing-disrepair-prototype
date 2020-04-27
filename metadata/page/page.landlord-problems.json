@@ -1,0 +1,38 @@
+{
+  "_id": "page.landlord-problems",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.landlord-problems--checkboxes",
+      "_type": "checkboxes",
+      "hint": "Select as many problem areas as apply. You will be asked about your contact with the landlord later on.  \r\n",
+      "items": [
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.landlord-problems--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "label": "Landlord is entering your home without notice ",
+          "name": "auto_name__4"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.landlord-problems--checkboxes--checkbox.auto_name__29",
+          "_type": "checkbox",
+          "label": "Landlord is being abusive or threatening eviction",
+          "name": "auto_name__29"
+        }
+      ],
+      "legend": "Problem with the landlord"
+    }
+  ],
+  "sectionHeading": "What kind of problem do you need help with?",
+  "show": {
+    "identifier": "auto_name__14",
+    "operator": "defined"
+  },
+  "url": "landlord-problems"
+}

@@ -8,49 +8,70 @@
       "hint": "Select all that apply",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.what-is-the-problem-with-your-housing--checkboxes--checkbox.auto_name__8",
           "_type": "checkbox",
-          "label": "There's a fire hazard",
+          "label": "Boiler or other appliance is broken, e.g. washing machine ",
           "name": "auto_name__8"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.what-is-the-problem-with-your-housing--checkboxes--checkbox.auto_name__9",
           "_type": "checkbox",
-          "label": "There's an infestation",
+          "label": "Water, gas or heating is not working ",
           "name": "auto_name__9"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.what-is-the-problem-with-your-housing--checkboxes--checkbox.auto_name__10",
           "_type": "checkbox",
-          "label": "There's damp or mould that is causing a health problem",
+          "label": "Outside doors or windows need repair ",
           "name": "auto_name__10"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.what-is-the-problem-with-your-housing--checkboxes--checkbox.auto_name__11",
           "_type": "checkbox",
-          "label": "It's cold and the boiler is broken",
+          "label": " Mice or other pests are causing a problem",
           "name": "auto_name__11"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.what-is-the-problem-with-your-housing--checkboxes--checkbox.auto_name__12",
           "_type": "checkbox",
-          "label": "There's a problem with water supply",
+          "label": "Damp or mould is growing inside ",
           "name": "auto_name__12"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.what-is-the-problem-with-your-housing--checkboxes--checkbox.auto_name__13",
           "_type": "checkbox",
-          "label": "Landlord is being abusive",
+          "label": "Faulty smoke detectors, fire doors or obstructions causing a fire hazard ",
           "name": "auto_name__13"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.what-is-the-problem-with-your-housing--checkboxes--checkbox.auto_name__14",
           "_type": "checkbox",
-          "label": "The landlord is entering without notice or permission",
+          "label": "Problem with the landlord",
           "name": "auto_name__14"
         }
       ],
-      "legend": "What is the problem with your housing?"
+      "legend": "What kind of problem do you need help with?"
     }
   ],
   "url": "what-is-the-problem-with-your-housing"
