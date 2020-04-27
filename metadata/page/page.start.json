@@ -15,7 +15,9 @@
     "page.are-you-renting-in-england-or-wales",
     "page.not-within-england-or-wales",
     "page.are-you-renting-from-private-landlord",
+    "page.exit-non-private-landlord",
     "page.are-you-living-with-landlord",
+    "page.exit-living-with-landlord",
     "page.are-you--at-risk-of-being-homeless",
     "page.urgency-risk-of-being-homeless",
     "page.are-you-about-to-go-to-court",
@@ -23,14 +25,20 @@
     "page.have-you-stopped-paying-rent",
     "page.urgency-stopped-paying-rent",
     "page.what-is-the-problem-with-your-housing",
-    "page.checked-all-the-boxes",
+    "page.broken-appliance-problem",
+    "page.doors-windows-problem",
+    "page.fire-hazard-probem",
+    "page.landlord-problems",
     "page.what-steps-have-you-taken-so-far",
+    "page.landlord-contact",
+    "page.how-fixed-problem",
     "page.local-authority-make-a-complaint",
-    "page.what-to-do-now",
+    "page.local-authority",
     "page.court-have-you-tried-mediation",
     "page.court-are-you-in-time",
     "page.court-what-steps-have-you-taken",
-    "page.court-info-what-to-do-now"
+    "page.cya-test",
+    "page.what-to-do-now"
   ],
   "url": "/"
 }

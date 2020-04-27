@@ -1,0 +1,37 @@
+{
+  "_id": "page.doors-windows-problem",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.doors-windows-problem--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.doors-windows-problem--checkboxes--checkbox.auto_name__30",
+          "_type": "checkbox",
+          "label": "Locks on doors not working",
+          "name": "auto_name__30"
+        },
+        {
+          "_id": "page.doors-windows-problem--checkboxes--checkbox.auto_name__38",
+          "_type": "checkbox",
+          "label": "Broken windows or doors ",
+          "name": "auto_name__38"
+        },
+        {
+          "_id": "page.doors-windows-problem--checkboxes--checkbox.auto_name__39",
+          "_type": "checkbox",
+          "label": " Doors or windows won’t open or close ",
+          "name": "auto_name__39"
+        }
+      ],
+      "legend": "Outside doors or windows need repair"
+    }
+  ],
+  "sectionHeading": "What kind of problem do you need help with?",
+  "show": {
+    "identifier": "auto_name__10",
+    "operator": "defined"
+  },
+  "url": "doors-windows-problem"
+}

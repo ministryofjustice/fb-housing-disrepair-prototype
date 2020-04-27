@@ -9,11 +9,6 @@
         {
           "_id": "page.are-you-renting-from-private-landlord--radios.auto_name__2--radio.auto_value__3",
           "_type": "radio",
-          "conditionalComponent": {
-            "_id": "page.are-you-renting-from-private-landlord--radios.auto_name__2--radio.auto_value__3--radios.auto_name__4",
-            "_type": "radios",
-            "name": "auto_name__4"
-          },
           "label": "Yes",
           "value": "auto_value__3"
         },
@@ -24,7 +19,7 @@
           "value": "auto_value__4"
         }
       ],
-      "legend": "Are you renting from a private landlord?",
+      "legend": "Are you renting your home from a private landlord?",
       "name": "auto_name__2"
     }
   ],

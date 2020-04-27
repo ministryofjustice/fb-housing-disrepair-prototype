@@ -3,47 +3,12 @@
   "_type": "page.content",
   "components": [
     {
-      "_id": "page.what-to-do-now--details",
-      "_type": "details",
-      "html": "You should contact the Local Authority",
-      "show": {
-        "identifier": "auto_name__17",
-        "negated": true,
-        "operator": "defined"
-      }
-    },
-    {
-      "_id": "page.what-to-do-now--details--2",
-      "_type": "details",
-      "html": "Well done on you, good scout!",
-      "show": {
-        "identifier": "auto_name__19",
-        "operator": "defined"
-      }
-    },
-    {
-      "_id": "page.what-to-do-now--details--3",
-      "_type": "details",
-      "html": "You definitely should write your landlord a love letter.",
-      "show": {
-        "identifier": "auto_name__16",
-        "negated": true,
-        "operator": "defined"
-      }
-    },
-    {
-      "_id": "page.what-to-do-now--details--4",
-      "_type": "details",
-      "html": "Call the po po!",
-      "show": {
-        "identifier": "auto_name__13",
-        "operator": "defined"
-      }
-    },
-    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content",
       "_type": "content",
-      "html": "You should contact the police now.",
+      "html": "**There’s a problem with water, gas, electricity or heating not working**",
       "show": {
         "identifier": "auto_name__18",
         "negated": true,
@@ -51,8 +16,12 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content--2",
       "_type": "content",
+      "html": "It is your landlord’s responsibility to maintain heaters and radiators. ",
       "show": {
         "all": [
           {
@@ -68,8 +37,117 @@
         ],
         "conditionsType": "all"
       }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--3",
+      "_type": "content",
+      "html": "**Damp or mould is growing inside**",
+      "show": {
+        "identifier": "appliance",
+        "operator": "defined"
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--table",
+      "_type": "table"
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--4",
+      "_type": "content",
+      "html": "It is your landlord’s responsibility to make sure your home is free of damp or mould \r\n\r\n[https://england.shelter.org.uk/housing_advice/repairs/damp_and_mould_in_rented_homes](https://england.shelter.org.uk/housing_advice/repairs/damp_and_mould_in_rented_homes)\r\n\r\n"
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--5",
+      "_type": "content",
+      "html": "**There’s a problem with faulty smoke detectors, fire doors or obstructions causing a fire hazard**"
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--6",
+      "_type": "content",
+      "html": "It is your landlord’s responsibility to maintain access in and out of the home and address fire hazards. "
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--7",
+      "_type": "content",
+      "html": "* Check"
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--8",
+      "_type": "content",
+      "html": "* Check"
+    },
+    {
+      "_id": "page.what-to-do-now--content--9",
+      "_type": "content",
+      "html": "**You tried to fix the problem**"
+    },
+    {
+      "_id": "page.what-to-do-now--content--10",
+      "_type": "content",
+      "html": "You should only try to fix minor problems. \r\n\r\nYou are responsible for the quality of any repair work you do"
+    },
+    {
+      "_id": "page.what-to-do-now--content--11",
+      "_type": "content",
+      "html": "**You have spoken to the landlord**"
+    },
+    {
+      "_id": "page.what-to-do-now--content--12",
+      "_type": "content",
+      "html": "## What you need to do now ##"
+    },
+    {
+      "_id": "page.what-to-do-now--content--13",
+      "_type": "content",
+      "html": "Write a letter to your landlord. You can (use this template). Keep a copy of the letter and the date you sent it.\r\n\r\nMore about contacting your landlord: [https://england.shelter.org.uk/housing_advice/repairs/how_to_report_repairs_to_a_private_landlord](https://england.shelter.org.uk/housing_advice/repairs/how_to_report_repairs_to_a_private_landlord)"
+    },
+    {
+      "_id": "page.what-to-do-now--content--14",
+      "_type": "content",
+      "html": "As the problem may be affecting your health you could contact your local council. They may carry out an inspection and give  your landlord an order to carry out repairs so your home is fit for human habitation. \r\n\r\nFind your local council: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council)\r\n\r\nMore about contacting your local council: [https://england.shelter.org.uk/housing_advice/repairs/complain_to_environmental_health_about_rented_housing](https://england.shelter.org.uk/housing_advice/repairs/complain_to_environmental_health_about_rented_housing)"
+    },
+    {
+      "_id": "page.what-to-do-now--content--15",
+      "_type": "content",
+      "html": "Keep records and evidence of the repair problem. This will help if you need to take further action. This can include:\r\n\r\n* photos of the problem and any damage to your belongings\r\n* emails, texts and letters to and from your landlord\r\n* doctor’s notes if your health is affected"
+    },
+    {
+      "_id": "page.what-to-do-now--content--16",
+      "_type": "content",
+      "html": "## What you could do in the future ##"
+    },
+    {
+      "_id": "page.what-to-do-now--content--17",
+      "_type": "content",
+      "html": "Organise repair work to be carried out. If you have written to your landlord [x3?] times and not had any response, you could consider organising the work yourself: \r\n\r\nSee more about organising repair work: [https://england.shelter.org.uk/housing_advice/repairs/doing_the_repairs_if_your_landlord_wont](https://england.shelter.org.uk/housing_advice/repairs/doing_the_repairs_if_your_landlord_wont)"
+    },
+    {
+      "_id": "page.what-to-do-now--content--18",
+      "_type": "content",
+      "html": "Consider taking your landlord to court. You should only consider this if you have not been able to fix the problem in any other way. \r\n\r\nSee more about taking your landlord to court: [https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs](https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs)"
     }
   ],
-  "heading": "INFO: What to do now?",
+  "heading": "What you've told us",
   "url": "what-to-do-now"
 }

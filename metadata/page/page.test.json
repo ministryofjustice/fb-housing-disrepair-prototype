@@ -1,0 +1,19 @@
+{
+  "_id": "page.test",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.test--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.test--checkboxes--checkbox.auto_name__28",
+          "_type": "checkbox",
+          "name": "auto_name__28"
+        }
+      ],
+      "legend": "What kind of problem do you need help with? "
+    }
+  ],
+  "url": "test"
+}

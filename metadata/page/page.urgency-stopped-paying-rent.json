@@ -1,7 +1,7 @@
 {
   "_id": "page.urgency-stopped-paying-rent",
   "_type": "page.exit",
-  "heading": "Urgency: Stopped paying rent",
+  "heading": "You’ve said you’ve stopped paying rent",
   "show": {
     "identifier": "auto_name__7",
     "operator": "is",

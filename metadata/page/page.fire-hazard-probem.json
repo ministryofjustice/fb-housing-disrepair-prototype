@@ -1,0 +1,37 @@
+{
+  "_id": "page.fire-hazard-probem",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.fire-hazard-probem--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.fire-hazard-probem--checkboxes--checkbox.auto_name__40",
+          "_type": "checkbox",
+          "label": "Access in or out of home is blocked",
+          "name": "auto_name__40"
+        },
+        {
+          "_id": "page.fire-hazard-probem--checkboxes--checkbox.auto_name__41",
+          "_type": "checkbox",
+          "label": "Smoke or carbon monoxide detector not working",
+          "name": "auto_name__41"
+        },
+        {
+          "_id": "page.fire-hazard-probem--checkboxes--checkbox.auto_name__42",
+          "_type": "checkbox",
+          "label": "Fire hazard identified",
+          "name": "auto_name__42"
+        }
+      ],
+      "legend": "Faulty smoke detectors, fire doors or obstructions causing a fire hazard "
+    }
+  ],
+  "sectionHeading": "What kind of problem do you need help with?",
+  "show": {
+    "identifier": "auto_name__13",
+    "operator": "defined"
+  },
+  "url": "fire-hazard-probem"
+}

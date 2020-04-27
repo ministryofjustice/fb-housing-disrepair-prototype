@@ -5,6 +5,7 @@
     {
       "_id": "page.are-you--at-risk-of-being-homeless--radios.auto_name__5",
       "_type": "radios",
+      "hint": "Your landlord may be trying to evict you.",
       "items": [
         {
           "_id": "page.are-you--at-risk-of-being-homeless--radios.auto_name__5--radio.auto_value__1",
@@ -23,5 +24,6 @@
       "name": "auto_name__5"
     }
   ],
+  "show": true,
   "url": "are-you--at-risk-of-being-homeless"
 }

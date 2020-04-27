@@ -1,0 +1,31 @@
+{
+  "_id": "page.local-authority",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.local-authority--radios.auto_name__32",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.local-authority--radios.auto_name__32--radio.auto_value__9",
+          "_type": "radio",
+          "label": "Example option 1",
+          "value": "auto_value__9"
+        },
+        {
+          "_id": "page.local-authority--radios.auto_name__32--radio.auto_value__9--2",
+          "_type": "radio",
+          "label": "Example option 2",
+          "value": "auto_value__9"
+        }
+      ],
+      "legend": "[Considering court route]",
+      "name": "auto_name__32"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__19",
+    "operator": "defined"
+  },
+  "url": "local-authority"
+}

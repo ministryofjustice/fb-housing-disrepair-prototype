@@ -8,49 +8,62 @@
       "hint": "Select all that apply",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.what-steps-have-you-taken-so-far--checkboxes--checkbox.auto_name__15",
           "_type": "checkbox",
-          "label": "Told the landlord in person or by phone",
+          "label": "Contacted your Local Authority",
           "name": "auto_name__15"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.what-steps-have-you-taken-so-far--checkboxes--checkbox.auto_name__16",
           "_type": "checkbox",
-          "label": "Written a letter to the landlord",
+          "label": "Documented and taken pictures of the problem",
           "name": "auto_name__16"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.what-steps-have-you-taken-so-far--checkboxes--checkbox.auto_name__17",
           "_type": "checkbox",
-          "label": "Contacted the Local Authority",
+          "label": "Tried to fix the problem(s) yourself",
           "name": "auto_name__17"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.what-steps-have-you-taken-so-far--checkboxes--checkbox.auto_name__18",
           "_type": "checkbox",
-          "label": "Contacted the police",
-          "name": "auto_name__18"
+          "label": "Told the landlord",
+          "name": "auto_name__18",
+          "show": true
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.what-steps-have-you-taken-so-far--checkboxes--checkbox.auto_name__19",
           "_type": "checkbox",
-          "label": "Fixed the problem and now want compensation",
+          "label": "Considering taking legal action",
           "name": "auto_name__19"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.what-steps-have-you-taken-so-far--checkboxes--checkbox.auto_name__20",
           "_type": "checkbox",
-          "label": "Considering making a court claim",
+          "label": "Have not contacted landlord as not sure who they are ",
           "name": "auto_name__20"
-        },
-        {
-          "_id": "page.what-steps-have-you-taken-so-far--checkboxes--checkbox.auto_name__21",
-          "_type": "checkbox",
-          "label": "Considering making a complaint under environmental health act",
-          "name": "auto_name__21"
         }
       ],
-      "legend": "What steps have you taken so far?"
+      "legend": "What steps have you taken to resolve the problem?"
     }
   ],
   "url": "what-steps-have-you-taken-so-far"
