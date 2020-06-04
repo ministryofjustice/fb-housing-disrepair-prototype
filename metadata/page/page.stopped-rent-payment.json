@@ -1,0 +1,13 @@
+{
+  "_id": "page.stopped-rent-payment",
+  "_type": "page.content",
+  "body": "[Continue](/what-is-the-problem-with-your-housing)",
+  "heading": "Stopping rent payments or taking money from your rent is very rarely advised",
+  "lede": "You can end up in a more difficult situation. ",
+  "show": {
+    "identifier": "auto_name__7",
+    "operator": "is",
+    "value": "auto_value__7"
+  },
+  "url": "stopped-rent-payment"
+}

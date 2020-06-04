@@ -1,0 +1,37 @@
+{
+  "_id": "page.water-leak-or-plumbing",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.water-leak-or-plumbing--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.water-leak-or-plumbing--checkboxes--checkbox.auto_name__27",
+          "_type": "checkbox",
+          "label": "Water is coming in to the property from  outside ",
+          "name": "auto_name__27"
+        },
+        {
+          "_id": "page.water-leak-or-plumbing--checkboxes--checkbox.auto_name__31",
+          "_type": "checkbox",
+          "label": "There is a leak inside",
+          "name": "auto_name__31"
+        },
+        {
+          "_id": "page.water-leak-or-plumbing--checkboxes--checkbox.auto_name__49",
+          "_type": "checkbox",
+          "label": "Toilet is not working",
+          "name": "auto_name__49"
+        }
+      ],
+      "legend": "Water leak (inside or outside), sinks, baths, toilets, pipes and drains"
+    }
+  ],
+  "sectionHeading": "What is the problem with your housing?",
+  "show": {
+    "identifier": "auto_name__6",
+    "operator": "defined"
+  },
+  "url": "water-leak-or-plumbing"
+}

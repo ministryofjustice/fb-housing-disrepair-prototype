@@ -13,17 +13,8 @@
           "$option": true,
           "_id": "page.what-is-the-problem-with-your-housing--checkboxes--checkbox.auto_name__8",
           "_type": "checkbox",
-          "label": "Boiler or other appliance is broken, e.g. washing machine ",
+          "label": "Gas, electricity, boiler, heating or hot water supply is not working",
           "name": "auto_name__8"
-        },
-        {
-          "$component": true,
-          "$definition": true,
-          "$option": true,
-          "_id": "page.what-is-the-problem-with-your-housing--checkboxes--checkbox.auto_name__9",
-          "_type": "checkbox",
-          "label": "Water, gas or heating is not working ",
-          "name": "auto_name__9"
         },
         {
           "$component": true,
@@ -31,7 +22,7 @@
           "$option": true,
           "_id": "page.what-is-the-problem-with-your-housing--checkboxes--checkbox.auto_name__10",
           "_type": "checkbox",
-          "label": "Outside doors or windows need repair ",
+          "label": "Outside doors, walls, roof or windows need repair",
           "name": "auto_name__10"
         },
         {
@@ -67,11 +58,17 @@
           "$option": true,
           "_id": "page.what-is-the-problem-with-your-housing--checkboxes--checkbox.auto_name__14",
           "_type": "checkbox",
-          "label": "Problem with the landlord",
+          "label": "Faulty or missing appliance e.g. washing machine",
           "name": "auto_name__14"
+        },
+        {
+          "_id": "page.what-is-the-problem-with-your-housing--checkboxes--checkbox.auto_name__6",
+          "_type": "checkbox",
+          "label": "Water leak (inside or outside), sinks, baths, toilets, pipes and drains",
+          "name": "auto_name__6"
         }
       ],
-      "legend": "What kind of problem do you need help with?"
+      "legend": "What is the problem with your housing?"
     }
   ],
   "url": "what-is-the-problem-with-your-housing"

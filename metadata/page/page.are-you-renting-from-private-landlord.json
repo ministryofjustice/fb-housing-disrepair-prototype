@@ -5,6 +5,7 @@
     {
       "_id": "page.are-you-renting-from-private-landlord--radios.auto_name__2",
       "_type": "radios",
+      "hint": "This does not include council or housing association accommodation.",
       "items": [
         {
           "_id": "page.are-you-renting-from-private-landlord--radios.auto_name__2--radio.auto_value__3",
@@ -19,7 +20,7 @@
           "value": "auto_value__4"
         }
       ],
-      "legend": "Are you renting your home from a private landlord?",
+      "legend": "Do you live in a private flat or house?",
       "name": "auto_name__2"
     }
   ],

@@ -1,0 +1,31 @@
+{
+  "_id": "page.damp-mould",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.damp-mould--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.damp-mould--checkboxes--checkbox.auto_name__24",
+          "_type": "checkbox",
+          "label": "Damp is causing a health problem or aggravating an existing problem ",
+          "name": "auto_name__24"
+        },
+        {
+          "_id": "page.damp-mould--checkboxes--checkbox.auto_name__25",
+          "_type": "checkbox",
+          "label": "There is inadequate ventilation   ",
+          "name": "auto_name__25"
+        }
+      ],
+      "legend": "Damp or mould is growing inside"
+    }
+  ],
+  "sectionHeading": "What is the problem with your housing?",
+  "show": {
+    "identifier": "auto_name__12",
+    "operator": "defined"
+  },
+  "url": "damp-mould"
+}
