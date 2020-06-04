@@ -1,26 +1,26 @@
 {
-  "_id": "page.local-authority",
+  "_id": "page.la-informal-inspection",
   "_type": "page.singlequestion",
   "components": [
     {
-      "_id": "page.local-authority--radios.auto_name__32",
+      "_id": "page.la-informal-inspection--radios.auto_name__9",
       "_type": "radios",
       "items": [
         {
-          "_id": "page.local-authority--radios.auto_name__32--radio.auto_value__9",
+          "_id": "page.la-informal-inspection--radios.auto_name__9--radio.auto_value__9",
           "_type": "radio",
           "label": "Yes",
           "value": "auto_value__9"
         },
         {
-          "_id": "page.local-authority--radios.auto_name__32--radio.auto_value__9--2",
+          "_id": "page.la-informal-inspection--radios.auto_name__9--radio.auto_value__9--2",
           "_type": "radio",
           "label": "No",
           "value": "auto_value__9"
         }
       ],
       "legend": "Have you contacted the local council?",
-      "name": "auto_name__32"
+      "name": "auto_name__9"
     }
   ],
   "enableSteps": true,
@@ -37,12 +37,12 @@
         "operator": "defined"
       },
       {
-        "identifier": "auto_name__27",
+        "identifier": "auto_name__31",
         "negated": true,
         "operator": "defined"
       },
       {
-        "identifier": "auto_name__31",
+        "identifier": "auto_name__27",
         "negated": true,
         "operator": "defined"
       },
@@ -57,10 +57,8 @@
     ]
   },
   "steps": [
-    "page.inspection",
-    "page.problem-significantly-changed--2",
-    "page.check-answers-local-council",
-    "page.results"
+    "page.la-formal-inspection--2",
+    "page.contacted-local-council"
   ],
-  "url": "local-council"
+  "url": "contacted-local-council"
 }

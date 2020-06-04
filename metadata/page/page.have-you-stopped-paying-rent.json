@@ -5,7 +5,7 @@
     {
       "_id": "page.have-you-stopped-paying-rent--radios.auto_name__7",
       "_type": "radios",
-      "hint": "This may be because your landlord has not attempted to fix a problem in your home. ",
+      "hint": "This may be because your landlord has not responded to a problem in your home.",
       "items": [
         {
           "_id": "page.have-you-stopped-paying-rent--radios.auto_name__7--radio.auto_value__7",

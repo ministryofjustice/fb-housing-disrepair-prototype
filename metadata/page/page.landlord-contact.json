@@ -9,23 +9,53 @@
         {
           "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__21",
           "_type": "checkbox",
-          "label": "Spoken to the landlord - in person or over the phone",
+          "label": "Not sure who the landlord is",
           "name": "auto_name__21"
         },
         {
           "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__43",
           "_type": "checkbox",
-          "label": "Written a letter to the landlord",
+          "label": "Not had any contact with the landlord",
           "name": "auto_name__43"
         },
         {
           "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__44",
           "_type": "checkbox",
-          "label": "Written more than 3 letters to the landlord",
+          "label": "Worried about telling the landlord as they may retaliate",
           "name": "auto_name__44"
+        },
+        {
+          "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "label": "Told the landlord in person or by phone",
+          "name": "auto_name__4"
+        },
+        {
+          "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__15",
+          "_type": "checkbox",
+          "label": "Written a letter to the landlord",
+          "name": "auto_name__15"
+        },
+        {
+          "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__16",
+          "_type": "checkbox",
+          "label": "The landlord has not replied to requests to make repairs ",
+          "name": "auto_name__16"
+        },
+        {
+          "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__17",
+          "_type": "checkbox",
+          "label": "Landlord is entering your home without notice",
+          "name": "auto_name__17"
+        },
+        {
+          "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__18",
+          "_type": "checkbox",
+          "label": "Landlord is being abusive or threatening eviction ",
+          "name": "auto_name__18"
         }
       ],
-      "legend": "How did you tell the landlord?"
+      "legend": "Interaction with landlord"
     }
   ],
   "show": {

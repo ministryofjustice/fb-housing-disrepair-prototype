@@ -5,6 +5,7 @@
     {
       "_id": "page.are-you-living-with-landlord--radios.auto_name__3",
       "_type": "radios",
+      "hint": "You will probably have an assured shorthold tenancy if you pay rent to a private individual or company.",
       "items": [
         {
           "_id": "page.are-you-living-with-landlord--radios.auto_name__3--radio.auto_value__5",
@@ -19,10 +20,10 @@
           "value": "0"
         }
       ],
-      "legend": "Are you living with your landlord?",
+      "legend": "Do you pay rent to a landlord or letting agent?",
       "name": "auto_name__3"
     }
   ],
   "show": true,
-  "url": "are-you-living-with-landlord"
+  "url": "rent-payment"
 }

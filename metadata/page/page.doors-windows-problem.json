@@ -9,7 +9,7 @@
         {
           "_id": "page.doors-windows-problem--checkboxes--checkbox.auto_name__30",
           "_type": "checkbox",
-          "label": "Locks on doors not working",
+          "label": "There is a major structural problem ",
           "name": "auto_name__30"
         },
         {
@@ -23,9 +23,21 @@
           "_type": "checkbox",
           "label": " Doors or windows won’t open or close ",
           "name": "auto_name__39"
+        },
+        {
+          "_id": "page.doors-windows-problem--checkboxes--checkbox.auto_name__22",
+          "_type": "checkbox",
+          "label": "Locks on doors not working",
+          "name": "auto_name__22"
+        },
+        {
+          "_id": "page.doors-windows-problem--checkboxes--checkbox.auto_name__23",
+          "_type": "checkbox",
+          "label": "Stairs, bannisters or other  shared common areas need repair  ",
+          "name": "auto_name__23"
         }
       ],
-      "legend": "Outside doors or windows need repair"
+      "legend": "Outside doors, walls, roof or windows need repair"
     }
   ],
   "sectionHeading": "What kind of problem do you need help with?",

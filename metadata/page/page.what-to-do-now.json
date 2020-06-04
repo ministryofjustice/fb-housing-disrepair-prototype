@@ -8,7 +8,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content",
       "_type": "content",
-      "html": "**There’s a problem with water, gas, electricity or heating not working**",
+      "html": "## Damp or mould is growing inside ##\r\n\r\n### Damp is causing a health problem or aggravating an existing problem ### \r\n\r\n#### As the problem is affecting your health ####\r\n\r\nIf damp or mould is affecting your health, make sure you see a doctor or other health professional. You should ask them to write a letter about how your housing conditions may be affecting your health. \r\n\r\nThis could help you get the problem addressed more quickly.  \r\n\r\n#### Check what kind of damp it is, and who is responsible ####\r\n\r\nIt's not always easy to work out if your landlord is responsible for resolving problems with damp. This is because it can be difficult to find the exact cause of damp without the help of a surveyor, unless, it's obvious, such as a leaking roof.\r\n\r\nhttps://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/\r\n\r\n### There is inadequate ventilaton ###\r\n\r\n#### Make sure you are not making the problem worse ####\r\n\r\nYou should make sure you are not contributing to the problem of inadequate ventilation. For example by drying clothes on radiators without opening windows, or not using the extractor fan after a shower. \r\n\r\n#### Check what kind of damp it is, and who is responsible ####\r\n\r\nIt's not always easy to work out if your landlord is responsible for resolving problems with damp. This is because it can be difficult to find the exact cause of damp without the help of a surveyor, unless, it's obvious, such as a leaking roof.\r\n\r\nhttps://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/\"\r\n\r\n## Gas, electricity, boiler, heating or hot water supply is not working ##\r\n### Boiler ###\r\n\r\n**Excess cold** - threats to health from sub-optimal indoor temperatures - is included in the Housing Health and Safety Rating system: https://www.gov.uk/government/publications/hhsrs-operating-guidance-housing-act-2004-guidance-about-inspections-and-assessment-of-hazards-given-under-section-9\r\n\r\n**Excess heat** - threats to health from excessively high indoor air temperatures - is included in the Housing Health and Safety Rating system: https://www.gov.uk/government/publications/hhsrs-operating-guidance-housing-act-2004-guidance-about-inspections-and-assessment-of-hazards-given-under-section-9\r\n\r\n## Take pictures and keep a record of what's happened so far ##\r\n\r\nIt may help to document the problem with photos. You should also make sure you keep all copies of letters you send, as well as any text messages or emails. \r\n\r\nIf you talk to your landlord or the local council on the phone, make a note of the date and time of the call and what you spoke about. If you speak to someone at the council, make a note of their name. \r\n\r\n",
       "show": {
         "identifier": "auto_name__18",
         "negated": true,
@@ -19,51 +19,9 @@
       "$component": true,
       "$content": true,
       "$definition": true,
-      "_id": "page.what-to-do-now--content--2",
-      "_type": "content",
-      "html": "It is your landlord’s responsibility to maintain heaters and radiators. ",
-      "show": {
-        "all": [
-          {
-            "identifier": "auto_name__17",
-            "negated": true,
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__8",
-            "negated": true,
-            "operator": "defined"
-          }
-        ],
-        "conditionsType": "all"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--3",
-      "_type": "content",
-      "html": "**Damp or mould is growing inside**",
-      "show": {
-        "identifier": "appliance",
-        "operator": "defined"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
       "_id": "page.what-to-do-now--table",
-      "_type": "table"
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--4",
-      "_type": "content",
-      "html": "It is your landlord’s responsibility to make sure your home is free of damp or mould \r\n\r\n[https://england.shelter.org.uk/housing_advice/repairs/damp_and_mould_in_rented_homes](https://england.shelter.org.uk/housing_advice/repairs/damp_and_mould_in_rented_homes)\r\n\r\n"
+      "_type": "table",
+      "rows": ""
     },
     {
       "$component": true,
@@ -71,7 +29,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--5",
       "_type": "content",
-      "html": "**There’s a problem with faulty smoke detectors, fire doors or obstructions causing a fire hazard**"
+      "html": "## Now ##\r\n\r\nCheck that you have left a reasonable amount of time for your landlord to reply to you. As a general guide, this is XX days. \r\n\r\nIf you have waited a reasonable amount of time, you should write to your landlord again to tell them you will contact your loal council for help with fixing the problem.\r\n\r\nYou an use this (letter template). \r\n\r\nInclude: \r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. "
     },
     {
       "$component": true,
@@ -79,75 +37,9 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--6",
       "_type": "content",
-      "html": "It is your landlord’s responsibility to maintain access in and out of the home and address fire hazards. "
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--7",
-      "_type": "content",
-      "html": "* Check"
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--8",
-      "_type": "content",
-      "html": "* Check"
-    },
-    {
-      "_id": "page.what-to-do-now--content--9",
-      "_type": "content",
-      "html": "**You tried to fix the problem**"
-    },
-    {
-      "_id": "page.what-to-do-now--content--10",
-      "_type": "content",
-      "html": "You should only try to fix minor problems. \r\n\r\nYou are responsible for the quality of any repair work you do"
-    },
-    {
-      "_id": "page.what-to-do-now--content--11",
-      "_type": "content",
-      "html": "**You have spoken to the landlord**"
-    },
-    {
-      "_id": "page.what-to-do-now--content--12",
-      "_type": "content",
-      "html": "## What you need to do now ##"
-    },
-    {
-      "_id": "page.what-to-do-now--content--13",
-      "_type": "content",
-      "html": "Write a letter to your landlord. You can (use this template). Keep a copy of the letter and the date you sent it.\r\n\r\nMore about contacting your landlord: [https://england.shelter.org.uk/housing_advice/repairs/how_to_report_repairs_to_a_private_landlord](https://england.shelter.org.uk/housing_advice/repairs/how_to_report_repairs_to_a_private_landlord)"
-    },
-    {
-      "_id": "page.what-to-do-now--content--14",
-      "_type": "content",
-      "html": "As the problem may be affecting your health you could contact your local council. They may carry out an inspection and give  your landlord an order to carry out repairs so your home is fit for human habitation. \r\n\r\nFind your local council: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council)\r\n\r\nMore about contacting your local council: [https://england.shelter.org.uk/housing_advice/repairs/complain_to_environmental_health_about_rented_housing](https://england.shelter.org.uk/housing_advice/repairs/complain_to_environmental_health_about_rented_housing)"
-    },
-    {
-      "_id": "page.what-to-do-now--content--15",
-      "_type": "content",
-      "html": "Keep records and evidence of the repair problem. This will help if you need to take further action. This can include:\r\n\r\n* photos of the problem and any damage to your belongings\r\n* emails, texts and letters to and from your landlord\r\n* doctor’s notes if your health is affected"
-    },
-    {
-      "_id": "page.what-to-do-now--content--16",
-      "_type": "content",
-      "html": "## What you could do in the future ##"
-    },
-    {
-      "_id": "page.what-to-do-now--content--17",
-      "_type": "content",
-      "html": "Organise repair work to be carried out. If you have written to your landlord [x3?] times and not had any response, you could consider organising the work yourself: \r\n\r\nSee more about organising repair work: [https://england.shelter.org.uk/housing_advice/repairs/doing_the_repairs_if_your_landlord_wont](https://england.shelter.org.uk/housing_advice/repairs/doing_the_repairs_if_your_landlord_wont)"
-    },
-    {
-      "_id": "page.what-to-do-now--content--18",
-      "_type": "content",
-      "html": "Consider taking your landlord to court. You should only consider this if you have not been able to fix the problem in any other way. \r\n\r\nSee more about taking your landlord to court: [https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs](https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs)"
+      "html": "## Next ##\r\n\r\nYou should contact the housing team at your local council. They have an obligation to make sure that tenants are living in properties that are looked after by landlords, and kept in a reasonable state of repair.\r\n\r\nYou can find your local council using this service: https://www.gov.uk/find-local-council\r\n\r\nDepending on how serious the problem is, the local council may: \r\n\r\n- contact you for more information \r\n- make an appointment to come and inspect your home \r\n- arrange for an 'environmental health' team to come and inspect your home \r\n\r\nYou can use this letter template for your letter to the council. Remember to include:\r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. "
     }
   ],
-  "heading": "What you've told us",
+  "heading": "[Results]",
   "url": "what-to-do-now"
 }
