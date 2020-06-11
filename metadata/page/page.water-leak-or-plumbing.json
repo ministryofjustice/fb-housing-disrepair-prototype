@@ -5,6 +5,7 @@
     {
       "_id": "page.water-leak-or-plumbing--checkboxes",
       "_type": "checkboxes",
+      "hint": "Your landlord has a responsibility to make sure that plumbing and drainage is working properly.\r\n\r\nIt is not always clear who is responsible for water damage associated with leaks, especially if the leak is coming from a neighbouring property.  \r\n\r\nSelect all that apply.",
       "items": [
         {
           "_id": "page.water-leak-or-plumbing--checkboxes--checkbox.auto_name__27",

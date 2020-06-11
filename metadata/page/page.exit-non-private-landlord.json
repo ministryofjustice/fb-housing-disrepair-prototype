@@ -1,6 +1,6 @@
 {
   "_id": "page.exit-non-private-landlord",
-  "_type": "page.content",
+  "_type": "page.exit",
   "body": "You may be able to find information here: ",
   "heading": "Sorry, you’re not able to use this checker ",
   "lede": "It's only for people who rent privately with an assured shorthold tenancy",

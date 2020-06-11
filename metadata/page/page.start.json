@@ -32,7 +32,9 @@
     "page.landlord-contact",
     "page.local-authority",
     "page.cya-test",
-    "page.what-to-do-now"
+    "page.what-to-do-now",
+    "page.what-to-do-next",
+    "page.what-to-do-later"
   ],
   "url": "/"
 }

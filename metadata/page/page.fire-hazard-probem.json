@@ -5,6 +5,7 @@
     {
       "_id": "page.fire-hazard-probem--checkboxes",
       "_type": "checkboxes",
+      "hint": "It is your landlord's responsibility to make sure the property has working smoke and carbon monoxide detectors. It must also be kept clear of any obstructions that could be a fire hazard.\r\n\r\nSelect all that apply.",
       "items": [
         {
           "_id": "page.fire-hazard-probem--checkboxes--checkbox.auto_name__40",
@@ -28,7 +29,7 @@
       "legend": "Faulty smoke detectors, fire doors or obstructions causing a fire hazard "
     }
   ],
-  "sectionHeading": "What kind of problem do you need help with?",
+  "sectionHeading": "What is the problem with your housing?",
   "show": {
     "identifier": "auto_name__13",
     "operator": "defined"

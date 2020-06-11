@@ -5,6 +5,7 @@
     {
       "_id": "page.doors-windows-problem--checkboxes",
       "_type": "checkboxes",
+      "hint": "It is your landlord's responsibility to make sure that your home can be kept secure, and the structure of the building is solid.\r\n\r\nSelect all that apply.",
       "items": [
         {
           "_id": "page.doors-windows-problem--checkboxes--checkbox.auto_name__30",
@@ -40,7 +41,7 @@
       "legend": "Outside doors, walls, roof or windows need repair"
     }
   ],
-  "sectionHeading": "What kind of problem do you need help with?",
+  "sectionHeading": "What is the problem with your housing?",
   "show": {
     "identifier": "auto_name__10",
     "operator": "defined"
