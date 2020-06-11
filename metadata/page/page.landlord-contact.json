@@ -58,9 +58,6 @@
       "legend": "Interaction with landlord"
     }
   ],
-  "show": {
-    "identifier": "auto_name__18",
-    "operator": "defined"
-  },
+  "show": true,
   "url": "landlord-contact"
 }

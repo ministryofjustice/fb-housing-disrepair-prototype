@@ -1,0 +1,35 @@
+{
+  "_id": "page.what-to-do-next",
+  "_type": "page.content",
+  "components": [
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-next--content--2",
+      "_type": "content",
+      "html": "## Contact your local council ##\r\n\r\nYou should contact the housing team at your local council. They have an obligation to make sure that tenants are living in properties that are looked after by landlords, and kept in a reasonable state of repair.\r\n\r\nYou can find your local council using this service: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council)\r\n\r\nDepending on how serious the problem is, the local council may: \r\n\r\n- contact you for more information \r\n- make an appointment to come and inspect your home \r\n- arrange for an 'environmental health' team to come and inspect your home \r\n\r\nYou can use this letter template for your letter to the council. Remember to include:\r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. "
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-next--content--3",
+      "_type": "content",
+      "html": "## If your home is inspected by the environmental health team ##\r\n\r\nYour local council's environmental health team may inspect your home. This could be an informal inspection to understand how serious the problem is, or it could be a more formal inspection using the 'Housing Health and Safety Rating System' (HHSRS). The HHSRS lists risks and hazards that may be caused by your repairs needing to be done in your home For more information see: [https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/asking-the-local-authority-for-help-with-repairs/local-authority-help-with-repairs-housing-health-and-safety-rating-system/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/asking-the-local-authority-for-help-with-repairs/local-authority-help-with-repairs-housing-health-and-safety-rating-system/)"
+    },
+    {
+      "_id": "page.what-to-do-next--content",
+      "_type": "content",
+      "html": "- The environmental health team will look for any hazards associated very cold or very hot living conditions."
+    },
+    {
+      "_id": "page.what-to-do-next--content--4",
+      "_type": "content",
+      "html": "- The environmental health team will assess threats to health from dust mites, mould and fungal growth, as well as any other problems caused by damp."
+    }
+  ],
+  "heading": "What to do next",
+  "lede": "Here are some ideas about what to do next.  ",
+  "url": "what-to-do-next"
+}

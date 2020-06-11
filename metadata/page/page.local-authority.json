@@ -59,8 +59,9 @@
   "steps": [
     "page.inspection",
     "page.problem-significantly-changed--2",
-    "page.check-answers-local-council",
-    "page.results"
+    "page.mediation",
+    "page.expert-evidence",
+    "page.legal-action"
   ],
   "url": "local-council"
 }

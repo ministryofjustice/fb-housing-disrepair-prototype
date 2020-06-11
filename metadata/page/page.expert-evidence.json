@@ -1,0 +1,28 @@
+{
+  "_id": "page.expert-evidence",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.expert-evidence--radios.auto_name__47",
+      "_type": "radios",
+      "hint": "A tenant will usually need expert evidence to support her/his claim. This could include the report of a surveyor or environmental health officer and, where appropriate, medical reports.",
+      "items": [
+        {
+          "_id": "page.expert-evidence--radios.auto_name__47--radio.auto_value__9",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__9"
+        },
+        {
+          "_id": "page.expert-evidence--radios.auto_name__47--radio.auto_value__9--2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__9"
+        }
+      ],
+      "legend": "Have you instructed an expert to gather evidence? ",
+      "name": "auto_name__47"
+    }
+  ],
+  "url": "expert-evidence"
+}

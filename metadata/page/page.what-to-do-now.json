@@ -8,7 +8,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content",
       "_type": "content",
-      "html": "## Damp or mould is growing inside ##\r\n\r\n### Damp is causing a health problem or aggravating an existing problem ### \r\n\r\n#### As the problem is affecting your health ####\r\n\r\nIf damp or mould is affecting your health, make sure you see a doctor or other health professional. You should ask them to write a letter about how your housing conditions may be affecting your health. \r\n\r\nThis could help you get the problem addressed more quickly.  \r\n\r\n#### Check what kind of damp it is, and who is responsible ####\r\n\r\nIt's not always easy to work out if your landlord is responsible for resolving problems with damp. This is because it can be difficult to find the exact cause of damp without the help of a surveyor, unless, it's obvious, such as a leaking roof.\r\n\r\nhttps://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/\r\n\r\n### There is inadequate ventilaton ###\r\n\r\n#### Make sure you are not making the problem worse ####\r\n\r\nYou should make sure you are not contributing to the problem of inadequate ventilation. For example by drying clothes on radiators without opening windows, or not using the extractor fan after a shower. \r\n\r\n#### Check what kind of damp it is, and who is responsible ####\r\n\r\nIt's not always easy to work out if your landlord is responsible for resolving problems with damp. This is because it can be difficult to find the exact cause of damp without the help of a surveyor, unless, it's obvious, such as a leaking roof.\r\n\r\nhttps://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/\"\r\n\r\n## Gas, electricity, boiler, heating or hot water supply is not working ##\r\n### Boiler ###\r\n\r\n**Excess cold** - threats to health from sub-optimal indoor temperatures - is included in the Housing Health and Safety Rating system: https://www.gov.uk/government/publications/hhsrs-operating-guidance-housing-act-2004-guidance-about-inspections-and-assessment-of-hazards-given-under-section-9\r\n\r\n**Excess heat** - threats to health from excessively high indoor air temperatures - is included in the Housing Health and Safety Rating system: https://www.gov.uk/government/publications/hhsrs-operating-guidance-housing-act-2004-guidance-about-inspections-and-assessment-of-hazards-given-under-section-9\r\n\r\n## Take pictures and keep a record of what's happened so far ##\r\n\r\nIt may help to document the problem with photos. You should also make sure you keep all copies of letters you send, as well as any text messages or emails. \r\n\r\nIf you talk to your landlord or the local council on the phone, make a note of the date and time of the call and what you spoke about. If you speak to someone at the council, make a note of their name. \r\n\r\n",
+      "html": "## As the damp problem is affecting your health ##\r\nIf damp or mould is affecting your health, make sure you see a doctor or other health professional. You should ask them to write a letter about how your housing conditions may be affecting your health. \r\n\r\nThis could help you get the problem addressed more quickly.  \r\n\r\n## Check what kind of damp it is to work out who is responsible ##\r\nIt's not always easy to work out if your landlord is responsible for resolving problems with damp. This is because it can be difficult to find the exact cause of damp without the help of a surveyor. Unless it's obvious, such as a leaking roof.\r\n\r\n[https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/)",
       "show": {
         "identifier": "auto_name__18",
         "negated": true,
@@ -29,17 +29,26 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--5",
       "_type": "content",
-      "html": "## Now ##\r\n\r\nCheck that you have left a reasonable amount of time for your landlord to reply to you. As a general guide, this is XX days. \r\n\r\nIf you have waited a reasonable amount of time, you should write to your landlord again to tell them you will contact your loal council for help with fixing the problem.\r\n\r\nYou an use this (letter template). \r\n\r\nInclude: \r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. "
+      "html": "## Make sure you are not making the problem worse ##\r\n\r\nYou should make sure you are not contributing to the problem of inadequate ventilation. For example by drying clothes on radiators without opening windows, or not using the extractor fan after a shower."
     },
     {
       "$component": true,
       "$content": true,
       "$definition": true,
-      "_id": "page.what-to-do-now--content--6",
+      "_id": "page.what-to-do-now--content--2",
       "_type": "content",
-      "html": "## Next ##\r\n\r\nYou should contact the housing team at your local council. They have an obligation to make sure that tenants are living in properties that are looked after by landlords, and kept in a reasonable state of repair.\r\n\r\nYou can find your local council using this service: https://www.gov.uk/find-local-council\r\n\r\nDepending on how serious the problem is, the local council may: \r\n\r\n- contact you for more information \r\n- make an appointment to come and inspect your home \r\n- arrange for an 'environmental health' team to come and inspect your home \r\n\r\nYou can use this letter template for your letter to the council. Remember to include:\r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. "
+      "html": "## As you have written to your landlord about the problem ##\r\n\r\nCheck that you have left a reasonable amount of time for your landlord to reply to you. As a general guide, this is XX days. \r\n\r\nIf you have waited a reasonable amount of time, you should write to your landlord again to tell them you will contact your loal council for help with fixing the problem.\r\n\r\nYou an use this (letter template). \r\n\r\nInclude: \r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. "
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--3",
+      "_type": "content",
+      "html": "## Take pictures and keep a record of what's happened so far ##\r\n\r\nIt may help to document the problem with photos. You should also make sure you keep all copies of letters you send, as well as any text messages or emails. \r\n\r\nIf you talk to your landlord or the local council on the phone, make a note of the date and time of the call and what you spoke about. If you speak to someone at the council, make a note of their name."
     }
   ],
-  "heading": "[Results]",
+  "heading": "Next steps: what to do now",
+  "lede": "You'll find information about what to do now based on the answers you've given.",
   "url": "what-to-do-now"
 }
