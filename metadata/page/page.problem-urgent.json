@@ -1,0 +1,73 @@
+{
+  "_id": "page.problem-urgent",
+  "_type": "page.form",
+  "body": "",
+  "components": [
+    {
+      "_id": "page.problem-urgent--radios.auto_name__53",
+      "_type": "radios",
+      "hint": "- Test statement one\r\n- Test statement two",
+      "items": [
+        {
+          "_id": "page.problem-urgent--radios.auto_name__53--radio.auto_value__10",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "_id": "page.problem-urgent--radios.auto_name__53--radio.auto_value__10--2",
+          "_type": "radio",
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "legend": "Do you agree with the following statements?",
+      "name": "auto_name__53"
+    }
+  ],
+  "heading": "It sounds like the problem is urgent  ",
+  "lede": "You may be able to apply to the court to have the problem fixed immediately. This is known as an emergency injunction. ",
+  "show": {
+    "any": [
+      {
+        "0": {
+          "any": [
+            {
+              "identifier": "auto_name__37",
+              "operator": "defined"
+            },
+            {
+              "identifier": "auto_name__31",
+              "operator": "defined"
+            },
+            {
+              "identifier": "auto_name__27",
+              "operator": "defined"
+            },
+            {
+              "identifier": "auto_name__30",
+              "operator": "defined"
+            }
+          ],
+          "conditionsType": "any"
+        },
+        "identifier": "auto_name__31",
+        "operator": "defined"
+      },
+      {
+        "identifier": "auto_name__27",
+        "operator": "defined"
+      },
+      {
+        "identifier": "auto_name__37",
+        "operator": "defined"
+      },
+      {
+        "identifier": "auto_name__30",
+        "operator": "defined"
+      }
+    ],
+    "conditionsType": "any"
+  },
+  "url": "problem-urgent"
+}

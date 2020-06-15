@@ -5,24 +5,39 @@
     {
       "_id": "page.expert-evidence--radios.auto_name__47",
       "_type": "radios",
-      "hint": "A tenant will usually need expert evidence to support her/his claim. This could include the report of a surveyor or environmental health officer and, where appropriate, medical reports.",
+      "hint": "A tenant will usually need expert evidence to support her/his claim. This could include the report of a surveyor or environmental health officer and, where appropriate, medical reports. ",
       "items": [
         {
-          "_id": "page.expert-evidence--radios.auto_name__47--radio.auto_value__9",
+          "_id": "page.expert-evidence--radios.auto_name__47--radio.auto_value__10",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__9"
+          "value": "Yes"
         },
         {
-          "_id": "page.expert-evidence--radios.auto_name__47--radio.auto_value__9--2",
+          "_id": "page.expert-evidence--radios.auto_name__47--radio.auto_value__10--2",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__9"
+          "value": "No"
         }
       ],
-      "legend": "Have you instructed an expert to gather evidence? ",
+      "legend": "Have you instructed expert to gather evidence?",
       "name": "auto_name__47"
     }
   ],
+  "show": {
+    "conditionsType": "exactly",
+    "exactly": [
+      {
+        "identifier": "auto_name__45",
+        "operator": "is",
+        "value": "Yes"
+      },
+      {
+        "identifier": "auto_name__53",
+        "operator": "is",
+        "value": "Yes"
+      }
+    ]
+  },
   "url": "expert-evidence"
 }

@@ -23,10 +23,6 @@
       "name": "auto_name__19"
     }
   ],
-  "show": {
-    "identifier": "auto_name__48",
-    "operator": "is",
-    "value": "auto_value__9"
-  },
-  "url": "significant-change"
+  "show": true,
+  "url": "problem-significantly-changed"
 }

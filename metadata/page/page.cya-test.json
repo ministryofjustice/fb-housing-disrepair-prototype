@@ -4,5 +4,6 @@
   "actionType": "confirm",
   "sendBody": "",
   "sendHeading": "",
+  "show": true,
   "url": "cya-test"
 }
