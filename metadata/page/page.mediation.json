@@ -3,34 +3,30 @@
   "_type": "page.singlequestion",
   "components": [
     {
-      "_id": "page.mediation--radios.auto_name__20",
+      "_id": "page.mediation--radios.auto_name__9",
       "_type": "radios",
       "items": [
         {
-          "_id": "page.mediation--radios.auto_name__20--radio.auto_value__9",
+          "_id": "page.mediation--radios.auto_name__9--radio.auto_value__9",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__9"
+          "value": "Yes"
         },
         {
-          "_id": "page.mediation--radios.auto_name__20--radio.auto_value__9--2",
+          "_id": "page.mediation--radios.auto_name__9--radio.auto_value__9--2",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__9"
+          "value": "No"
         }
       ],
-      "legend": "Have you tried mediation? ",
-      "name": "auto_name__20"
+      "legend": "Have you tried mediation?",
+      "name": "auto_name__9"
     }
   ],
-  "enableSteps": true,
   "show": {
-    "identifier": "auto_name__46",
+    "identifier": "auto_name__29",
     "operator": "is",
-    "value": "auto_value__9"
+    "value": "Yes"
   },
-  "steps": [
-    "page.official-letter-of-claim"
-  ],
-  "url": "mediation"
+  "url": "tried-mediation"
 }

@@ -1,0 +1,33 @@
+{
+  "_id": "page.letter-of-claim",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.letter-of-claim--radios.auto_name__45",
+      "_type": "radios",
+      "hint": "Must wait 20 days for answer (housing action protocol)",
+      "items": [
+        {
+          "_id": "page.letter-of-claim--radios.auto_name__45--radio.auto_value__10",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "_id": "page.letter-of-claim--radios.auto_name__45--radio.auto_value__10--2",
+          "_type": "radio",
+          "label": "No",
+          "value": "No"
+        }
+      ],
+      "legend": "Have you sent official letter of claim? ",
+      "name": "auto_name__45"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__9",
+    "operator": "is",
+    "value": "Yes"
+  },
+  "url": "letter-of-claim"
+}
