@@ -1,7 +1,6 @@
 {
   "_id": "page.not-within-england-or-wales",
   "_type": "page.exit",
-  "body": "You may be able to find information here: \r\n",
   "enableSteps": "boom",
   "heading": "Sorry, you’re not able to use this checker ",
   "lede": "It is only for people renting in England and Wales at the moment. ",
