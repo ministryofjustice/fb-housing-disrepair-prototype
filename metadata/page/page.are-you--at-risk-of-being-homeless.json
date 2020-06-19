@@ -5,7 +5,7 @@
     {
       "_id": "page.are-you--at-risk-of-being-homeless--radios.auto_name__5",
       "_type": "radios",
-      "hint": "Your landlord may have said they will evict you because you asked for repairs to be done. ",
+      "hint": "Your landlord may have said they will evict you because you asked for repairs to be done.",
       "items": [
         {
           "_id": "page.are-you--at-risk-of-being-homeless--radios.auto_name__5--radio.auto_value__1",
