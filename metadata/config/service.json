@@ -1,5 +1,6 @@
 {
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components=>service",
-  "_type": "config.service"
+  "_type": "config.service",
+  "name": "Check how to get repairs done in your rented home"
 }

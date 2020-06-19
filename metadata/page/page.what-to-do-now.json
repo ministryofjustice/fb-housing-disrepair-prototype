@@ -3,15 +3,24 @@
   "_type": "page.content",
   "components": [
     {
+      "_id": "page.what-to-do-now--content--13",
+      "_type": "content",
+      "html": "## Help with risk of homelessness ##\r\n\r\nIf your landlord has threatened to evict you in response to you reporting a problem that needs to be fixed in your home, you should contact Shelter. For contact details, see: [https://england.shelter.org.uk/get_help](https://england.shelter.org.uk/get_help ) ",
+      "show": {
+        "identifier": "auto_name__5",
+        "operator": "is",
+        "value": "auto_value__1"
+      }
+    },
+    {
       "$component": true,
       "$content": true,
       "$definition": true,
       "_id": "page.what-to-do-now--content",
       "_type": "content",
-      "html": "## As the damp problem is affecting your health ##\r\nIf damp or mould is affecting your health, make sure you see a doctor or other health professional. You should ask them to write a letter about how your housing conditions may be affecting your health. \r\n\r\nThis could help you get the problem addressed more quickly.  \r\n\r\n## Check what kind of damp it is to work out who is responsible ##\r\nIt's not always easy to work out if your landlord is responsible for resolving problems with damp. This is because it can be difficult to find the exact cause of damp without the help of a surveyor. Unless it's obvious, such as a leaking roof.\r\n\r\n[https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/)",
+      "html": "## As the damp problem is affecting your health ##\r\nIf damp or mould is affecting your health, make sure you see a doctor or other health professional. You should ask them to write a letter about how your housing conditions may be affecting your health. \r\n\r\nThis could help you get the problem addressed more quickly.  ",
       "show": {
-        "identifier": "auto_name__18",
-        "negated": true,
+        "identifier": "auto_name__24",
         "operator": "defined"
       }
     },
@@ -19,17 +28,72 @@
       "$component": true,
       "$content": true,
       "$definition": true,
-      "_id": "page.what-to-do-now--table",
-      "_type": "table",
-      "rows": ""
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
       "_id": "page.what-to-do-now--content--5",
       "_type": "content",
-      "html": "## Make sure you are not making the problem worse ##\r\n\r\nYou should make sure you are not contributing to the problem of inadequate ventilation. For example by drying clothes on radiators without opening windows, or not using the extractor fan after a shower."
+      "html": "## Make sure you are not making the problem worse ##\r\n\r\nYou should make sure you are not contributing to the problem of inadequate ventilation. For example by drying clothes on radiators without opening windows, or not using the extractor fan after a shower.",
+      "show": {
+        "identifier": "auto_name__25",
+        "operator": "defined"
+      }
+    },
+    {
+      "_id": "page.what-to-do-now--content--4",
+      "_type": "content",
+      "html": "## Check what kind of damp it is to work out who is responsible ##\r\nIt's not always easy to work out if your landlord is responsible for resolving problems with damp. This is because it can be difficult to find the exact cause of damp without the help of a surveyor. Unless it's obvious, such as a leaking roof.\r\n\r\n[https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/)",
+      "show": {
+        "identifier": "auto_name__12",
+        "operator": "defined"
+      }
+    },
+    {
+      "_id": "page.what-to-do-now--content--7",
+      "_type": "content",
+      "html": "## Who's responsible for dealing with infestations ##\r\nIt's not always straightforward working out who's responsible. An Environmental Health Officer might be able to identify the cause of an infestation, which in turn might help work out who's responsible.\r\nYour landlord will probably be responsible for dealing with an infestation if:\r\n* your tenancy agreement says they’re responsible - or it says they will keep your home in a “good and habitable state” or something similar \r\n* the infestation was caused by your landlord not making certain repairs to your home - for example, not fixing holes in the walls \r\n\r\nYour landlord might also be responsible for dealing with an infestation if it means your home isn’t safe for you to live in - for example if it’s making you or your family ill.\r\n\r\n## Could you be responsible for dealing with the infestation? ##\r\nYou might be responsible for dealing with the problem if the infestation was caused by something that you did or failed to do. For example, if you haven't disposed of rubbish properly and that has attracted rats, then you would have to deal with the problem.\r\n\r\n\r\n## Pest control ##\r\nThe local authority's pest control or Environmental Health team can give you help and advice in dealing with problems with pests and vermin.\r\nLocal authorities will have a pest control service which you might be able to use, although there'll probably charge for it if you're not a local authority tenant. Independent pest control companies can also help, but they may be more expensive than the local authority's service.\r\n\r\nIn some cases, there's also action that you can take yourself, such as using traps and insecticides.\r\n\r\n[https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-infestations-of-pests-and-vermin/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-infestations-of-pests-and-vermin/) \r\n",
+      "show": {
+        "identifier": "auto_name__11",
+        "operator": "defined"
+      }
+    },
+    {
+      "_id": "page.what-to-do-now--content--8",
+      "_type": "content",
+      "html": "## Find out who your landlord is ##\r\n\r\nYou have a legal right to know who your landlord is, and the first step in resolving things is to contact them. \r\n\r\nYou can: \r\n- ask your letting agency for your landlord's details (use this letter template) \r\n- see whether your property is listed on your local council's list of registered prooperties as this often shows landlord details \r\n\r\nWhen you have your landlord's details, you will need to contact them. ",
+      "show": {
+        "identifier": "auto_name__21",
+        "operator": "defined"
+      }
+    },
+    {
+      "_id": "page.what-to-do-now--content--6",
+      "_type": "content",
+      "html": "## Contact your landlord or letting agent in writing ##\r\n\r\nEven if you have already told your landlord about the problem over the phone, by text message or in person, you need to tell them again in writing. This can be by email or letter. \r\n",
+      "show": {
+        "identifier": "auto_name__4",
+        "operator": "defined"
+      }
+    },
+    {
+      "_id": "page.what-to-do-now--content--9",
+      "_type": "content",
+      "html": "## You need to tell your landlord about the problem ##\r\n\r\nYou need to tell your landlord about the problems you are experiencing. Remember to include these things in your letter or email:\r\n\r\n- specific details of what you are experiencing \r\n- date when the problem started \r\n- anything you have done since the problems started \r\n- when your landlord can come in to the property\r\n\r\nYou can use this letter template for your letter. It doesn't have to be sent by post, you can also email it. \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. ",
+      "show": {
+        "all": [
+          {
+            "identifier": "auto_name__43",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__21",
+            "negated": true,
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__4",
+            "negated": true,
+            "operator": "defined"
+          }
+        ]
+      }
     },
     {
       "$component": true,
@@ -37,7 +101,110 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--2",
       "_type": "content",
-      "html": "## As you have written to your landlord about the problem ##\r\n\r\nCheck that you have left a reasonable amount of time for your landlord to reply to you. As a general guide, this is XX days. \r\n\r\nIf you have waited a reasonable amount of time, you should write to your landlord again to tell them you will contact your loal council for help with fixing the problem.\r\n\r\nYou an use this (letter template). \r\n\r\nInclude: \r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. "
+      "html": "## As you have written to your landlord about the problem ##\r\n\r\nCheck that you have left a reasonable amount of time for your landlord to reply to you. As a general guide, this is XX days. \r\n\r\nIf you have waited a reasonable amount of time, you should write to your landlord again to tell them you will contact your loal council for help with fixing the problem.\r\n\r\nYou an use this (letter template). \r\n\r\nInclude: \r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. ",
+      "show": {
+        "all": [
+          {
+            "identifier": "auto_name__15",
+            "operator": "defined"
+          },
+          {
+            "0": {
+              "identifier": "auto_name__32",
+              "operator": "is",
+              "value": "No"
+            },
+            "identifier": "auto_name__32",
+            "negated": true,
+            "operator": "is",
+            "value": "Yes"
+          },
+          {
+            "identifier": "auto_name__16",
+            "negated": true,
+            "operator": "defined"
+          }
+        ]
+      }
+    },
+    {
+      "_id": "page.what-to-do-now--content--10",
+      "_type": "content",
+      "html": "## Your landlord may not evict you without notice ##\r\n\r\nIt is against the law for your landlord to threaten to evict you without giving you proper notice. Especially if it is in response to not making repairs to your home.\r\n\r\nIllegal eviction includes your landlord:  \r\n\r\n- physically throwing you out\r\n- changing the locks while you’re out\r\n- forcing you to leave your home \r\n\r\nIf your landlord does any of these things, you should contact your local council's tenancy relations officer immediately. \r\n\r\nYou can find your local council using this service: https://www.gov.uk/find-local-council\r\n\r\nThe tenancy relations officer could: \r\n\r\n- prosecute your landlord for illegal eviction or harassment. Your landlord will have to pay a fine. They could also be sent to prison if they are found guilty.\r\n\r\n- help you find emergency accommodation if you are not able to stay in your home ",
+      "show": {
+        "any": [
+          {
+            "identifier": "auto_name__18",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__44",
+            "operator": "defined"
+          }
+        ],
+        "conditionsType": "any"
+      }
+    },
+    {
+      "_id": "page.what-to-do-now--content--12",
+      "_type": "content",
+      "html": "## Your landlord may not enter your home without notice ##\r\n\r\nIt is against the law for landlords to enter your home without giving you notice. It is also against the law for them to arrange for anyone else to enter your home, eg builders, without giving you notice. \r\n\r\nYou should complain to your landlord (or letting agent if they manage your home on your landlord's behalf). Do this by letter and make sure you include: \r\n\r\n- details of what happened and when\r\n- how this behaviour is affecting you or others you live with\r\n\r\nMake sure you keep a copy of this letter as you may need it in the future. ",
+      "show": {
+        "identifier": "auto_name__17",
+        "operator": "defined"
+      }
+    },
+    {
+      "_id": "page.what-to-do-now--content--11",
+      "_type": "content",
+      "html": "## Contact your local council ##\r\n\r\nYou should contact the housing team at your local council. They have an obligation to make sure that tenants are living in properties that are looked after by landlords, and kept in a reasonable state of repair.\r\n\r\nYou can find your local council using this service: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council)\r\n\r\nDepending on how serious the problem is, the local council may: \r\n\r\n- contact you for more information \r\n- make an appointment to come and inspect your home \r\n- arrange for an 'environmental health' team to come and inspect your home \r\n\r\nYou can use this letter template for your letter to the council. Remember to include:\r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. ",
+      "show": {
+        "conditionsType": "exactly",
+        "exactly": [
+          {
+            "all": [
+              {
+                "identifier": "auto_name__16",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__15",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__32",
+                "negated": true,
+                "operator": "is",
+                "value": "Yes"
+              }
+            ]
+          },
+          {
+            "all": [
+              {
+                "identifier": "auto_name__16",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__32",
+                "negated": true,
+                "operator": "is",
+                "value": "Yes"
+              },
+              {
+                "identifier": "auto_name__4",
+                "negated": true,
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__15",
+                "negated": true,
+                "operator": "defined"
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "$component": true,
@@ -46,6 +213,11 @@
       "_id": "page.what-to-do-now--content--3",
       "_type": "content",
       "html": "## Take pictures and keep a record of what's happened so far ##\r\n\r\nIt may help to document the problem with photos. You should also make sure you keep all copies of letters you send, as well as any text messages or emails. \r\n\r\nIf you talk to your landlord or the local council on the phone, make a note of the date and time of the call and what you spoke about. If you speak to someone at the council, make a note of their name."
+    },
+    {
+      "_id": "page.what-to-do-now--content--14",
+      "_type": "content",
+      "html": "[Print this page](#)"
     }
   ],
   "heading": "Next steps: what to do now",

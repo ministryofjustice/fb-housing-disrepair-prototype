@@ -1,8 +1,8 @@
 {
   "_id": "page.homeless-risk",
   "_type": "page.content",
-  "body": "If you are at risk of losing your home you need to XXX.\r\n\r\nHowever, you can continue if you would also like information about  another problem with your home.",
-  "heading": "This tool won't be able to help you contest an eviction",
+  "body": "   If you are at risk of losing your home, contact Shelter for help: [https://england.shelter.org.uk/get_help](https://england.shelter.org.uk/get_help)\r\n\r\nCitizens Advice can also help if you are being evicted because you asked for repairs to be done. See: [https://www.citizensadvice.org.uk/housing/renting-privately/ending-your-tenancy/if-youre-being-evicted-because-you-asked-for-repairs/](https://www.citizensadvice.org.uk/housing/renting-privately/ending-your-tenancy/if-youre-being-evicted-because-you-asked-for-repairs/)\r\n\r\nThis information service doesn't deal with contesting evictions or finding emergency housing. If you'd like to find out about addressing another issue with your home, you can continue. ",
+  "heading": "If you are concerned about losing your home   ",
   "show": {
     "identifier": "auto_name__5",
     "operator": "is",

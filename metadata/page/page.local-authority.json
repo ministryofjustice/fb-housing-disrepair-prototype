@@ -29,22 +29,17 @@
       {
         "all": [
           {
-            "0": {
-              "identifier": "auto_name__37",
-              "negated": true,
-              "operator": "defined"
-            },
             "identifier": "auto_name__37",
             "negated": true,
             "operator": "defined"
           },
           {
-            "identifier": "auto_name__27",
+            "identifier": "auto_name__31",
             "negated": true,
             "operator": "defined"
           },
           {
-            "identifier": "auto_name__31",
+            "identifier": "auto_name__27",
             "negated": true,
             "operator": "defined"
           },
@@ -59,16 +54,6 @@
           },
           {
             "identifier": "auto_name__16",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__18",
-            "negated": true,
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__17",
-            "negated": true,
             "operator": "defined"
           }
         ]

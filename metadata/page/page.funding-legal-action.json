@@ -26,8 +26,7 @@
   ],
   "show": {
     "identifier": "auto_name__47",
-    "operator": "is",
-    "value": "Yes"
+    "operator": "defined"
   },
   "url": "funding-legal-action"
 }

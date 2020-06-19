@@ -2,7 +2,7 @@
   "_id": "page.cya-test",
   "_type": "page.summary",
   "actionType": "confirm",
-  "sendBody": "",
+  "sendBody": "[Print this page](#)",
   "sendHeading": "",
   "show": true,
   "url": "cya-test"
