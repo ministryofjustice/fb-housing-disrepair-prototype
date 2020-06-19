@@ -3,12 +3,151 @@
   "_type": "page.content",
   "components": [
     {
+      "_id": "page.what-to-do-next--content--5",
+      "_type": "content",
+      "html": "## You need to tell your landlord about the problem ##\r\n\r\nYou need to tell your landlord about the problems you are experiencing. Remember to include these things in your letter or email:\r\n\r\n- specific details of what you are experiencing \r\n- date when the problem started \r\n- anything you have done since the problems started \r\n- when your landlord can come in to the property\r\n\r\nYou can use this letter template for your letter. It doesn't have to be sent by post, you can also email it. \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. ",
+      "show": {
+        "any": [
+          {
+            "identifier": "auto_name__21",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__4",
+            "operator": "defined"
+          }
+        ],
+        "conditionsType": "any"
+      }
+    },
+    {
+      "_id": "page.what-to-do-next--content--7",
+      "_type": "content",
+      "html": "## Allow time for your landlord to get back to you ##\r\n\r\nYour landlord should get back to you within a reasonable amount of time. This can be anything from XX days for an emergency, to XX weeks for something less serious. \r\n\r\nIf you haven't heard back from your landlord, you should try and contact them again. Remember to keep copies of any messages you send, along with the dates you sent them. ",
+      "show": {
+        "all": [
+          {
+            "identifier": "auto_name__43",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__21",
+            "negated": true,
+            "operator": "defined"
+          }
+        ]
+      }
+    },
+    {
+      "_id": "page.what-to-do-next--content--12",
+      "_type": "content",
+      "html": "## Make a complaint about your landlord ##\r\n\r\nYou could complain to your local council's tenancy relations officer about your landlord entering your home without notice. \r\n\r\nYou can find your local council using this service: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council)\r\nThe tenancy relations officer could: \r\n\r\n- speak to your landlord on your behalf\r\n- take action against your landlord\r\n\r\n\r\n",
+      "show": {
+        "identifier": "auto_name__17",
+        "operator": "defined"
+      }
+    },
+    {
+      "_id": "page.what-to-do-next--content--9",
+      "_type": "content",
+      "html": "## Your landlord should not evict you because you asked for repairs to be done ##\r\n\r\nYour landlord has to keep your home in a good condition and do repairs if you need them.\r\n\r\nThey can’t make you leave your home just for asking for repairs to be done - your landlord has to follow a proper eviction process if they want you to leave.\r\n\r\nIf your landlord tries to evict you because you asked for repairs this is known as ‘retaliatory eviction’. You might be able to challenge a retaliatory eviction.\r\n\r\nSee more about this on the Citizen's Advice website: \r\n[https://www.citizensadvice.org.uk/housing/renting-privately/ending-your-tenancy/if-youre-being-evicted-because-you-asked-for-repairs/](https://www.citizensadvice.org.uk/housing/renting-privately/ending-your-tenancy/if-youre-being-evicted-because-you-asked-for-repairs/)",
+      "show": {
+        "any": [
+          {
+            "identifier": "auto_name__18",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__44",
+            "operator": "defined"
+          }
+        ],
+        "conditionsType": "any"
+      }
+    },
+    {
+      "_id": "page.what-to-do-next--content--10",
+      "_type": "content",
+      "html": "## Make a complaint about your landlord or letting agent ##\r\n\r\nYou could consider making a complaint about your landlord or letting agent.  See [https://england.shelter.org.uk/housing_advice/private_renting/complaints_about_letting_agents](https://england.shelter.org.uk/housing_advice/private_renting/complaints_about_letting_agents)",
+      "show": {
+        "conditionsType": "exactly",
+        "exactly": [
+          {
+            "all": [
+              {
+                "identifier": "auto_name__16",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__15",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__32",
+                "negated": true,
+                "operator": "is",
+                "value": "Yes"
+              }
+            ]
+          },
+          {
+            "all": [
+              {
+                "identifier": "auto_name__16",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__15",
+                "negated": true,
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__4",
+                "negated": true,
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__32",
+                "negated": true,
+                "operator": "is",
+                "value": "Yes"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
       "$component": true,
       "$content": true,
       "$definition": true,
       "_id": "page.what-to-do-next--content--2",
       "_type": "content",
-      "html": "## Contact your local council ##\r\n\r\nYou should contact the housing team at your local council. They have an obligation to make sure that tenants are living in properties that are looked after by landlords, and kept in a reasonable state of repair.\r\n\r\nYou can find your local council using this service: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council)\r\n\r\nDepending on how serious the problem is, the local council may: \r\n\r\n- contact you for more information \r\n- make an appointment to come and inspect your home \r\n- arrange for an 'environmental health' team to come and inspect your home \r\n\r\nYou can use this letter template for your letter to the council. Remember to include:\r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. "
+      "html": "## Contact your local council ##\r\n\r\nYou should contact the housing team at your local council. They have an obligation to make sure that tenants are living in properties that are looked after by landlords, and kept in a reasonable state of repair.\r\n\r\nYou can find your local council using this service: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council)\r\n\r\nDepending on how serious the problem is, the local council may: \r\n\r\n- contact you for more information \r\n- make an appointment to come and inspect your home \r\n- arrange for an 'environmental health' team to come and inspect your home \r\n\r\nYou can use this letter template for your letter to the council. Remember to include:\r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. ",
+      "show": {
+        "all": [
+          {
+            "identifier": "auto_name__15",
+            "operator": "defined"
+          },
+          {
+            "0": {
+              "identifier": "auto_name__32",
+              "operator": "is",
+              "value": "No"
+            },
+            "identifier": "auto_name__32",
+            "negated": true,
+            "operator": "is",
+            "value": "Yes"
+          },
+          {
+            "identifier": "auto_name__16",
+            "negated": true,
+            "operator": "defined"
+          }
+        ]
+      }
     },
     {
       "$component": true,
@@ -16,17 +155,66 @@
       "$definition": true,
       "_id": "page.what-to-do-next--content--3",
       "_type": "content",
-      "html": "## If your home is inspected by the environmental health team ##\r\n\r\nYour local council's environmental health team may inspect your home. This could be an informal inspection to understand how serious the problem is, or it could be a more formal inspection using the 'Housing Health and Safety Rating System' (HHSRS). The HHSRS lists risks and hazards that may be caused by your repairs needing to be done in your home For more information see: [https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/asking-the-local-authority-for-help-with-repairs/local-authority-help-with-repairs-housing-health-and-safety-rating-system/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/asking-the-local-authority-for-help-with-repairs/local-authority-help-with-repairs-housing-health-and-safety-rating-system/)"
+      "html": "## If your home is inspected by the environmental health team ##\r\n\r\nYour local council's environmental health team may inspect your home. This could be an informal inspection to understand how serious the problem is, or it could be a more formal inspection using the 'Housing Health and Safety Rating System' (HHSRS). The HHSRS lists risks and hazards that may be caused by your repairs needing to be done in your home. For more information see: [https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/asking-the-local-authority-for-help-with-repairs/local-authority-help-with-repairs-housing-health-and-safety-rating-system/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/asking-the-local-authority-for-help-with-repairs/local-authority-help-with-repairs-housing-health-and-safety-rating-system/)"
     },
     {
       "_id": "page.what-to-do-next--content",
       "_type": "content",
-      "html": "- The environmental health team will look for any hazards associated very cold or very hot living conditions."
+      "html": "- The environmental health team will look for any hazards associated very cold or very hot living conditions.",
+      "show": {
+        "any": [
+          {
+            "identifier": "auto_name__35",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__37",
+            "operator": "defined"
+          }
+        ],
+        "conditionsType": "any"
+      }
     },
     {
       "_id": "page.what-to-do-next--content--4",
       "_type": "content",
-      "html": "- The environmental health team will assess threats to health from dust mites, mould and fungal growth, as well as any other problems caused by damp."
+      "html": "- The environmental health team will assess threats to health from dust mites, mould and fungal growth, as well as any other problems caused by damp.",
+      "show": {
+        "identifier": "auto_name__12",
+        "operator": "defined"
+      }
+    },
+    {
+      "_id": "page.what-to-do-next--content--8",
+      "_type": "content",
+      "html": "- The environmental health team will assess whether your home can be kept secure from intruders. ",
+      "show": {
+        "identifier": "auto_name__38",
+        "operator": "defined"
+      }
+    },
+    {
+      "_id": "page.what-to-do-next--content--6",
+      "_type": "content",
+      "html": "* The environmental health team will look at what may be contributing to problems with mice or other pests. ",
+      "show": {
+        "identifier": "auto_name__11",
+        "operator": "defined"
+      }
+    },
+    {
+      "_id": "page.what-to-do-next--content--11",
+      "_type": "content",
+      "html": "- The environmental health team will assess washing facilities, sanitation and drainage. ",
+      "show": {
+        "identifier": "auto_name__49",
+        "operator": "defined"
+      }
+    },
+    {
+      "_id": "page.what-to-do-next--content--13",
+      "_type": "content",
+      "html": "[Print this page](#)"
     }
   ],
   "heading": "What to do next",
