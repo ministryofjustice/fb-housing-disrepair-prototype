@@ -1,16 +1,8 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "Use this service to find out:\r\n- what are the steps you need to follow to solve your problem\r\n- where can you get help in your area\r\n\r\nThis takes less than 5 minutes.",
-  "components": [
-    {
-      "_id": "page.start--warning",
-      "_type": "warning",
-      "html": "This service is for people who are renting or in temporary accommodation."
-    }
-  ],
+  "body": "Use this checker to find out:\r\n- how to get something fixed by your landlord or letting agent \r\n- what to do if your landlord or letting agent are not responding to your requests",
   "heading": "Check how to get repairs done in your rented home",
-  "lede": "This service is for people who are renting or in temporary accommodation",
   "steps": [
     "page.are-you-renting-in-england-or-wales",
     "page.not-within-england-or-wales",

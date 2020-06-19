@@ -1,8 +1,9 @@
 {
   "_id": "page.homeless-risk",
   "_type": "page.content",
-  "body": "   If you are at risk of losing your home, contact Shelter for help: [https://england.shelter.org.uk/get_help](https://england.shelter.org.uk/get_help)\r\n\r\nCitizens Advice can also help if you are being evicted because you asked for repairs to be done. See: [https://www.citizensadvice.org.uk/housing/renting-privately/ending-your-tenancy/if-youre-being-evicted-because-you-asked-for-repairs/](https://www.citizensadvice.org.uk/housing/renting-privately/ending-your-tenancy/if-youre-being-evicted-because-you-asked-for-repairs/)\r\n\r\nThis information service doesn't deal with contesting evictions or finding emergency housing. If you'd like to find out about addressing another issue with your home, you can continue. ",
+  "body": "This information service won't help you contest an eviction or find emergency housing.\r\n\r\n If you are being evicted because you asked for repairs to be done:  \r\n\r\n- contact Shelter [https://england.shelter.org.uk/get_help](https://england.shelter.org.uk/get_help)\r\n\r\n- or Citizens Advice [https://www.citizensadvice.org.uk/housing/renting-privately/ending-your-tenancy/if-youre-being-evicted-because-you-asked-for-repairs/](https://www.citizensadvice.org.uk/housing/renting-privately/ending-your-tenancy/if-youre-being-evicted-because-you-asked-for-repairs/)\r\n\r\nIf you'd like to find out about how to get repairs done in your home, you can continue.    ",
   "heading": "If you are concerned about losing your home   ",
+  "lede": "If you have received paperwork from the court or a section 21 notice, your landlord may have started the process of eviction. ",
   "show": {
     "identifier": "auto_name__5",
     "operator": "is",
