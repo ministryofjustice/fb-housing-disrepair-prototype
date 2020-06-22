@@ -57,7 +57,7 @@
     {
       "_id": "page.what-to-do-now--content--8",
       "_type": "content",
-      "html": "## Find out who your landlord is ##\r\n\r\nYou have a legal right to know who your landlord is, and the first step in resolving things is to contact them. \r\n\r\nYou can: \r\n- ask your letting agency for your landlord's details (use this letter template) \r\n- see whether your property is listed on your local council's list of registered prooperties as this often shows landlord details \r\n\r\nWhen you have your landlord's details, you will need to contact them. ",
+      "html": "## Find out who your landlord is ##\r\n\r\nYou have a legal right to know who your landlord is, and the first step in resolving things is to contact them. \r\n\r\nYou can: \r\n- ask your letting agency for your landlord's details [use this letter template](#) \r\n- see whether your property is listed on your local council's list of registered prooperties as this often shows landlord details \r\n\r\nWhen you have your landlord's details, you will need to contact them. ",
       "show": {
         "identifier": "auto_name__21",
         "operator": "defined"
@@ -75,7 +75,7 @@
     {
       "_id": "page.what-to-do-now--content--9",
       "_type": "content",
-      "html": "## You need to tell your landlord about the problem ##\r\n\r\nYou need to tell your landlord about the problems you are experiencing. Remember to include these things in your letter or email:\r\n\r\n- specific details of what you are experiencing \r\n- date when the problem started \r\n- anything you have done since the problems started \r\n- when your landlord can come in to the property\r\n\r\nYou can use this letter template for your letter. It doesn't have to be sent by post, you can also email it. \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. ",
+      "html": "## You need to tell your landlord about the problem ##\r\n\r\nYou need to tell your landlord about the problems you are experiencing. Remember to include these things in your letter or email:\r\n\r\n- specific details of what you are experiencing \r\n- date when the problem started \r\n- anything you have done since the problems started \r\n- when your landlord can come in to the property\r\n\r\nYou can [use this letter template](#) for your letter. It doesn't have to be sent by post, you can also email it. \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. ",
       "show": {
         "all": [
           {
@@ -101,7 +101,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--2",
       "_type": "content",
-      "html": "## As you have written to your landlord about the problem ##\r\n\r\nCheck that you have left a reasonable amount of time for your landlord to reply to you. As a general guide, this is XX days. \r\n\r\nIf you have waited a reasonable amount of time, you should write to your landlord again to tell them you will contact your loal council for help with fixing the problem.\r\n\r\nYou an use this (letter template). \r\n\r\nInclude: \r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. ",
+      "html": "## As you have written to your landlord about the problem ##\r\n\r\nCheck that you have left a reasonable amount of time for your landlord to reply to you. As a general guide, this is XX days. \r\n\r\nIf you have waited a reasonable amount of time, you should write to your landlord again to tell them you will contact your local council for help with fixing the problem.\r\n\r\nYou an use this [letter template](#). \r\n\r\nInclude: \r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. ",
       "show": {
         "all": [
           {
@@ -130,7 +130,7 @@
     {
       "_id": "page.what-to-do-now--content--10",
       "_type": "content",
-      "html": "## Your landlord may not evict you without notice ##\r\n\r\nIt is against the law for your landlord to threaten to evict you without giving you proper notice. Especially if it is in response to not making repairs to your home.\r\n\r\nIllegal eviction includes your landlord:  \r\n\r\n- physically throwing you out\r\n- changing the locks while you’re out\r\n- forcing you to leave your home \r\n\r\nIf your landlord does any of these things, you should contact your local council's tenancy relations officer immediately. \r\n\r\nYou can find your local council using this service: https://www.gov.uk/find-local-council\r\n\r\nThe tenancy relations officer could: \r\n\r\n- prosecute your landlord for illegal eviction or harassment. Your landlord will have to pay a fine. They could also be sent to prison if they are found guilty.\r\n\r\n- help you find emergency accommodation if you are not able to stay in your home ",
+      "html": "## Your landlord may not evict you without notice ##\r\n\r\nIt is against the law for your landlord to threaten to evict you without giving you proper notice. Especially if it is in response to not making repairs to your home.\r\n\r\nIllegal eviction includes your landlord:  \r\n\r\n- physically throwing you out\r\n- changing the locks while you’re out\r\n- forcing you to leave your home \r\n\r\nIf your landlord does any of these things, you should contact your local council's tenancy relations officer immediately. \r\n\r\nYou can find your local council using this service: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council)\r\n\r\nThe tenancy relations officer could: \r\n\r\n- prosecute your landlord for illegal eviction or harassment. Your landlord will have to pay a fine. They could also be sent to prison if they are found guilty.\r\n\r\n- help you find emergency accommodation if you are not able to stay in your home ",
       "show": {
         "any": [
           {
@@ -157,7 +157,7 @@
     {
       "_id": "page.what-to-do-now--content--11",
       "_type": "content",
-      "html": "## Contact your local council ##\r\n\r\nYou should contact the housing team at your local council. They have an obligation to make sure that tenants are living in properties that are looked after by landlords, and kept in a reasonable state of repair.\r\n\r\nYou can find your local council using this service: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council)\r\n\r\nDepending on how serious the problem is, the local council may: \r\n\r\n- contact you for more information \r\n- make an appointment to come and inspect your home \r\n- arrange for an 'environmental health' team to come and inspect your home \r\n\r\nYou can use this letter template for your letter to the council. Remember to include:\r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. ",
+      "html": "## Contact your local council ##\r\n\r\nYou should contact the housing team at your local council. They have an obligation to make sure that tenants are living in properties that are looked after by landlords, and kept in a reasonable state of repair.\r\n\r\nYou can find your local council using this service: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council)\r\n\r\nDepending on how serious the problem is, the local council may: \r\n\r\n- contact you for more information \r\n- make an appointment to come and inspect your home \r\n- arrange for an 'environmental health' team to come and inspect your home \r\n\r\nYou can [use this letter template](#) for your letter to the council. Remember to include:\r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. ",
       "show": {
         "conditionsType": "exactly",
         "exactly": [

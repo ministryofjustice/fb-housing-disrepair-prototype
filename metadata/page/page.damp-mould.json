@@ -5,7 +5,7 @@
     {
       "_id": "page.damp-mould--checkboxes",
       "_type": "checkboxes",
-      "hint": "It is your landlord's responsibility to make sure the property has working smoke and carbon monoxide detectors. It must also be kept clear of any obstructions that could be a fire hazard. \r\n\r\nSelect all that apply.",
+      "hint": "It is your landlord's responsibility to keep the property free from damp and mould. However, you also have a responsibility to ensure you do not cause a damp or mould problem. \r\n\r\nSelect all that apply.",
       "items": [
         {
           "_id": "page.damp-mould--checkboxes--checkbox.auto_name__24",

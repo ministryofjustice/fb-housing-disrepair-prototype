@@ -5,6 +5,7 @@
     {
       "_id": "page.faulty-or-missing-appliance--checkboxes",
       "_type": "checkboxes",
+      "hint": "Your landlord should keep any appliances in your home in good working order. This only applies to things that your landlord provided.",
       "items": [
         {
           "_id": "page.faulty-or-missing-appliance--checkboxes--checkbox.auto_name__26",
