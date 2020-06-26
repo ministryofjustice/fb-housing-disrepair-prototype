@@ -8,55 +8,71 @@
       "hint": "Select all that apply",
       "items": [
         {
-          "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__21",
-          "_type": "checkbox",
-          "label": "Not sure who the landlord is",
-          "name": "auto_name__21"
-        },
-        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__43",
           "_type": "checkbox",
-          "label": "Not had any contact with the landlord",
+          "label": "Not had any contact with the landlord or letting agent",
           "name": "auto_name__43"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__44",
           "_type": "checkbox",
-          "label": "Worried about telling the landlord as they may retaliate",
+          "hint": "You may feel awkward or worried about asking for repairs to be done",
+          "label": "Worried about telling the landlord",
           "name": "auto_name__44"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__4",
           "_type": "checkbox",
-          "label": "Told the landlord in person or by phone",
+          "label": "Told the landlord or letting agent in person or by phone",
           "name": "auto_name__4"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__15",
           "_type": "checkbox",
-          "label": "Written a letter to the landlord",
+          "label": "Written a letter to the landlord or letting agent",
           "name": "auto_name__15"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__16",
           "_type": "checkbox",
-          "label": "The landlord has not replied to requests to make repairs ",
+          "label": "The landlord or letting agent have not replied to requests to make repairs ",
           "name": "auto_name__16"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__17",
           "_type": "checkbox",
-          "label": "Landlord is entering your home without notice",
+          "label": "The landlord, letting agent or other people are entering your home without notice",
           "name": "auto_name__17"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__18",
           "_type": "checkbox",
-          "label": "Landlord is being abusive or threatening eviction ",
+          "label": "The landlord or letting agent are being abusive or threatening eviction ",
           "name": "auto_name__18"
         }
       ],
-      "legend": "Interaction with landlord"
+      "legend": "Interaction with landlord or letting agent "
     }
   ],
   "show": true,
