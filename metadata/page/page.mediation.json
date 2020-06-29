@@ -5,6 +5,7 @@
     {
       "_id": "page.mediation--radios.auto_name__9",
       "_type": "radios",
+      "hint": "Talking to someone who is not involved in your case can be a good way to resolve a problem without the expense of going to court. If you do end up going to court, then you may need to show that you tried mediation first. ",
       "items": [
         {
           "_id": "page.mediation--radios.auto_name__9--radio.auto_value__9",
@@ -19,14 +20,28 @@
           "value": "No"
         }
       ],
-      "legend": "Have you tried mediation?",
+      "legend": "Have you tried talking to a mediator?  ",
       "name": "auto_name__9"
     }
   ],
   "show": {
-    "identifier": "auto_name__29",
-    "operator": "is",
-    "value": "Yes"
+    "all": [
+      {
+        "identifier": "auto_name__29",
+        "operator": "is",
+        "value": "Yes"
+      },
+      {
+        "identifier": "auto_name__20",
+        "operator": "is",
+        "value": "Yes"
+      },
+      {
+        "identifier": "auto_name__32",
+        "operator": "is",
+        "value": "Yes"
+      }
+    ]
   },
   "url": "tried-mediation"
 }

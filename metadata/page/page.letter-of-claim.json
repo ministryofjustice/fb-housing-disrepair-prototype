@@ -5,7 +5,7 @@
     {
       "_id": "page.letter-of-claim--radios.auto_name__45",
       "_type": "radios",
-      "hint": "Must wait 20 days for answer (housing action protocol)",
+      "hint": "There's a process you need to follow as part of starting the legal process. ",
       "items": [
         {
           "_id": "page.letter-of-claim--radios.auto_name__45--radio.auto_value__10",
@@ -20,14 +20,33 @@
           "value": "No"
         }
       ],
-      "legend": "Have you sent official letter of claim? ",
+      "legend": "Have you sent an 'official letter of claim'?  ",
       "name": "auto_name__45"
     }
   ],
   "show": {
-    "identifier": "auto_name__9",
-    "operator": "is",
-    "value": "Yes"
+    "all": [
+      {
+        "identifier": "auto_name__9",
+        "operator": "is",
+        "value": "Yes"
+      },
+      {
+        "identifier": "auto_name__29",
+        "operator": "is",
+        "value": "Yes"
+      },
+      {
+        "identifier": "auto_name__20",
+        "operator": "is",
+        "value": "Yes"
+      },
+      {
+        "identifier": "auto_name__32",
+        "operator": "is",
+        "value": "Yes"
+      }
+    ]
   },
   "url": "letter-of-claim"
 }

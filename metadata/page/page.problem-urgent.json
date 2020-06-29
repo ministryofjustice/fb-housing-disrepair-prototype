@@ -6,7 +6,7 @@
     {
       "_id": "page.problem-urgent--radios.auto_name__53",
       "_type": "radios",
-      "hint": "- Test statement one\r\n- Test statement two",
+      "hint": "- you won't be able to live in your home if the problem is not fixed  \r\n- your physical or mental health has been seriously affected",
       "items": [
         {
           "_id": "page.problem-urgent--radios.auto_name__53--radio.auto_value__10",
@@ -26,7 +26,7 @@
     }
   ],
   "heading": "It sounds like the problem is urgent  ",
-  "lede": "You may be able to apply to the court to have the problem fixed immediately. This is known as an emergency injunction. ",
+  "lede": "You may be able to apply to the court to have the problem fixed immediately. This is known as applying for an emergency order or injunction.",
   "show": {
     "any": [
       {
