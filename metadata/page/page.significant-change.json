@@ -24,9 +24,18 @@
     }
   ],
   "show": {
-    "identifier": "auto_name__20",
-    "operator": "is",
-    "value": "Yes"
+    "all": [
+      {
+        "identifier": "auto_name__20",
+        "operator": "is",
+        "value": "Yes"
+      },
+      {
+        "identifier": "auto_name__32",
+        "operator": "is",
+        "value": "Yes"
+      }
+    ]
   },
   "url": "significant-change"
 }

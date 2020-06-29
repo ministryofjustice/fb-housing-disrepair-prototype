@@ -5,7 +5,7 @@
     {
       "_id": "page.funding-legal-action--radios.auto_name__52",
       "_type": "radios",
-      "hint": "Some people may be able to get help with legal costs, depending on the problem and their income.",
+      "hint": "Going to court can be expensive, though you may be able to get financial help.",
       "items": [
         {
           "_id": "page.funding-legal-action--radios.auto_name__52--radio.auto_value__10",

@@ -5,7 +5,7 @@
     {
       "_id": "page.expert-evidence--radios.auto_name__47",
       "_type": "radios",
-      "hint": "A tenant will usually need expert evidence to support her/his claim. This could include the report of a surveyor or environmental health officer and, where appropriate, medical reports. ",
+      "hint": "You may need an expert’s report to show the court if there are serious hazards in your home, or if there has been an impact on your health.\r\n\r\nExperts could include:\r\n\r\n- damp experts\r\n- building surveyors\r\n- plumbers or builders\r\n- your GP or other medical specialists",
       "items": [
         {
           "_id": "page.expert-evidence--radios.auto_name__47--radio.auto_value__10",
@@ -20,7 +20,7 @@
           "value": "No"
         }
       ],
-      "legend": "Have you instructed expert to gather evidence?",
+      "legend": "Have you got a report from an expert? ",
       "name": "auto_name__47"
     }
   ],

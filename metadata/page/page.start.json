@@ -2,6 +2,13 @@
   "_id": "page.start",
   "_type": "page.start",
   "body": "Use this checker to find out:\r\n- how to get something fixed by your landlord or letting agent \r\n- what to do if your landlord or letting agent are not responding to your requests",
+  "components": [
+    {
+      "_id": "page.start--warning",
+      "_type": "warning",
+      "html": "If you are about to lose your home, contact [Shelter](https://england.shelter.org.uk/) or [Citizens Advice](https://www.citizensadvice.org.uk/) for help."
+    }
+  ],
   "heading": "Check how to get repairs done in your rented home",
   "steps": [
     "page.are-you-renting-in-england-or-wales",
@@ -10,8 +17,6 @@
     "page.exit-non-private-landlord",
     "page.are-you-living-with-landlord",
     "page.exit-living-with-landlord",
-    "page.are-you--at-risk-of-being-homeless",
-    "page.homeless-risk",
     "page.have-you-stopped-paying-rent",
     "page.stopped-rent-payment",
     "page.what-is-the-problem-with-your-housing",
@@ -32,8 +37,7 @@
     "page.funding-legal-action",
     "page.cya-test",
     "page.what-to-do-now",
-    "page.what-to-do-next",
-    "page.what-to-do-later"
+    "page.what-to-do-next"
   ],
   "url": "/"
 }
