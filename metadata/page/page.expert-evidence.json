@@ -5,7 +5,7 @@
     {
       "_id": "page.expert-evidence--radios.auto_name__47",
       "_type": "radios",
-      "hint": "You may need an expert’s report to show the court if there are serious hazards in your home, or if there has been an impact on your health.\r\n\r\nExperts could include:\r\n\r\n- damp experts\r\n- building surveyors\r\n- plumbers or builders\r\n- your GP or other medical specialists",
+      "hint": "You may need an expert’s report to show the court.\r\n\r\nExperts could include:\r\n\r\n- damp experts\r\n- building surveyors\r\n- plumbers or builders\r\n- your GP or other medical specialists",
       "items": [
         {
           "_id": "page.expert-evidence--radios.auto_name__47--radio.auto_value__10",

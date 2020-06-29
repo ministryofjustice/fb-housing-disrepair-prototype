@@ -5,7 +5,7 @@
     {
       "_id": "page.inspection--radios.auto_name__20",
       "_type": "radios",
-      "hint": "The Local Council may have asked  the environmental health team to carry out an inspection to assess hazards in your home against the Housing Health and Safety Rating System (HHSRS) for rented homes ",
+      "hint": "The local council may have asked  the environmental health team to carry out an inspection to assess hazards in your home against the Housing Health and Safety Rating System (HHSRS) for rented homes. ",
       "items": [
         {
           "_id": "page.inspection--radios.auto_name__20--radio.auto_value__9",
