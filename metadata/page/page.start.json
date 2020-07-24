@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "Use this checker to find out:\r\n- how to get something fixed by your landlord or letting agent \r\n- what to do if your landlord or letting agent are not responding to your requests",
+  "body": "Use this checker to find out:\r\n- how to get something fixed by your landlord or letting agent \r\n- what to do if your landlord or letting agent are not responding to your requests\r\n\r\nYou'll receive ideas about what to do next, along with links to more information. ",
   "components": [
     {
       "_id": "page.start--warning",
