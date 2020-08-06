@@ -22,7 +22,7 @@
           "$option": true,
           "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__44",
           "_type": "checkbox",
-          "hint": "You may feel awkward or worried about asking for repairs to be done",
+          "hint": "",
           "label": "Yes, I have told them in person or on the phone",
           "name": "auto_name__44"
         },

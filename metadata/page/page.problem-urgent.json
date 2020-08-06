@@ -1,32 +1,36 @@
 {
   "_id": "page.problem-urgent",
   "_type": "page.form",
-  "body": "",
+  "body": "The court will only grant emergency injunctions in extremely serious circumstances. The following list gives an idea of what the court considers to be serious. ",
   "components": [
     {
-      "_id": "page.problem-urgent--radios.auto_name__53",
+      "_id": "page.problem-urgent--content",
+      "_type": "content",
+      "html": "- your house or flat cannot be lived in until the problem is fixed\r\n- your physical or mental health has been seriously affected (or that of someone else you live with) \r\n- financial compensation would not address the problem \r\n- you would be able to pay for the repairs if the court later decide that an emergency injunction should not have been granted\r\n\r\nYou will need to work with a solicitor or specialist adviser if you think that taking court action is the right option for you. \r\n\r\n"
+    },
+    {
+      "_id": "page.problem-urgent--radios.auto_name__15",
       "_type": "radios",
-      "hint": "- you won't be able to live in your home if the problem is not fixed  \r\n- your physical or mental health has been seriously affected",
       "items": [
         {
-          "_id": "page.problem-urgent--radios.auto_name__53--radio.auto_value__10",
+          "_id": "page.problem-urgent--radios.auto_name__15--radio.auto_value__1",
           "_type": "radio",
-          "label": "Yes",
-          "value": "Yes"
+          "label": "Yes, the problem is urgent and I want to apply for an emergency injunction",
+          "value": "auto_value__1"
         },
         {
-          "_id": "page.problem-urgent--radios.auto_name__53--radio.auto_value__10--2",
+          "_id": "page.problem-urgent--radios.auto_name__15--radio.auto_value__2",
           "_type": "radio",
-          "label": "No",
-          "value": "No"
+          "label": "No, I don't think this is right option for me",
+          "value": "auto_value__2"
         }
       ],
-      "legend": "Do you agree with the following statements?",
-      "name": "auto_name__53"
+      "legend": "Do you want more information about emergency injunctions? ",
+      "name": "auto_name__15"
     }
   ],
-  "heading": "It sounds like the problem is urgent  ",
-  "lede": "You may be able to apply to the court to have the problem fixed immediately. This is known as applying for an emergency order or injunction.",
+  "heading": "It sounds like the problem may be urgent  ",
+  "lede": "If you are being seriously affected by a problem with your housing, you may be able to apply for an emergency court order. This is known as applying for an emergency injunction. ",
   "show": {
     "any": [
       {

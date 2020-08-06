@@ -5,7 +5,7 @@
     {
       "_id": "page.letter-of-claim--radios.auto_name__45",
       "_type": "radios",
-      "hint": "There's a process you need to follow as part of starting the legal process. ",
+      "hint": "If you haven't been able to come to a resolution, you may consider taking your landlord or letting agent to court. The court could order your landlord to:\r\n- do the repairs\r\n- pay you compensation, for example if your health has been affected \r\n- pay some or all of your legal costs\r\n",
       "items": [
         {
           "_id": "page.letter-of-claim--radios.auto_name__45--radio.auto_value__10",
@@ -20,7 +20,7 @@
           "value": "No"
         }
       ],
-      "legend": "Have you sent an 'official letter of claim'?  ",
+      "legend": "Have you considered taking your landlord or letting agent to court? ",
       "name": "auto_name__45"
     }
   ],

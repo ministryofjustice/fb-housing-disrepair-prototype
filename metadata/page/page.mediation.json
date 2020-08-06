@@ -5,7 +5,7 @@
     {
       "_id": "page.mediation--radios.auto_name__9",
       "_type": "radios",
-      "hint": "Talking to someone who is not involved in your case can be a good way to resolve a problem without the expense of going to court. If you do end up going to court, then you may need to show that you tried mediation first. ",
+      "hint": "A mediator is someone trained to resolve disagreements. Talking to a mediator may help you sort things out with your landlord or letting agent, especially if you have tried other ways to fix the problem. \r\n\r\nIf you do end up going to court, then you may need to show that you tried mediation first. ",
       "items": [
         {
           "_id": "page.mediation--radios.auto_name__9--radio.auto_value__9",
@@ -20,7 +20,7 @@
           "value": "No"
         }
       ],
-      "legend": "Have you tried talking to a mediator?  ",
+      "legend": "Have you tried working with a professional mediator?  ",
       "name": "auto_name__9"
     }
   ],
