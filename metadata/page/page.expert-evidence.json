@@ -5,7 +5,7 @@
     {
       "_id": "page.expert-evidence--radios.auto_name__47",
       "_type": "radios",
-      "hint": "As part of preparing to take your landlord or letting agent to court, you will need to gather information about the problem, how it has affected you, and what has happened so far. \r\n\r\nFor example, you could gather reports and statements from: \r\n- damp experts\r\n- building surveyors\r\n- plumbers or builders\r\n- your GP or other medical specialists",
+      "hint": "Part of preparing to take your landlord or letting agent to court will involve gathering information about the problem, how it has affected you, and what has happened so far. \r\n\r\nFor example, you could gather reports and statements from: \r\n- damp experts\r\n- building surveyors\r\n- plumbers or builders\r\n- your GP or other medical specialists",
       "items": [
         {
           "_id": "page.expert-evidence--radios.auto_name__47--radio.auto_value__10",

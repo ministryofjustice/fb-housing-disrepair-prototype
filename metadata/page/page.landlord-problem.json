@@ -24,6 +24,13 @@
           "_type": "checkbox",
           "label": "Yes, my landlord, letting agent or other people are entering the home without notice ",
           "name": "auto_name__55"
+        },
+        {
+          "_id": "page.landlord-problem--checkboxes--checkbox.auto_name__16",
+          "_type": "checkbox",
+          "hint": "Requests for repairs must have been made in writing (email or letter)",
+          "label": "Yes, my landlord has not replied to my requests for repairs ",
+          "name": "auto_name__16"
         }
       ],
       "legend": "Is there a problem with your landlord or letting agent?"
