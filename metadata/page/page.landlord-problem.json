@@ -1,0 +1,40 @@
+{
+  "_id": "page.landlord-problem",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.landlord-problem--checkboxes",
+      "_type": "checkboxes",
+      "hint": "You can choose more than one",
+      "items": [
+        {
+          "_id": "page.landlord-problem--checkboxes--checkbox.auto_name__5",
+          "_type": "checkbox",
+          "label": "No",
+          "name": "auto_name__5"
+        },
+        {
+          "_id": "page.landlord-problem--checkboxes--checkbox.auto_name__21",
+          "_type": "checkbox",
+          "label": "Yes, my landlord or letting agent has been abusive or threatened eviction ",
+          "name": "auto_name__21"
+        },
+        {
+          "_id": "page.landlord-problem--checkboxes--checkbox.auto_name__55",
+          "_type": "checkbox",
+          "label": "Yes, my landlord, letting agent or other people are entering the home without notice ",
+          "name": "auto_name__55"
+        },
+        {
+          "_id": "page.landlord-problem--checkboxes--checkbox.auto_name__16",
+          "_type": "checkbox",
+          "hint": "Requests for repairs must have been made in writing (email or letter)",
+          "label": "Yes, my landlord has not replied to my requests for repairs ",
+          "name": "auto_name__16"
+        }
+      ],
+      "legend": "Is there a problem with your landlord or letting agent?"
+    }
+  ],
+  "url": "landlord-problem"
+}
