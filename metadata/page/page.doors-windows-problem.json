@@ -41,7 +41,6 @@
       "legend": "Outside doors, walls, roof or windows need repair"
     }
   ],
-  "sectionHeading": "What is the problem with your housing?",
   "show": {
     "identifier": "auto_name__10",
     "operator": "defined"

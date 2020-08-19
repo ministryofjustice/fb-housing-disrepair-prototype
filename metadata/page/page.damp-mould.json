@@ -29,7 +29,6 @@
       "legend": "Damp or mould is growing inside"
     }
   ],
-  "sectionHeading": "What is the problem with your housing?",
   "show": {
     "identifier": "auto_name__12",
     "operator": "defined"

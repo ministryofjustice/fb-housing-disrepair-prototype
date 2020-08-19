@@ -29,7 +29,7 @@
       "legend": "Faulty smoke detectors, fire doors or obstructions causing a fire hazard "
     }
   ],
-  "sectionHeading": "What is the problem with your housing?",
+  "sectionHeading": "",
   "show": {
     "identifier": "auto_name__13",
     "operator": "defined"

@@ -29,7 +29,6 @@
       "legend": "Water leak (inside or outside), sinks, baths, toilets, pipes and drains"
     }
   ],
-  "sectionHeading": "What is the problem with your housing?",
   "show": {
     "identifier": "auto_name__6",
     "operator": "defined"
