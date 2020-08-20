@@ -28,14 +28,33 @@
     "conditionsType": "exactly",
     "exactly": [
       {
-        "identifier": "auto_name__45",
-        "operator": "is",
-        "value": "Yes"
+        "all": [
+          {
+            "identifier": "auto_name__32",
+            "operator": "is",
+            "value": "Yes"
+          },
+          {
+            "identifier": "auto_name__20",
+            "operator": "is",
+            "value": "Yes"
+          },
+          {
+            "identifier": "auto_name__9",
+            "operator": "is",
+            "value": "Yes"
+          },
+          {
+            "identifier": "auto_name__45",
+            "operator": "is",
+            "value": "Yes"
+          }
+        ]
       },
       {
-        "identifier": "auto_name__53",
+        "identifier": "auto_name__15",
         "operator": "is",
-        "value": "Yes"
+        "value": "auto_value__1"
       }
     ]
   },

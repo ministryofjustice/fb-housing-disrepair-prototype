@@ -56,7 +56,6 @@
       "legend": "Gas, electricity, boiler, heating or hot water supply is not working "
     }
   ],
-  "sectionHeading": "What is the problem with your housing?",
   "show": {
     "identifier": "auto_name__8",
     "operator": "defined"

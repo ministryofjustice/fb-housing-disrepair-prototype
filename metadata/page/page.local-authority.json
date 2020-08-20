@@ -30,7 +30,42 @@
       {
         "all": [
           {
+            "any": [
+              {
+                "identifier": "auto_name__37",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__30",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__31",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__27",
+                "operator": "defined"
+              }
+            ],
+            "conditionsType": "any"
+          },
+          {
+            "identifier": "auto_name__15",
+            "operator": "is",
+            "value": "auto_value__2"
+          }
+        ]
+      },
+      {
+        "all": [
+          {
             "identifier": "auto_name__37",
+            "negated": true,
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__30",
             "negated": true,
             "operator": "defined"
           },
@@ -43,26 +78,8 @@
             "identifier": "auto_name__27",
             "negated": true,
             "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__30",
-            "negated": true,
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__15",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__16",
-            "operator": "defined"
           }
         ]
-      },
-      {
-        "identifier": "auto_name__53",
-        "operator": "is",
-        "value": "No"
       }
     ]
   },
