@@ -5,7 +5,7 @@
     {
       "_id": "page.local-authority--radios.auto_name__32",
       "_type": "radios",
-      "hint": "Local councils have rules and guidelines that landlords and letting agents must follow. ",
+      "hint": "Local councils have rules that private landlords and letting agents must follow. They also have the power to enforce rules and get problems fixed.  ",
       "items": [
         {
           "_id": "page.local-authority--radios.auto_name__32--radio.auto_value__9",
