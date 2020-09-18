@@ -1,0 +1,32 @@
+{
+  "_id": "page.problem-health",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.problem-health--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.problem-health--checkboxes--checkbox.auto_name__53",
+          "_type": "checkbox",
+          "label": "Physical health problem that's got worse",
+          "name": "auto_name__53"
+        },
+        {
+          "_id": "page.problem-health--checkboxes--checkbox.auto_name__56",
+          "_type": "checkbox",
+          "label": "Injury from a fall or other accident ",
+          "name": "auto_name__56"
+        },
+        {
+          "_id": "page.problem-health--checkboxes--checkbox.auto_name__57",
+          "_type": "checkbox",
+          "label": "Stress, anxiety or other mental health issue",
+          "name": "auto_name__57"
+        }
+      ],
+      "legend": "Something else affecting your health"
+    }
+  ],
+  "url": "problem-health"
+}

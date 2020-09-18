@@ -1,0 +1,39 @@
+{
+  "_id": "page.problem-duration",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.problem-duration--radios.auto_name__58",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.problem-duration--radios.auto_name__58--radio.auto_value__10",
+          "_type": "radio",
+          "label": "1 week",
+          "value": "auto_value__10"
+        },
+        {
+          "_id": "page.problem-duration--radios.auto_name__58--radio.auto_value__11",
+          "_type": "radio",
+          "label": "1 month",
+          "value": "auto_value__11"
+        },
+        {
+          "_id": "page.problem-duration--radios.auto_name__58--radio.auto_value__12",
+          "_type": "radio",
+          "label": "2 - 6 months ",
+          "value": "auto_value__12"
+        },
+        {
+          "_id": "page.problem-duration--radios.auto_name__58--radio.auto_value__13",
+          "_type": "radio",
+          "label": "More than 6 months",
+          "value": "auto_value__13"
+        }
+      ],
+      "legend": "How long has the problem been going on? ",
+      "name": "auto_name__58"
+    }
+  ],
+  "url": "problem-duration"
+}

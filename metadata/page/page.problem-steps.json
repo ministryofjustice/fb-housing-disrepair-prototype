@@ -1,0 +1,38 @@
+{
+  "_id": "page.problem-steps",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.problem-steps--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.problem-steps--checkboxes--checkbox.auto_name__59",
+          "_type": "checkbox",
+          "label": "Searched for information online ",
+          "name": "auto_name__59"
+        },
+        {
+          "_id": "page.problem-steps--checkboxes--checkbox.auto_name__60",
+          "_type": "checkbox",
+          "label": "Called a telephone advice line, eg Shelter",
+          "name": "auto_name__60"
+        },
+        {
+          "_id": "page.problem-steps--checkboxes--checkbox.auto_name__61",
+          "_type": "checkbox",
+          "label": "Spoken to friends and family",
+          "name": "auto_name__61"
+        },
+        {
+          "_id": "page.problem-steps--checkboxes--checkbox.auto_name__62",
+          "_type": "checkbox",
+          "label": "Gone to an advice centre, eg Citizens Advice",
+          "name": "auto_name__62"
+        }
+      ],
+      "legend": "What have you done to try and fix the problem? "
+    }
+  ],
+  "url": "problem-steps"
+}
