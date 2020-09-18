@@ -74,7 +74,7 @@
         {
           "_id": "page.what-is-the-problem-with-your-housing--checkboxes--checkbox.auto_name__17",
           "_type": "checkbox",
-          "label": "Something else that's affecting your health",
+          "label": "Something else affecting your health",
           "name": "auto_name__17"
         }
       ],
