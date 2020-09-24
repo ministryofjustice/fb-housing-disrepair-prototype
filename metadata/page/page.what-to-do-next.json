@@ -3,15 +3,45 @@
   "_type": "page.content",
   "components": [
     {
+      "_id": "page.what-to-do-next--content",
+      "_type": "content",
+      "html": "## Consider organising the repair work yourself ##\r\n\r\nIf the problem is relatively small, you could arrange for the repairs to be done. However, it's important to keep your landlord informed, and follow a step-by-step process. You must not stop paying rent without notice, but you may be able to take the cost of repairs out of your rent. \r\n\r\nSee more about organising repairs yourself: [https://england.shelter.org.uk/housing_advice/repairs/doing_the_repairs_if_your_landlord_wont](https://england.shelter.org.uk/housing_advice/repairs/doing_the_repairs_if_your_landlord_wont)"
+    },
+    {
+      "_id": "page.what-to-do-next--content--2",
+      "_type": "content",
+      "html": "## Legal funding ##\r\n\r\n### Check whether you are eligible for legal aid ###\r\n\r\nLegal aid is only available where there's a serious risk to you or a family member's health and safety.  See: https://www.gov.uk/check-legal-aid\r\n\r\n### Free legal help and advice ###\r\n\r\nIf you're on a low income, you may qualify for free legal help. See: [https://www.citizensadvice.org.uk/law-and-courts/legal-system/finding-free-or-affordable-legal-help/](https://www.citizensadvice.org.uk/law-and-courts/legal-system/finding-free-or-affordable-legal-help/)\r\n\r\n### Check insurance policies or credit card agreements ###\r\n\r\nIf you don't qualify for legal aid, you should check any insurance policies or credit card agreements you have as these may include legal expenses insurance. Trade unions may also provide legal advice on matters other than work-related issues.\r\n\r\n### 'No win, no fee' representation ###\r\n\r\nSome solicitors may also offer 'no win, no fee' agreements as a way of funding a repair claim. You should check any agreement carefully before you sign it.\r\n\r\nFor more information about legal funding, see: \r\n\r\n- [https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-what-are-your-options-if-you-are-a-social-housing-tenant/taking-court-action-because-your-landlord-wont-make-repairs/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-what-are-your-options-if-you-are-a-social-housing-tenant/taking-court-action-because-your-landlord-wont-make-repairs/)\r\n- [https://www.citizensadvice.org.uk/law-and-courts/legal-system/taking-legal-action/](https://www.citizensadvice.org.uk/law-and-courts/legal-system/taking-legal-action/)  \r\n- [https://www.lawsociety.org.uk/for-the-public/faqs/#paying-legal-fees](https://www.lawsociety.org.uk/for-the-public/faqs/#paying-legal-fees)"
+    },
+    {
+      "_id": "page.what-to-do-next--content--3",
+      "_type": "content",
+      "html": "## Support if you don't have legal representation ##\r\n\r\nSupport through the Court is a charity supporting people who face court alone so that they can represent themselves to the best of their abilities. Support through the Court cannot provide legal advice or legal representation. \r\nSee: [https://www.supportthroughcourt.org/](https://www.supportthroughcourt.org/)"
+    },
+    {
+      "_id": "page.what-to-do-next--content--4",
+      "_type": "content",
+      "html": "## Find a legal service provider ##\r\n\r\n### Find a solicitor ###\r\nFind a Solicitor is a free service for anyone looking for information about organisations or people providing legal services in England and Wales that are regulated by the Solicitors Regulation Authority (SRA). \r\n\r\n### Law Works ###\r\nThe LawWorks Clinics Network provides free initial advice to individuals on housing matters. See [https://www.lawworks.org.uk/](https://www.lawworks.org.uk/).\r\n\r\n### Law Centre Network ###\r\nThe Law Centre Network is the membership body representing Law Centres in England, Wales and Northern Ireland. Law Centres offer legal advice, casework and representation to individuals and groups. The Law Centre Network helps users to locate a law centre.\r\n\r\n### Advocate ###\r\nAdvocate is a charity that finds free legal assistance from volunteer barristers. [https://weareadvocate.org.uk/](https://weareadvocate.org.uk/)."
+    },
+    {
+      "_id": "page.what-to-do-next--content--5",
+      "_type": "content",
+      "html": "## Speak to someone about the problem ##\r\n\r\n### Citizens Advice ###\r\n\r\nCitizens Advice provides information and guidance on housing problems online. Citizens Advice also provide an online chat service, a national telephone service, and have face-to-face centres locally.\r\n\r\n### Shelter ###\r\nShelter provide advice and support to people with housing issues or facing homelessness.\r\n\r\n\r\n"
+    },
+    {
+      "_id": "page.what-to-do-next--content--6",
+      "_type": "content",
+      "html": "## Online resources ##\r\n\r\n### Advice Now ###\r\n[https://www.advicenow.org.uk/guides/how-fix-problems-your-privately-rented-home](https://www.advicenow.org.uk/guides/how-fix-problems-your-privately-rented-home)\r\n\r\n### Shelter ###\r\n[https://england.shelter.org.uk/housing_advice/repairs](https://england.shelter.org.uk/housing_advice/repairs)\r\n\r\n### Citizens Advice ###\r\n[https://www.citizensadvice.org.uk/](https://england.shelter.org.uk/housing_advice/repairs)\r\n\r\n\r\n\r\n"
+    },
+    {
       "$component": true,
       "$content": true,
       "$definition": true,
       "_id": "page.what-to-do-next--content--13",
       "_type": "content",
-      "html": "[Print this page](#)\r\n\r\n[**Previous**: What to do now](what-to-do-now)"
+      "html": "[Print this page](#)"
     }
   ],
-  "heading": "Future steps and useful resources",
+  "heading": "Useful resources",
   "lede": "You'll find information that may be useful in the future, as well as links to other resources.",
   "url": "what-to-do-next"
 }

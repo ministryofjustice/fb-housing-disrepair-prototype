@@ -53,7 +53,10 @@
           "name": "auto_name__35"
         }
       ],
-      "legend": "Gas, electricity, boiler, heating or hot water supply is not working "
+      "legend": "Gas, electricity, boiler, heating or hot water supply is not working ",
+      "validation": {
+        "required": true
+      }
     }
   ],
   "show": {

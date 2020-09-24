@@ -20,31 +20,19 @@
           "value": "No"
         }
       ],
-      "legend": "Have you considered taking your landlord or letting agent to court? ",
+      "legend": "Would you consider taking your landlord or letting agent to court? ",
       "name": "auto_name__45"
     }
   ],
   "show": {
     "all": [
       {
-        "identifier": "auto_name__9",
-        "operator": "is",
-        "value": "Yes"
-      },
-      {
         "identifier": "auto_name__32",
-        "operator": "is",
-        "value": "Yes"
+        "operator": "defined"
       },
       {
         "identifier": "auto_name__20",
-        "operator": "is",
-        "value": "Yes"
-      },
-      {
-        "identifier": "auto_name__32",
-        "operator": "is",
-        "value": "Yes"
+        "operator": "defined"
       }
     ]
   },
