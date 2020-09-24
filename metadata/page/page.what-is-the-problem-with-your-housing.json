@@ -78,7 +78,10 @@
           "name": "auto_name__17"
         }
       ],
-      "legend": "What is the problem with your housing?"
+      "legend": "What is the problem with your housing?",
+      "validation": {
+        "required": true
+      }
     }
   ],
   "url": "what-is-the-problem-with-your-housing"

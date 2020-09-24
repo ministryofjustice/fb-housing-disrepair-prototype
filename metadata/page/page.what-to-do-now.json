@@ -14,17 +14,37 @@
       "$component": true,
       "$content": true,
       "$definition": true,
+      "_id": "page.what-to-do-now--content--10",
+      "_type": "content",
+      "html": "## Understand your responsibilities and keep a record "
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--25",
+      "_type": "content",
+      "html": "### Take pictures and keep a record\r\n\r\nIt may help to take pictures of the problem, especially if it changes. Keep copies of all letters, text messages or emails. \r\n\r\nIf you talk to your landlord or the local council on the phone, note the date and time of the call and what you spoke about. If you speak to someone at the council, make a note of their name."
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content--4",
       "_type": "content",
       "html": "### Problem with electricity or electric wiring ###\r\n\r\nYour landlord is responsible for making sure you are not exposed to shocks or burns caused by a faulty electricity supply. This is covered by the [Housing Act 2004](https://www.gov.uk/government/publications/hhsrs-operating-guidance-housing-act-2004-guidance-about-inspections-and-assessment-of-hazards-given-under-section-9). ",
       "show": {
-        "any": [
+        "all": [
           {
             "identifier": "auto_name__33",
             "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__8",
+            "operator": "defined"
           }
         ],
-        "conditionsType": "any"
+        "conditionsType": "all"
       }
     },
     {
@@ -35,8 +55,16 @@
       "_type": "content",
       "html": "### Problem with gas ###\r\n\r\nYour landlord is responsible for making sure the gas supply is safe with no risk of gas leaks. This is covered by the [Housing Act 2004](https://www.gov.uk/government/publications/hhsrs-operating-guidance-housing-act-2004-guidance-about-inspections-and-assessment-of-hazards-given-under-section-9). ",
       "show": {
-        "identifier": "auto_name__34",
-        "operator": "defined"
+        "all": [
+          {
+            "identifier": "auto_name__34",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__8",
+            "operator": "defined"
+          }
+        ]
       }
     },
     {
@@ -45,19 +73,37 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--2",
       "_type": "content",
-      "html": "### Problems with temperature extremes ###\r\n\r\nYour landlord is responsible for making sure that living conditions are not too hot or too cold. This is covered by the [Housing Act 2004](https://www.gov.uk/government/publications/hhsrs-operating-guidance-housing-act-2004-guidance-about-inspections-and-assessment-of-hazards-given-under-section-9). ",
+      "html": "### Problems with temperature extremes ###\r\n\r\nYour landlord is responsible for making sure that living conditions are not too hot or too cold. This is covered by the [Housing Act 2004](https://www.gov.uk/government/publications/hhsrs-operating-guidance-housing-act-2004-guidance-about-inspections-and-assessment-of-hazards-given-under-section-9). \r\n\r\n#### Home Heat Helpine ####\r\n\r\nCall the home heat helpine if you are worried about paying energy bills and keeping warm in winter. \r\n\r\nTel: 0800 33 66 99\r\n9am- 5.30pm Monday to Friday \r\n[www.homeheathelpine.org.uk](www.homeheathelpine.org.uk)",
       "show": {
-        "any": [
+        "all": [
           {
-            "identifier": "auto_name__35",
-            "operator": "defined"
+            "any": [
+              {
+                "identifier": "auto_name__35",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__37",
+                "operator": "defined"
+              }
+            ],
+            "conditionsType": "any"
           },
           {
             "identifier": "auto_name__37",
+            "negated": true,
+            "operator": "defined"
+          },
+          {
+            "0": {
+              "identifier": "auto_name__8",
+              "operator": "defined"
+            },
+            "identifier": "auto_name__8",
             "operator": "defined"
           }
         ],
-        "conditionsType": "any"
+        "conditionsType": "all"
       }
     },
     {
@@ -71,6 +117,10 @@
         "all": [
           {
             "identifier": "auto_name__36",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__8",
             "operator": "defined"
           }
         ]
@@ -87,6 +137,10 @@
         "all": [
           {
             "identifier": "auto_name__22",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__10",
             "operator": "defined"
           }
         ]
@@ -108,6 +162,10 @@
             },
             "identifier": "auto_name__30",
             "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__10",
+            "operator": "defined"
           }
         ]
       }
@@ -118,25 +176,48 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--9",
       "_type": "content",
-      "html": "### Problem with windows or doors ###\r\n\r\nIt is your landlord's responsibility to make sure that your home can be kept secure. This is covered by the [Housing Act 2004](https://www.gov.uk/government/publications/hhsrs-operating-guidance-housing-act-2004-guidance-about-inspections-and-assessment-of-hazards-given-under-section-9). ",
+      "html": "### Problem with broken windows or doors ###\r\n\r\nIt is your landlord's responsibility to make sure that your home can be kept secure. This is covered by the [Housing Act 2004](https://www.gov.uk/government/publications/hhsrs-operating-guidance-housing-act-2004-guidance-about-inspections-and-assessment-of-hazards-given-under-section-9). ",
       "show": {
-        "any": [
+        "all": [
           {
-            "0": {
-              "0": {
-                "identifier": "auto_name__16",
-                "operator": "defined"
-              }
-            },
             "identifier": "auto_name__38",
             "operator": "defined"
           },
           {
             "identifier": "auto_name__39",
+            "negated": true,
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__10",
             "operator": "defined"
           }
-        ],
-        "conditionsType": "any"
+        ]
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--33",
+      "_type": "content",
+      "html": "### Problem with doors or windows that won't open or close ###\r\n\r\nIt is your landlord's responsibility to make sure that your home can be kept secure. This is covered by the [Housing Act 2004](https://www.gov.uk/government/publications/hhsrs-operating-guidance-housing-act-2004-guidance-about-inspections-and-assessment-of-hazards-given-under-section-9). ",
+      "show": {
+        "all": [
+          {
+            "identifier": "auto_name__39",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__10",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__38",
+            "negated": true,
+            "operator": "defined"
+          }
+        ]
       }
     },
     {
@@ -145,10 +226,18 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--11",
       "_type": "content",
-      "html": "### Problem with stairs, bannisters or other shared common areas that need repair ###\r\n\r\nIt is your landlord's responsibility to make sure that falls on stairs are not likely to happen because of disrepair. This is covered by the [Housing Act 2004](https://www.gov.uk/government/publications/hhsrs-operating-guidance-housing-act-2004-guidance-about-inspections-and-assessment-of-hazards-given-under-section-9). ",
+      "html": "### Problem with stairs, bannisters or other shared common areas that need repair ###\r\n\r\nIt is your landlord's responsibility to make sure that falls on stairs are not likely to happen because of disrepair. This is covered by the [Housing Act 2004](https://www.gov.uk/government/publications/hhsrs-operating-guidance-housing-act-2004-guidance-about-inspections-and-assessment-of-hazards-given-under-section-9). \r\n\r\nRepairs or upkeep of common areas may not be the sole responsibility of your landlord. ",
       "show": {
-        "identifier": "auto_name__23",
-        "operator": "defined"
+        "all": [
+          {
+            "identifier": "auto_name__23",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__10",
+            "operator": "defined"
+          }
+        ]
       }
     },
     {
@@ -159,8 +248,16 @@
       "_type": "content",
       "html": "### Problem with access to the property ###\r\n\r\nIt is your landlord's responsibility to make sure the property is kept clear of anything that blocks access, particularly if this causes a fire hazard. This is covered by the [Housing Act 2004](https://www.gov.uk/government/publications/hhsrs-operating-guidance-housing-act-2004-guidance-about-inspections-and-assessment-of-hazards-given-under-section-9). ",
       "show": {
-        "identifier": "auto_name__40",
-        "operator": "defined"
+        "all": [
+          {
+            "identifier": "auto_name__40",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__13",
+            "operator": "defined"
+          }
+        ]
       }
     },
     {
@@ -171,8 +268,16 @@
       "_type": "content",
       "html": "### Problem with smoke or carbon monoxide detectors ###\r\n\r\nIt is your landlord's responsibility to make sure smoke and carbon monoxide detectors work properly. This is covered by the [Housing Act 2004](https://www.gov.uk/government/publications/hhsrs-operating-guidance-housing-act-2004-guidance-about-inspections-and-assessment-of-hazards-given-under-section-9). ",
       "show": {
-        "identifier": "auto_name__41",
-        "operator": "defined"
+        "all": [
+          {
+            "identifier": "auto_name__41",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__13",
+            "operator": "defined"
+          }
+        ]
       }
     },
     {
@@ -183,8 +288,16 @@
       "_type": "content",
       "html": "### Problem with fire hazard ###\r\n\r\nIt is your landlord's responsibility to address any fire hazards if this is not something you are able to fix. This is covered by the [Housing Act 2004](https://www.gov.uk/government/publications/hhsrs-operating-guidance-housing-act-2004-guidance-about-inspections-and-assessment-of-hazards-given-under-section-9). ",
       "show": {
-        "identifier": "auto_name__42",
-        "operator": "defined"
+        "all": [
+          {
+            "identifier": "auto_name__42",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__13",
+            "operator": "defined"
+          }
+        ]
       }
     },
     {
@@ -207,8 +320,16 @@
       "_type": "content",
       "html": "### Problem with a toilet not working ###\r\n\r\nIt is your landlord's responsibility to make sure the property has adequate sanitation and drainage. This is covered by the [Housing Act 2004](https://www.gov.uk/government/publications/hhsrs-operating-guidance-housing-act-2004-guidance-about-inspections-and-assessment-of-hazards-given-under-section-9). ",
       "show": {
-        "identifier": "auto_name__49",
-        "operator": "defined"
+        "all": [
+          {
+            "identifier": "auto_name__49",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__6",
+            "operator": "defined"
+          }
+        ]
       }
     },
     {
@@ -291,10 +412,18 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--19",
       "_type": "content",
-      "html": "### Work out who is responsible ###\r\n\r\nIt's not always easy to know whether your landlord is responsible for resolving problems with damp. This is because it can be difficult to find the exact cause of damp without the help of a surveyor. \r\n\r\nSee this guide about different kinds of damp: \r\n[https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/)",
+      "html": "### Problem with damp or mould ###\r\n\r\nIt's not always easy to know whether your landlord is responsible for resolving problems with damp. This is because it can be difficult to find the exact cause of damp without the help of a surveyor. \r\n\r\nSee this guide about different kinds of damp: \r\n[https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/)",
       "show": {
-        "identifier": "auto_name__54",
-        "operator": "defined"
+        "all": [
+          {
+            "identifier": "auto_name__54",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__12",
+            "operator": "defined"
+          }
+        ]
       }
     },
     {
@@ -303,10 +432,18 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--18",
       "_type": "content",
-      "html": "### Make sure you are not making the problem worse ###\r\n\r\nYou should make sure you are not contributing to the problem of inadequate ventilation. For example by drying clothes on radiators without opening windows, or not using the extractor fan after a shower. ",
+      "html": "### Problem with inadequate ventilation ###\r\n\r\nYou should make sure you are not contributing to the problem of inadequate ventilation. For example by drying clothes on radiators without opening windows, or not using the extractor fan after a shower. ",
       "show": {
-        "identifier": "auto_name__25",
-        "operator": "defined"
+        "all": [
+          {
+            "identifier": "auto_name__25",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__12",
+            "operator": "defined"
+          }
+        ]
       }
     },
     {
@@ -315,31 +452,43 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--16",
       "_type": "content",
-      "html": "### Get evidence about how the problem is affecting your health ###\r\n\r\nAs the damp problem is affecting your health, it may help to get a letter to explain this. Speak to your doctor or other healthcare professional. ",
+      "html": "### Problem with damp affecting your health ###\r\n\r\nAs the damp problem is affecting your health, it may help to get a letter to explain this. Speak to your doctor or other healthcare professional. ",
       "show": {
-        "identifier": "auto_name__24",
-        "operator": "defined"
+        "all": [
+          {
+            "identifier": "auto_name__24",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__12",
+            "operator": "defined"
+          }
+        ]
       }
     },
     {
       "$component": true,
       "$content": true,
       "$definition": true,
-      "_id": "page.what-to-do-now--content--22",
+      "_id": "page.what-to-do-now--content--43",
       "_type": "content",
       "html": "### Problem with a leak (inside or outside) ###\r\n\r\nIt's not always easy to determine whether your landlord is responsible for resolving problems with leaks. \r\n\r\nSee this guide for information about when your landlord may have fix leaks or repair water damage: \r\n[https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-leak-from-a-neighbouring-property/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-leak-from-a-neighbouring-property/).",
       "show": {
-        "any": [
-          {
-            "identifier": "auto_name__27",
-            "operator": "defined"
-          },
+        "all": [
           {
             "identifier": "auto_name__31",
             "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__6",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__27",
+            "negated": true,
+            "operator": "defined"
           }
-        ],
-        "conditionsType": "any"
+        ]
       }
     },
     {
@@ -358,9 +507,42 @@
       "$component": true,
       "$content": true,
       "$definition": true,
-      "_id": "page.what-to-do-now--content--10",
+      "_id": "page.what-to-do-now--content--30",
       "_type": "content",
-      "html": "\r\n---\r\n"
+      "html": "### Problem with your health ###\r\n\r\nContact your local council if you're not able to continue living in your home because it's making you unwell. They may be able to help arrange emergency housing.  Make sure you keep sick notes and hospital reports. \r\n\r\n#### Claim compensation for damage to your health\r\n\r\nYou can claim if your physical or mental health is affected by the conditions in your home.\r\n\r\nThe amount depends on how you were affected and for how long.\r\n\r\nYou can also claim for:\r\n\r\n- loss of earnings if you were unable to work\r\n- extra expenses such as prescriptions or travel to hospital\r\n\r\nSee the Shelter website for more information: [https://england.shelter.org.uk/housing_advice/repairs/housing_disrepair_check_if_you_can_claim_compensation](https://england.shelter.org.uk/housing_advice/repairs/housing_disrepair_check_if_you_can_claim_compensation)",
+      "show": {
+        "all": [
+          {
+            "any": [
+              {
+                "identifier": "auto_name__53",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__56",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__57",
+                "operator": "defined"
+              }
+            ],
+            "conditionsType": "any"
+          },
+          {
+            "identifier": "auto_name__17",
+            "operator": "defined"
+          }
+        ]
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--39",
+      "_type": "content",
+      "html": "## Work with your landlord or letting agent ##"
     },
     {
       "$component": true,
@@ -368,7 +550,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--14",
       "_type": "content",
-      "html": "### You need to tell your landlord or letting agent about the problem ###\r\n\r\nRemember to include these things in your letter or email:\r\n\r\n- specific details of what you are experiencing \r\n- date when the problem started \r\n- anything you have done since the problems started \r\n- when your landlord can come in to the property\r\n\r\nYou can use this [letter template](#). Send your letter by post or email. It may be helpful to include pictures of the problem. \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. ",
+      "html": "### You need to tell your landlord or letting agent about the problem ###\r\n\r\nRemember to include these things in your letter or email:\r\n\r\n- specific details of what you are experiencing \r\n- date when the problem started \r\n- anything you have done since the problems started \r\n- when your landlord can come in to the property\r\n\r\nYou can use this [letter template](#). Send your letter by post or email. It may be helpful to include pictures of the problem. \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. \r\n\r\n#### A guide to working with your landlord ####\r\n[https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord](https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord)",
       "show": {
         "all": [
           {
@@ -394,7 +576,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--23",
       "_type": "content",
-      "html": "### Contact your landlord or letting agent in writing ###\r\n\r\nEven if you have already told your landlord about the problem over the phone, by text message or in person, you need to tell them again in writing. This can be by email or letter. \r\n\r\nRemember to include these things in your letter or email:\r\n\r\n- specific details of what you are experiencing \r\n- date when the problem started \r\n- anything you have done since the problems started \r\n- when your landlord can come in to the property\r\n\r\nYou can use this [letter template](#). Send your letter by post or email. It may be helpful to include pictures of the problem. \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. \r\n\r\n### Allow time for your landlord to get back to you ###\r\n\r\nYour landlord should get back to you within a reasonable amount of time. This can be anything from XX days for an emergency, to XX weeks for something less serious. \r\n\r\nIf you haven't heard back from your landlord, you should try and contact them again. Remember to keep copies of any messages you send, along with the dates you sent them.\r\n",
+      "html": "### Contact your landlord or letting agent in writing ###\r\n\r\nEven if you have already told your landlord about the problem over the phone, by text message or in person, you need to tell them again in writing. This can be by email or letter. \r\n\r\nRemember to include these things in your letter or email:\r\n\r\n- specific details of what you are experiencing \r\n- date when the problem started \r\n- anything you have done since the problems started \r\n- when your landlord can come in to the property\r\n\r\nYou can use this [letter template](#). Send your letter by post or email. It may be helpful to include pictures of the problem. \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. \r\n\r\n#### Allow time for your landlord to get back to you ####\r\n\r\nYour landlord should get back to you within a reasonable amount of time. This can be anything from XX days for an emergency, to XX weeks for something less serious. \r\n\r\nIf you haven't heard back from your landlord, you should try and contact them again. Remember to keep copies of any messages you send, along with the dates you sent them.\r\n\r\n\r\n#### A guide to working with your landlord ####\r\n[https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord](https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord)\r\n",
       "show": {
         "all": [
           {
@@ -415,7 +597,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--24",
       "_type": "content",
-      "html": "### Write to your landlord or letting agent again ###\r\n\r\nIf you have waited a reasonable amount of time (usually this is XX days), you should write to your landlord again to tell them you will contact your local council for help with fixing the problem.\r\n\r\nYou an use this [letter template](#). \r\n\r\nInclude: \r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\nIt may be helpful to include pictures of the problem. Make sure you keep a record of this letter and the date that you sent it as you may need it in the future. ",
+      "html": "### Write to your landlord or letting agent again ###\r\n\r\nIf you have waited a reasonable amount of time (usually this is XX days), you should write to your landlord again to tell them you will contact your local council for help with fixing the problem.\r\n\r\nYou an use this [letter template](#). \r\n\r\nInclude: \r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\nIt may be helpful to include pictures of the problem. Make sure you keep a record of this letter and the date that you sent it as you may need it in the future. \r\n\r\n#### A guide to working with your landlord ####\r\n\r\n[https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord](https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord)",
       "show": {
         "any": [
           {
@@ -431,12 +613,87 @@
       }
     },
     {
+      "_id": "page.what-to-do-now--content--22",
+      "_type": "content",
+      "html": "## Problem with your landlord or letting agent ##",
+      "show": {
+        "any": [
+          {
+            "identifier": "auto_name__16",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__55",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__21",
+            "operator": "defined"
+          }
+        ],
+        "conditionsType": "any"
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--26",
+      "_type": "content",
+      "html": "### Your landlord should not evict you because you asked for repairs to be done ### \r\n\r\nYour landlord has to keep your home in a good condition and do repairs if you need them. They can’t make you leave your home just for asking for repairs to be done - your landlord has to follow a proper eviction process if they want you to leave. \r\n\r\nSee more about this on the Citizen's Advice website: \r\n[https://www.citizensadvice.org.uk/housing/renting-privately/ending-your-tenancy/if-youre-being-evicted-because-you-asked-for-repairs](https://www.citizensadvice.org.uk/housing/renting-privately/ending-your-tenancy/if-youre-being-evicted-because-you-asked-for-repairs).",
+      "show": {
+        "identifier": "auto_name__21",
+        "operator": "defined"
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--27",
+      "_type": "content",
+      "html": "### Your landlord may not enter your home without notice ###\r\n\r\nIt is against the law for landlords to enter your home without giving you notice. It is also against the law for them to arrange for anyone else to enter your home, eg builders, without giving you notice. \r\n\r\nSee: [https://england.shelter.org.uk/housing_advice/repairs/repairs_and_inspections_access_to_your_rented_home](https://england.shelter.org.uk/housing_advice/repairs/repairs_and_inspections_access_to_your_rented_home).",
+      "show": {
+        "identifier": "auto_name__55",
+        "operator": "defined"
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--28",
+      "_type": "content",
+      "html": "### Consider making a complaint about a landlord or letting agent ###\r\n\r\nIf you're unhappy with the way your landlord or letting agent has responded, you could consider making a complaint. For more information, see:  [https://england.shelter.org.uk/housing_advice/private_renting/complaints_about_letting_agents](https://england.shelter.org.uk/housing_advice/private_renting/complaints_about_letting_agents).",
+      "show": {
+        "any": [
+          {
+            "identifier": "auto_name__16",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__55"
+          },
+          {
+            "identifier": "auto_name__21",
+            "operator": "defined"
+          }
+        ],
+        "conditionsType": "any"
+      }
+    },
+    {
+      "_id": "page.what-to-do-now--content--40",
+      "_type": "content",
+      "html": "## Local Council ##"
+    },
+    {
       "$component": true,
       "$content": true,
       "$definition": true,
       "_id": "page.what-to-do-now--content--29",
       "_type": "content",
-      "html": "### Contact your local council ###\r\n\r\nYou should contact the housing team at your local council. They have an obligation to make sure that tenants are living in properties that are looked after by landlords, and kept in a reasonable state of repair.\r\n\r\nYou can find your local council using this service: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council).\r\n\r\nDepending on how serious the problem is, the local council may: \r\n\r\n- contact you for more information \r\n- make an appointment to come and inspect your home \r\n- arrange for an 'environmental health' team to come and inspect your home \r\n\r\nYou can use this [letter template](#). Remember to include:\r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\nIt may be helpful to include pictures of the problem. Make sure you keep a record of this letter and the date that you sent it as you may need it in the future. ",
+      "html": "### Contact your local council ###\r\n\r\nYou should contact the housing team at your local council. They have an obligation to make sure that tenants are living in properties that are looked after by landlords, and kept in a reasonable state of repair.\r\n\r\nYou can find your local council using this service: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council).\r\n\r\nDepending on how serious the problem is, the local council may: \r\n\r\n- contact you for more information \r\n- make an appointment to come and inspect your home \r\n- arrange for an 'environmental health' team to come and inspect your home \r\n\r\nYou can use this [letter template](#). Remember to include:\r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\nIt may be helpful to include pictures of the problem. Make sure you keep a record of this letter and the date that you sent it as you may need it in the future.",
       "show": {
         "any": [
           {
@@ -475,61 +732,19 @@
       "$component": true,
       "$content": true,
       "$definition": true,
-      "_id": "page.what-to-do-now--content--25",
-      "_type": "content",
-      "html": "\r\n---\r\n"
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--26",
-      "_type": "content",
-      "html": "### Your landlord should not evict you because you asked for repairs to be done ### \r\n\r\nYour landlord has to keep your home in a good condition and do repairs if you need them. They can’t make you leave your home just for asking for repairs to be done - your landlord has to follow a proper eviction process if they want you to leave. \r\n\r\nSee more about this on the Citizen's Advice website: \r\n[https://www.citizensadvice.org.uk/housing/renting-privately/ending-your-tenancy/if-youre-being-evicted-because-you-asked-for-repairs](https://www.citizensadvice.org.uk/housing/renting-privately/ending-your-tenancy/if-youre-being-evicted-because-you-asked-for-repairs).",
-      "show": {
-        "identifier": "auto_name__21",
-        "operator": "defined"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--27",
-      "_type": "content",
-      "html": "### Your landlord may not enter your home without notice ###\r\n\r\nIt is against the law for landlords to enter your home without giving you notice. It is also against the law for them to arrange for anyone else to enter your home, eg builders, without giving you notice. \r\n\r\nSee: [https://england.shelter.org.uk/housing_advice/repairs/repairs_and_inspections_access_to_your_rented_home](https://england.shelter.org.uk/housing_advice/repairs/repairs_and_inspections_access_to_your_rented_home).",
-      "show": {
-        "identifier": "auto_name__55",
-        "operator": "defined"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--28",
-      "_type": "content",
-      "html": "### Consider making a complaint about a landlord or letting agent ###\r\n\r\nIf you're unhappy with the way your landlord or letting agent has responded, you could consider making a complaint. For more information, see:  [https://england.shelter.org.uk/housing_advice/private_renting/complaints_about_letting_agents](https://england.shelter.org.uk/housing_advice/private_renting/complaints_about_letting_agents).",
-      "show": {
-        "identifier": "auto_name__16",
-        "operator": "defined"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--30",
-      "_type": "content",
-      "html": "\r\n---\r\n"
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
       "_id": "page.what-to-do-now--content--31",
       "_type": "content",
-      "html": "### Contact your local council again ###\r\n\r\nIf you have contacted your local council and they have not responded or carried out an informal inspection, you should contact them again and ask for a formal inspection against the Housing Health and Safety Rating System (HHSRS) for rented homes. \r\n\r\nYou can use this [letter template](#). \r\n\r\nRemember to include: \r\n\r\n- details of the problem and how it is affecting you\r\n- dates of when you contacted your landlord \r\n- date when you previously contacted the local council \r\n\r\n### Consider making a complaint to the local council ###\r\n\r\nYou can complain if you don't think the council has dealt with your problem properly. \r\n\r\nAsk for a copy of their: \r\n- housing enforcement policy \r\n- complaints procedure \r\n\r\nCheck the council have followed their own housing enforcement policy. If not, you can use the complaints procedure. You can use this service to complain about your local council: [https://www.gov.uk/complain-about-your-council](https://www.gov.uk/complain-about-your-council).",
+      "html": "### Contact your local council again ###\r\n\r\nIf you have contacted your local council and they have not responded or carried out an informal inspection, you should contact them again and ask for a formal inspection against the Housing Health and Safety Rating System (HHSRS) for rented homes. \r\n\r\nYou can use this [letter template](#). \r\n\r\nRemember to include: \r\n\r\n- details of the problem and how it is affecting you\r\n- dates of when you contacted your landlord \r\n- date when you previously contacted the local council \r\n\r\n#### Consider making a complaint to the local council ####\r\n\r\nYou can complain if you don't think the council has dealt with your problem properly. \r\n\r\nAsk for a copy of their: \r\n- housing enforcement policy \r\n- complaints procedure \r\n\r\nCheck the council have followed their own housing enforcement policy. If not, you can use the complaints procedure. You can use this service to complain about your local council: [https://www.gov.uk/complain-about-your-council](https://www.gov.uk/complain-about-your-council).\r\n\r\n#### Consider legal action ####\r\n\r\nYou can take court action to get work done or claim compensation if your landlord fails to deal with repairs, poor conditions or safety issues. \r\n \r\nThe court can order your landlord to: \r\n- carry out the repairs \r\n- pay you compensation \r\n- make an unsafe property fit to live in \r\n\r\nFor more infomattion, see: \r\n[https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs](https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs)\r\n\r\n#### Make a complaint to the Local Government and Social Care Ombudsman ####\r\n\r\nIf you're not satisfied with the council's response to your complaint, you can complain to the Local Government & Social Care Ombudsman. See: [https://www.lgo.org.uk/](https://www.lgo.org.uk/)",
+      "show": {
+        "identifier": "auto_name__20",
+        "operator": "is",
+        "value": "No"
+      }
+    },
+    {
+      "_id": "page.what-to-do-now--content--41",
+      "_type": "content",
+      "html": "### Consider making a complaint to the local council ### \r\n\r\nYou can complain if you don't think the council has dealt with your problem properly. \r\n\r\nAsk for a copy of their: \r\n- housing enforcement policy \r\n- complaints procedure \r\n\r\nCheck the council have followed their own housing enforcement policy. If not, you can use the complaints procedure. You can use this service to complain about your local council: [https://www.gov.uk/complain-about-your-council](https://www.gov.uk/complain-about-your-council)\r\n\r\n#### Make a complaint to the Local Government and Social Care Ombudsman #### \r\n\r\nIf you're not satisfied with the council's response to your complaint, you can complain to the Local Government & Social Care Ombudsman. See: [https://www.lgo.org.uk/](https://www.lgo.org.uk/)",
       "show": {
         "identifier": "auto_name__20",
         "operator": "is",
@@ -537,12 +752,17 @@
       }
     },
     {
+      "_id": "page.what-to-do-now--content--42",
+      "_type": "content",
+      "html": "## About mediation and legal action ##"
+    },
+    {
       "$component": true,
       "$content": true,
       "$definition": true,
       "_id": "page.what-to-do-now--content--32",
       "_type": "content",
-      "html": "### Apply to the court for an emergency injunction ###\r\n\r\nAsking the court to order that repairs be done immediately can only done when the problem is extremely serious. \r\n\r\nYou may want to get professional legal advice before starting an application. \r\n\r\nFind out more about applying for an emergency injunction here: [https://england.shelter.org.uk/housing_advice/eviction/how_to_get_an_illegal_eviction_injunction](https://england.shelter.org.uk/housing_advice/eviction/how_to_get_an_illegal_eviction_injunction)\r\n\r\n### Get legal advice or find a solicitor ###\r\n\r\n- [Find a Solicitor](#)\r\n- [Law Centre Network](#)\r\n- [LawWorks](#)",
+      "html": "### Apply to the court for an emergency injunction ###\r\n\r\nAsking the court to order that repairs be done immediately can only done when the problem is extremely serious. \r\n\r\nYou may want to get professional legal advice before starting an application. \r\n\r\nFind out more about applying for an emergency injunction here: [https://england.shelter.org.uk/housing_advice/eviction/how_to_get_an_illegal_eviction_injunction](https://england.shelter.org.uk/housing_advice/eviction/how_to_get_an_illegal_eviction_injunction)\r\n\r\nSee more about [finding a lawyer or legal advice](#).",
       "show": {
         "identifier": "auto_name__15",
         "operator": "is",
@@ -568,7 +788,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--35",
       "_type": "content",
-      "html": "### Taking legal action against your landlord or letting agent ###\r\n\r\nGoing to court can be expensive and time-consuming, but it is an option if you have not been able to resolve the problem in another way. You may want to talk to a solicitor or qualified legal professional before you start any legal action. \r\n\r\nThere is a process you need to follow to make a claim. \r\n\r\n### Send an official letter of claim ###\r\n\r\nYou need to send an official letter of claim to start the legal process. There are certain things that must be included: \r\n\r\n- your name and contact details\r\n- the address of the property\r\n- details of the problems. Be as specific as you can. \r\n- what you told your landlord and when you told them. Include all the dates. \r\n- how the problem is affecting you. For example if it is affecting your health. \r\n- how you want the problem to be fixed and details of compensation (if this applies to you)  \r\n\r\nYou can use this template for your letter: [XXX](#)\r\n\r\n### Give your landlord time to reply ###\r\n\r\nYou should give the landlord 20 days to reply and put things right. If they don't do so, you can the proceed with making a claim. \r\n\r\nRead more about taking legal action on the [Shelter website](https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs) and the [Citizens Advice website](https://www.citizensadvice.org.uk/housing/renting-privately/during-your-tenancy/going-to-court-if-your-landlord-wont-do-repairs/\r\n).\r\n\r\n\r\n### Consider making a 'small claim' ###\r\n\r\nYour claim could be heard in the small claims court. You'd only have to pay a fixed fee and you may not need a solicitor to represent you. \r\n\r\nFor claims where the only claim is for compensation (damages), the small claims limit of £10,000 applies. However, if a claim includes an application for an order for repair work it will only be allocated to the small claims track if both the:\r\n\r\n- estimated damages are less than £1,000, and\r\n- estimated cost of the repair work is less than £1,000.\r\n\r\nIf either amount is expected to be more than £1,000, you probably won't be able to take your case to the small claims court. \r\n\r\nSee the Shelter website for more information: [https://england.shelter.org.uk/legal/housing_conditions/taking_action_on_disrepair/county_court_action/gathering_information](https://england.shelter.org.uk/legal/housing_conditions/taking_action_on_disrepair/county_court_action/gathering_information).",
+      "html": "### About taking legal action ###\r\n\r\n#### Taking legal action against your landlord or letting agent ####\r\n\r\nGoing to court can be expensive and time-consuming, but it is an option if you have not been able to resolve the problem in another way. You may want to talk to a solicitor or qualified legal professional before you start any legal action. \r\n\r\nThere is a process you need to follow to make a claim. See the law that protects tenants' living conditions:[https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018)\r\n\r\n[Read more about taking legal action](/legal-action-detail)",
       "show": {
         "identifier": "auto_name__45",
         "operator": "is",
@@ -581,7 +801,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--36",
       "_type": "content",
-      "html": "### Taking legal action against your landlord or letting agent ###\r\n\r\nGoing to court can be expensive and time-consuming, but it is an option if you have not been able to resolve the problem in another way. You may want to talk to a solicitor or qualified legal professional before you start any legal action. \r\n\r\nRead more about taking legal action on the [Shelter website](https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs) and the [Citizens Advice website](https://www.citizensadvice.org.uk/housing/renting-privately/during-your-tenancy/going-to-court-if-your-landlord-wont-do-repairs/).",
+      "html": "### Taking legal action against your landlord or letting agent ###\r\n\r\nGoing to court can be expensive and time-consuming, but it is an option if you have not been able to resolve the problem in another way. You may want to talk to a solicitor or qualified legal professional before you start any legal action. \r\n\r\nThere is a process you need to follow to make a claim. See the law that protects tenants' living conditions: [https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018).\r\n\r\nRead more about taking legal action on the [Shelter website](https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs) and the [Citizens Advice website](https://www.citizensadvice.org.uk/housing/renting-privately/during-your-tenancy/going-to-court-if-your-landlord-wont-do-repairs/).",
       "show": {
         "identifier": "auto_name__45",
         "operator": "is",
@@ -594,7 +814,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--37",
       "_type": "content",
-      "html": "### Gathering information in preparation for court ###\r\n\r\nBefore going to court, it is important to gather together enough information to prove the case. This is likely to include:\r\n\r\n- proof of when the landlord was told about the problem and copies of any letters and emails\r\n- photographs of the problem \r\n- any evidence available from experts (eg surveyors, environmental health officers)\r\n- the tenancy agreement and other documents relating to the tenancy\r\n- any relevant medical reports detailing the effects of the bad housing conditions on the health or stress levels of the occupants\r\n- details of any costs incurred as a result of the disrepair.\r\n\r\n### Getting an expert opinion ###\r\n\r\nYou may need to ask an expert to carry out an inspection and put together a report for the court. Particularly if the problem is complex, or you and your landlord don't agree. \r\n\r\nYou may be able to share the cost of an expert opinion with your landlord, or claim the costs back if you win the case. \r\n\r\nFor more information about getting a report from an expert, see \r\n\r\n- [The Chartered Institute of Environmental Health, Consultants Directory](http://www.ehn-online.com/consultantsdirectory/consultants.aspx?cdid=5548)\r\n- [The Royal Institution of Chartered Surveyors’ Find a Surveyor](https://www.ricsfirms.com/)\r\n- [The Expert Witness Directory (2015)](https://www.sweetandmaxwell.co.uk/our-businesses/directories.aspx)\r\n\r\nYou can also see the Shelter website for more about gathering information in preparation for a court case: [https://england.shelter.org.uk/legal/housing_conditions/taking_action_on_disrepair/county_court_action/gathering_information](https://england.shelter.org.uk/legal/housing_conditions/taking_action_on_disrepair/county_court_action/gathering_information).",
+      "html": "### Getting ready for going to court ###\r\n\r\n#### Gathering information in preparation for court ####\r\n\r\nBefore going to court, it is important to gather together enough information to prove the case. This is likely to include:\r\n\r\n- proof of when the landlord was told about the problem and copies of any letters and emails\r\n- photographs of the problem \r\n- any evidence available from experts (eg surveyors, environmental health officers)\r\n- the tenancy agreement and other documents relating to the tenancy\r\n- any relevant medical reports detailing the effects of the bad housing conditions on the health or stress levels of the occupants\r\n- details of any costs incurred as a result of the disrepair.\r\n\r\n#### Getting an expert opinion ####\r\n\r\nYou may need to ask an expert to carry out an inspection and put together a report for the court. Particularly if the problem is complex, or you and your landlord don't agree. \r\n\r\nYou may be able to share the cost of an expert opinion with your landlord, or claim the costs back if you win the case. \r\n\r\nFor more information about getting a report from an expert, see \r\n\r\n- [The Chartered Institute of Environmental Health, Consultants Directory](http://www.ehn-online.com/consultantsdirectory/consultants.aspx?cdid=5548)\r\n- [The Royal Institution of Chartered Surveyors’ Find a Surveyor](https://www.ricsfirms.com/)\r\n- [The Expert Witness Directory (2015)](https://www.sweetandmaxwell.co.uk/our-businesses/directories.aspx)\r\n\r\nYou can also see the Shelter website for more about gathering information in preparation for a court case: [https://england.shelter.org.uk/legal/housing_conditions/taking_action_on_disrepair/county_court_action/gathering_information](https://england.shelter.org.uk/legal/housing_conditions/taking_action_on_disrepair/county_court_action/gathering_information).",
       "show": {
         "identifier": "auto_name__47",
         "operator": "is",

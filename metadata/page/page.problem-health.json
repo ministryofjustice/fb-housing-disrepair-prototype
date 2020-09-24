@@ -28,5 +28,9 @@
       "legend": "Something else affecting your health"
     }
   ],
+  "show": {
+    "identifier": "auto_name__17",
+    "operator": "defined"
+  },
   "url": "problem-health"
 }

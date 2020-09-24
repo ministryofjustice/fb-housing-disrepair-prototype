@@ -25,36 +25,24 @@
     }
   ],
   "show": {
-    "conditionsType": "exactly",
-    "exactly": [
+    "all": [
       {
-        "all": [
-          {
-            "identifier": "auto_name__32",
-            "operator": "is",
-            "value": "Yes"
-          },
-          {
-            "identifier": "auto_name__20",
-            "operator": "is",
-            "value": "Yes"
-          },
-          {
-            "identifier": "auto_name__9",
-            "operator": "is",
-            "value": "Yes"
-          },
-          {
-            "identifier": "auto_name__45",
-            "operator": "is",
-            "value": "Yes"
-          }
-        ]
+        "identifier": "auto_name__45",
+        "operator": "defined"
       },
       {
-        "identifier": "auto_name__15",
+        "identifier": "auto_name__9",
+        "operator": "defined"
+      },
+      {
+        "identifier": "auto_name__20",
         "operator": "is",
-        "value": "auto_value__1"
+        "value": "Yes"
+      },
+      {
+        "identifier": "auto_name__32",
+        "operator": "is",
+        "value": "Yes"
       }
     ]
   },
