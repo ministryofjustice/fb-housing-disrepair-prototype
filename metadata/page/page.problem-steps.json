@@ -32,7 +32,7 @@
           "name": "auto_name__62"
         }
       ],
-      "legend": "What have you done to try and fix the problem? ",
+      "legend": "What else have you done to try and fix the problem? ",
       "validation": {
         "required": true
       }
