@@ -28,11 +28,13 @@
     "all": [
       {
         "identifier": "auto_name__32",
-        "operator": "defined"
+        "operator": "is",
+        "value": "Yes"
       },
       {
         "identifier": "auto_name__20",
-        "operator": "defined"
+        "operator": "is",
+        "value": "Yes"
       }
     ]
   },
