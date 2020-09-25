@@ -828,6 +828,11 @@
       "_id": "page.what-to-do-now--content--38",
       "_type": "content",
       "html": "[Print this page](#)"
+    },
+    {
+      "_id": "page.what-to-do-now--content--44",
+      "_type": "content",
+      "html": "[v2](https://oss-prototype.herokuapp.com/grey-skip-links/page-1)"
     }
   ],
   "heading": "Next steps: what to do now",

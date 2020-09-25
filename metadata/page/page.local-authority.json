@@ -36,15 +36,11 @@
                 "operator": "defined"
               },
               {
-                "identifier": "auto_name__30",
-                "operator": "defined"
-              },
-              {
-                "identifier": "auto_name__31",
-                "operator": "defined"
-              },
-              {
                 "identifier": "auto_name__27",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__30",
                 "operator": "defined"
               }
             ],
@@ -55,7 +51,8 @@
             "operator": "is",
             "value": "auto_value__2"
           }
-        ]
+        ],
+        "conditionsType": "all"
       },
       {
         "all": [
@@ -65,17 +62,12 @@
             "operator": "defined"
           },
           {
-            "identifier": "auto_name__30",
-            "negated": true,
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__31",
-            "negated": true,
-            "operator": "defined"
-          },
-          {
             "identifier": "auto_name__27",
+            "negated": true,
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__30",
             "negated": true,
             "operator": "defined"
           }
