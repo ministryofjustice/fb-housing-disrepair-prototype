@@ -25,7 +25,10 @@
           "name": "auto_name__57"
         }
       ],
-      "legend": "Something else affecting your health"
+      "legend": "Something else affecting your health",
+      "validation": {
+        "required": true
+      }
     }
   ],
   "show": {

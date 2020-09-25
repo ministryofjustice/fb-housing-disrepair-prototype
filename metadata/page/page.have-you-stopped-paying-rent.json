@@ -21,7 +21,10 @@
         }
       ],
       "legend": "Have you stopped paying rent?",
-      "name": "auto_name__7"
+      "name": "auto_name__7",
+      "validation": {
+        "required": true
+      }
     }
   ],
   "url": "have-you-stopped-paying-rent"

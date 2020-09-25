@@ -38,7 +38,10 @@
           "name": "auto_name__23"
         }
       ],
-      "legend": "Outside doors, walls, roof or windows need repair"
+      "legend": "Outside doors, walls, roof or windows need repair",
+      "validation": {
+        "required": true
+      }
     }
   ],
   "show": {
