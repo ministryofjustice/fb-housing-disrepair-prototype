@@ -29,7 +29,7 @@
           "_id": "page.landlord-problem--checkboxes--checkbox.auto_name__16",
           "_type": "checkbox",
           "hint": "Requests for repairs must have been made in writing (email or letter)",
-          "label": "Yes, my landlord has not replied to my requests for repairs ",
+          "label": "Yes, I have written to my landlord, but they have not replied or fixed the problem",
           "name": "auto_name__16"
         }
       ],
