@@ -26,7 +26,10 @@
           "name": "auto_name__42"
         }
       ],
-      "legend": "Faulty smoke detectors, fire doors or obstructions causing a fire hazard "
+      "legend": "Faulty smoke detectors, fire doors or obstructions causing a fire hazard ",
+      "validation": {
+        "required": true
+      }
     }
   ],
   "sectionHeading": "",

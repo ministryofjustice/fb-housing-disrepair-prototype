@@ -26,7 +26,10 @@
           "name": "auto_name__54"
         }
       ],
-      "legend": "Damp or mould is growing inside"
+      "legend": "Damp or mould is growing inside",
+      "validation": {
+        "required": true
+      }
     }
   ],
   "show": {

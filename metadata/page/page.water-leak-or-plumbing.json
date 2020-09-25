@@ -26,7 +26,10 @@
           "name": "auto_name__49"
         }
       ],
-      "legend": "Water leak (inside or outside), sinks, baths, toilets, pipes and drains"
+      "legend": "Water leak (inside or outside), sinks, baths, toilets, pipes and drains",
+      "validation": {
+        "required": true
+      }
     }
   ],
   "show": {

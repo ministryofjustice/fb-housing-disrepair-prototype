@@ -36,7 +36,10 @@
           "name": "auto_name__4"
         }
       ],
-      "legend": "Have you told your landlord or letting agent?  "
+      "legend": "Have you told your landlord or letting agent?  ",
+      "validation": {
+        "required": true
+      }
     }
   ],
   "show": true,
