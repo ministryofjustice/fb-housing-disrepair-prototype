@@ -9,19 +9,19 @@
         {
           "_id": "page.problem-duration--radios.auto_name__58--radio.auto_value__10",
           "_type": "radio",
-          "label": "1 week",
+          "label": "1 week or less",
           "value": "auto_value__10"
         },
         {
           "_id": "page.problem-duration--radios.auto_name__58--radio.auto_value__11",
           "_type": "radio",
-          "label": "1 month",
+          "label": "1 month or less",
           "value": "auto_value__11"
         },
         {
           "_id": "page.problem-duration--radios.auto_name__58--radio.auto_value__12",
           "_type": "radio",
-          "label": "2 - 6 months ",
+          "label": "1 - 6 months ",
           "value": "auto_value__12"
         },
         {

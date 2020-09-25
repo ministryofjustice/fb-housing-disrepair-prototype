@@ -34,41 +34,73 @@
   "show": {
     "any": [
       {
-        "0": {
-          "any": [
-            {
-              "identifier": "auto_name__37",
-              "operator": "defined"
+        "all": [
+          {
+            "0": {
+              "any": [
+                {
+                  "identifier": "auto_name__37",
+                  "operator": "defined"
+                },
+                {
+                  "identifier": "auto_name__31",
+                  "operator": "defined"
+                },
+                {
+                  "identifier": "auto_name__27",
+                  "operator": "defined"
+                },
+                {
+                  "identifier": "auto_name__30",
+                  "operator": "defined"
+                }
+              ],
+              "conditionsType": "any"
             },
-            {
-              "identifier": "auto_name__31",
-              "operator": "defined"
-            },
-            {
-              "identifier": "auto_name__27",
-              "operator": "defined"
-            },
-            {
-              "identifier": "auto_name__30",
-              "operator": "defined"
-            }
-          ],
-          "conditionsType": "any"
-        },
-        "identifier": "auto_name__31",
-        "operator": "defined"
+            "identifier": "auto_name__31",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__6",
+            "operator": "defined"
+          }
+        ]
       },
       {
-        "identifier": "auto_name__27",
-        "operator": "defined"
+        "all": [
+          {
+            "identifier": "auto_name__27",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__6",
+            "operator": "defined"
+          }
+        ]
       },
       {
-        "identifier": "auto_name__37",
-        "operator": "defined"
+        "all": [
+          {
+            "identifier": "auto_name__37",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__8",
+            "operator": "defined"
+          }
+        ]
       },
       {
-        "identifier": "auto_name__30",
-        "operator": "defined"
+        "all": [
+          {
+            "identifier": "auto_name__30",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__10",
+            "operator": "defined"
+          }
+        ]
       }
     ],
     "conditionsType": "any"

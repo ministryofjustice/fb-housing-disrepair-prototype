@@ -754,7 +754,31 @@
     {
       "_id": "page.what-to-do-now--content--42",
       "_type": "content",
-      "html": "## About mediation and legal action ##"
+      "html": "## About mediation and legal action ##",
+      "show": {
+        "any": [
+          {
+            "identifier": "auto_name__15",
+            "operator": "is",
+            "value": "auto_value__1"
+          },
+          {
+            "identifier": "auto_name__9",
+            "operator": "is",
+            "value": "No"
+          },
+          {
+            "identifier": "auto_name__45",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__47",
+            "operator": "is",
+            "value": "No"
+          }
+        ],
+        "conditionsType": "any"
+      }
     },
     {
       "$component": true,
