@@ -334,65 +334,181 @@
       "show": {
         "any": [
           {
-            "identifier": "auto_name__33",
-            "operator": "defined"
+            "all": [
+              {
+                "identifier": "auto_name__33",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__8",
+                "operator": "defined"
+              }
+            ]
           },
           {
-            "identifier": "auto_name__34",
-            "operator": "defined"
+            "all": [
+              {
+                "identifier": "auto_name__34",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__8",
+                "operator": "defined"
+              }
+            ]
           },
           {
-            "identifier": "auto_name__35",
-            "operator": "defined"
+            "all": [
+              {
+                "identifier": "auto_name__35",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__8",
+                "operator": "defined"
+              }
+            ]
           },
           {
-            "identifier": "auto_name__37",
-            "operator": "defined"
+            "all": [
+              {
+                "identifier": "auto_name__37",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__8",
+                "operator": "defined"
+              }
+            ]
           },
           {
-            "identifier": "auto_name__36",
-            "negated": true,
-            "operator": "defined"
+            "all": [
+              {
+                "identifier": "auto_name__36",
+                "negated": true,
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__8",
+                "operator": "defined"
+              }
+            ]
           },
           {
-            "identifier": "auto_name__22",
-            "operator": "defined"
+            "all": [
+              {
+                "identifier": "auto_name__22",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__10",
+                "operator": "defined"
+              }
+            ]
           },
           {
-            "identifier": "auto_name__30",
-            "operator": "defined"
+            "all": [
+              {
+                "identifier": "auto_name__30",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__10",
+                "operator": "defined"
+              }
+            ]
           },
           {
-            "identifier": "auto_name__38",
-            "operator": "defined"
+            "all": [
+              {
+                "identifier": "auto_name__38",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__10",
+                "operator": "defined"
+              }
+            ]
           },
           {
-            "identifier": "auto_name__39",
-            "operator": "defined"
+            "all": [
+              {
+                "identifier": "auto_name__39",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__10",
+                "operator": "defined"
+              }
+            ]
           },
           {
-            "identifier": "auto_name__23",
-            "operator": "defined"
+            "all": [
+              {
+                "identifier": "auto_name__23",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__10",
+                "operator": "defined"
+              }
+            ]
           },
           {
-            "identifier": "auto_name__40",
-            "operator": "defined"
+            "all": [
+              {
+                "identifier": "auto_name__40",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__13",
+                "operator": "defined"
+              }
+            ]
           },
           {
-            "identifier": "auto_name__41",
-            "operator": "defined"
+            "all": [
+              {
+                "identifier": "auto_name__41",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__13",
+                "operator": "defined"
+              }
+            ]
           },
           {
-            "identifier": "auto_name__42",
-            "operator": "defined"
+            "all": [
+              {
+                "identifier": "auto_name__42",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__13",
+                "operator": "defined"
+              }
+            ]
           },
           {
+            "0": {
+              "identifier": "auto_name__14",
+              "operator": "defined"
+            },
             "identifier": "auto_name__14",
             "operator": "defined"
           },
           {
-            "identifier": "auto_name__49",
-            "operator": "defined"
+            "all": [
+              {
+                "identifier": "auto_name__49",
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__6",
+                "operator": "defined"
+              }
+            ]
           }
         ],
         "conditionsType": "any"
@@ -501,7 +617,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--30",
       "_type": "content",
-      "html": "### Problem with your health ###\r\n\r\nContact your local council if you're not able to continue living in your home because it's making you unwell. They may be able to help arrange emergency housing.  Make sure you keep sick notes and hospital reports. \r\n\r\n#### Claim compensation for damage to your health\r\n\r\nYou can claim if your physical or mental health is affected by the conditions in your home.\r\n\r\nThe amount depends on how you were affected and for how long.\r\n\r\nYou can also claim for:\r\n\r\n- loss of earnings if you were unable to work\r\n- extra expenses such as prescriptions or travel to hospital\r\n\r\nSee the Shelter website for more information: [https://england.shelter.org.uk/housing_advice/repairs/housing_disrepair_check_if_you_can_claim_compensation](https://england.shelter.org.uk/housing_advice/repairs/housing_disrepair_check_if_you_can_claim_compensation)",
+      "html": "### Problem with your health ###\r\n\r\nContact your local council if you're not able to continue living in your home because it's making you unwell. They may be able to help arrange emergency housing.  Make sure you keep sick notes and hospital reports. \r\n\r\n#### Claim compensation for damage to your health\r\n\r\nYou can claim if your physical or mental health is affected by the conditions in your home.\r\n\r\nThe amount depends on how you were affected and for how long.\r\n\r\nYou can also claim for:\r\n\r\n- loss of earnings if you were unable to work\r\n- extra expenses such as prescriptions or travel to hospital\r\n\r\nSee the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/repairs/housing_disrepair_check_if_you_can_claim_compensation).",
       "show": {
         "all": [
           {
@@ -614,7 +730,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--27",
       "_type": "content",
-      "html": "### Your landlord may not enter your home without notice ###\r\n\r\nIt is against the law for landlords to enter your home without giving you notice. It is also against the law for them to arrange for anyone else to enter your home, eg builders, without giving you notice. \r\n\r\nSee: [https://england.shelter.org.uk/housing_advice/repairs/repairs_and_inspections_access_to_your_rented_home](https://england.shelter.org.uk/housing_advice/repairs/repairs_and_inspections_access_to_your_rented_home).",
+      "html": "### Your landlord may not enter your home without notice ###\r\n\r\nIt is against the law for landlords to enter your home without giving you notice. It is also against the law for them to arrange for anyone else to enter your home, eg builders, without giving you notice. \r\n\r\nSee the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/repairs/repairs_and_inspections_access_to_your_rented_home).",
       "show": {
         "identifier": "auto_name__55",
         "operator": "defined"
@@ -626,7 +742,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--28",
       "_type": "content",
-      "html": "### Consider making a complaint about a landlord or letting agent ###\r\n\r\nIf you're unhappy with the way your landlord or letting agent has responded, you could consider making a complaint. For more information, see:  [https://england.shelter.org.uk/housing_advice/private_renting/complaints_about_letting_agents](https://england.shelter.org.uk/housing_advice/private_renting/complaints_about_letting_agents).",
+      "html": "### Consider making a complaint about a landlord or letting agent ###\r\n\r\nIf you're unhappy with the way your landlord or letting agent has responded, you could consider making a complaint. See the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/private_renting/complaints_about_letting_agents).",
       "show": {
         "any": [
           {
@@ -692,7 +808,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--31",
       "_type": "content",
-      "html": "### Contact your local council again ###\r\n\r\nIf you have contacted your local council and they have not responded or carried out an informal inspection, you should contact them again and ask for a formal inspection against the Housing Health and Safety Rating System (HHSRS) for rented homes. \r\n\r\nYou can use this [letter template](#). \r\n\r\nRemember to include: \r\n\r\n- details of the problem and how it is affecting you\r\n- dates of when you contacted your landlord \r\n- date when you previously contacted the local council \r\n\r\n#### Consider making a complaint to the local council ####\r\n\r\nYou can complain if you don't think the council has dealt with your problem properly. \r\n\r\nAsk for a copy of their: \r\n- housing enforcement policy \r\n- complaints procedure \r\n\r\nCheck the council have followed their own housing enforcement policy. If not, you can use the complaints procedure. You can use this service to complain about your local council: [https://www.gov.uk/complain-about-your-council](https://www.gov.uk/complain-about-your-council).\r\n\r\n#### Consider legal action ####\r\n\r\nYou can take court action to get work done or claim compensation if your landlord fails to deal with repairs, poor conditions or safety issues. \r\n \r\nThe court can order your landlord to: \r\n- carry out the repairs \r\n- pay you compensation \r\n- make an unsafe property fit to live in \r\n\r\nFor more infomattion, see: \r\n[https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs](https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs)\r\n\r\n#### Make a complaint to the Local Government and Social Care Ombudsman ####\r\n\r\nIf you're not satisfied with the council's response to your complaint, you can complain to the Local Government & Social Care Ombudsman. See: [https://www.lgo.org.uk/](https://www.lgo.org.uk/)",
+      "html": "### Contact your local council again ###\r\n\r\nIf you have contacted your local council and they have not responded or carried out an informal inspection, you should contact them again and ask for a formal inspection against the Housing Health and Safety Rating System (HHSRS) for rented homes. \r\n\r\nYou can use this [letter template](#). \r\n\r\nRemember to include: \r\n\r\n- details of the problem and how it is affecting you\r\n- dates of when you contacted your landlord \r\n- date when you previously contacted the local council \r\n\r\n#### Consider making a complaint to the local council ####\r\n\r\nYou can complain if you don't think the council has dealt with your problem properly. \r\n\r\nAsk for a copy of their: \r\n- housing enforcement policy \r\n- complaints procedure \r\n\r\nCheck the council have followed their own housing enforcement policy. If not, you can use the complaints procedure. You can use this service to complain about your local council: [https://www.gov.uk/complain-about-your-council](https://www.gov.uk/complain-about-your-council).\r\n\r\n#### Consider legal action ####\r\n\r\nYou can take court action to get work done or claim compensation if your landlord fails to deal with repairs, poor conditions or safety issues. \r\n \r\nThe court can order your landlord to: \r\n- carry out the repairs \r\n- pay you compensation \r\n- make an unsafe property fit to live in \r\n\r\nSee the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs).\r\n\r\n#### Make a complaint to the Local Government and Social Care Ombudsman ####\r\n\r\nIf you're not satisfied with the council's response to your complaint, you can complain to the Local Government & Social Care Ombudsman. See: [https://www.lgo.org.uk/](https://www.lgo.org.uk/)",
       "show": {
         "identifier": "auto_name__20",
         "operator": "is",
@@ -718,7 +834,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--32",
       "_type": "content",
-      "html": "### Apply to the court for an emergency injunction ###\r\n\r\nAsking the court to order that repairs be done immediately can only done when the problem is extremely serious. \r\n\r\nYou may want to get professional legal advice before starting an application. \r\n\r\nFind out more about applying for an emergency injunction here: [https://england.shelter.org.uk/housing_advice/eviction/how_to_get_an_illegal_eviction_injunction](https://england.shelter.org.uk/housing_advice/eviction/how_to_get_an_illegal_eviction_injunction)\r\n\r\nSee more about [finding a lawyer or legal advice](#).",
+      "html": "### Apply to the court for an emergency injunction ###\r\n\r\nAsking the court to order that repairs be done immediately can only done when the problem is extremely serious. \r\n\r\nYou may want to get professional legal advice before starting an application. \r\n\r\nFind out more about applying for an emergency injunction on the [Shelter website](https://england.shelter.org.uk/housing_advice/eviction/how_to_get_an_illegal_eviction_injunction).\r\n\r\nSee more about [finding a lawyer or legal advice](#).",
       "show": {
         "identifier": "auto_name__15",
         "operator": "is",
