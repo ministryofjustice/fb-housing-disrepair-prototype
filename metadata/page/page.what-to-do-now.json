@@ -24,7 +24,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--25",
       "_type": "content",
-      "html": "### Take pictures and keep a record\r\n\r\nIt may help to take pictures of the problem, especially if it changes. Keep copies of all letters, text messages or emails. \r\n\r\nIf you talk to your landlord or the local council on the phone, note the date and time of the call and what you spoke about. If you speak to someone at the council, make a note of their name."
+      "html": "### Take pictures and keep a record\r\n\r\nIt may help to take pictures of the problem, especially if it changes. Keep copies of all letters, text messages or emails. Note the date and time of any phone calls."
     },
     {
       "$component": true,
@@ -576,7 +576,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--23",
       "_type": "content",
-      "html": "### Contact your landlord or letting agent in writing ###\r\n\r\nEven if you have already told your landlord about the problem over the phone, by text message or in person, you need to tell them again in writing. This can be by email or letter. \r\n\r\nRemember to include these things in your letter or email:\r\n\r\n- specific details of what you are experiencing \r\n- date when the problem started \r\n- anything you have done since the problems started \r\n- when your landlord can come in to the property\r\n\r\nYou can use this [letter template](#). Send your letter by post or email. It may be helpful to include pictures of the problem. \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. \r\n\r\n#### Allow time for your landlord to get back to you ####\r\n\r\nYour landlord should get back to you within a reasonable amount of time. This can be anything from XX days for an emergency, to XX weeks for something less serious. \r\n\r\nRemember to keep copies of any messages you send, along with the dates you sent them.\r\n\r\n\r\n#### A guide to working with your landlord ####\r\n[https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord](https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord)\r\n",
+      "html": "### Contact your landlord or letting agent in writing ###\r\n\r\nEven if you have already told your landlord about the problem over the phone, by text message or in person, you need to tell them again in writing. This can be by email or letter. \r\n\r\n[See more about writing to your landlord](writing-to-landlord)",
       "show": {
         "all": [
           {
@@ -597,7 +597,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--24",
       "_type": "content",
-      "html": "### Write to your landlord or letting agent again ###\r\n\r\nIf you have waited a reasonable amount of time (usually this is XX days), you should write to your landlord again to tell them you will contact your local council for help with fixing the problem.\r\n\r\nYou an use this [letter template](#). \r\n\r\nInclude: \r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\nIt may be helpful to include pictures of the problem. Make sure you keep a record of this letter and the date that you sent it as you may need it in the future. \r\n\r\n#### A guide to working with your landlord ####\r\n\r\n[https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord](https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord)",
+      "html": "### Write to your landlord or letting agent again ###\r\n\r\nIf you have waited a reasonable amount of time (usually this is XX days), you should write to your landlord again to tell them you will contact your local council for help with fixing the problem.\r\n\r\n[See more about contacting your landlord again](/writing-to-landlord-again)",
       "show": {
         "any": [
           {
@@ -613,6 +613,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content--22",
       "_type": "content",
       "html": "## Problem with your landlord or letting agent ##",
@@ -672,7 +675,8 @@
             "operator": "defined"
           },
           {
-            "identifier": "auto_name__55"
+            "identifier": "auto_name__55",
+            "operator": "defined"
           },
           {
             "identifier": "auto_name__21",
@@ -683,6 +687,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content--40",
       "_type": "content",
       "html": "## Local Council ##"
@@ -693,7 +700,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--29",
       "_type": "content",
-      "html": "### Contact your local council ###\r\n\r\nYou should contact the housing team at your local council. They have an obligation to make sure that tenants are living in properties that are looked after by landlords, and kept in a reasonable state of repair.\r\n\r\nYou can find your local council using this service: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council).\r\n\r\nDepending on how serious the problem is, the local council may contact you for more information or arrange an inspection of your home. \r\n\r\nYou can use this [letter template](#). Remember to include:\r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem ",
+      "html": "### Contact your local council ###\r\n\r\nYou should contact the housing team at your local council. They have an obligation to make sure that tenants are living in properties that are looked after by landlords, and kept in a reasonable state of repair.\r\n\r\nYou can find your local council using this service: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council).\r\n\r\n[See more about contacting your council](/local-council-detail)",
       "show": {
         "any": [
           {
@@ -742,6 +749,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content--41",
       "_type": "content",
       "html": "### Consider making a complaint to the local council ### \r\n\r\nYou can complain if you don't think the council has dealt with your problem properly. \r\n\r\nAsk for a copy of their: \r\n- housing enforcement policy \r\n- complaints procedure \r\n\r\nCheck the council have followed their own housing enforcement policy. If not, you can use the complaints procedure. You can use this service to complain about your local council: [https://www.gov.uk/complain-about-your-council](https://www.gov.uk/complain-about-your-council)\r\n\r\n#### Make a complaint to the Local Government and Social Care Ombudsman #### \r\n\r\nIf you're not satisfied with the council's response to your complaint, you can complain to the Local Government & Social Care Ombudsman. See: [https://www.lgo.org.uk/](https://www.lgo.org.uk/)",
@@ -752,6 +762,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content--42",
       "_type": "content",
       "html": "## About mediation and legal action ##",
@@ -812,7 +825,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--35",
       "_type": "content",
-      "html": "### About taking legal action ###\r\n\r\n#### Taking legal action against your landlord or letting agent ####\r\n\r\nGoing to court can be expensive and time-consuming, but it is an option if you have not been able to resolve the problem in another way. You may want to talk to a solicitor or qualified legal professional before you start any legal action. \r\n\r\nThere is a process you need to follow to make a claim. See the law that protects tenants' living conditions:[https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018)\r\n\r\n[Read more about taking legal action](/legal-action-detail)",
+      "html": "### About taking legal action ###\r\n\r\n#### Taking legal action against your landlord or letting agent ####\r\n\r\nGoing to court can be expensive and time-consuming, but it is an option if you have not been able to resolve the problem in another way. You may want to talk to a solicitor or qualified legal professional before you start any legal action. \r\n\r\nThere is a process you need to follow to make a claim. See the law that protects tenants' living conditions:[https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018)\r\n\r\n[See more about taking legal action](/legal-action-detail)",
       "show": {
         "identifier": "auto_name__45",
         "operator": "is",
@@ -838,7 +851,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--37",
       "_type": "content",
-      "html": "### Getting ready for going to court ###\r\n\r\n#### Gathering information in preparation for court ####\r\n\r\nBefore going to court, it is important to gather together enough information to prove the case. This is likely to include:\r\n\r\n- proof of when the landlord was told about the problem and copies of any letters and emails\r\n- photographs of the problem \r\n- any evidence available from experts (eg surveyors, environmental health officers)\r\n- the tenancy agreement and other documents relating to the tenancy\r\n- any relevant medical reports detailing the effects of the bad housing conditions on the health or stress levels of the occupants\r\n- details of any costs incurred as a result of the disrepair.\r\n\r\n#### Getting an expert opinion ####\r\n\r\nYou may need to ask an expert to carry out an inspection and put together a report for the court. Particularly if the problem is complex, or you and your landlord don't agree. \r\n\r\nYou may be able to share the cost of an expert opinion with your landlord, or claim the costs back if you win the case. \r\n\r\nFor more information about getting a report from an expert, see \r\n\r\n- [The Chartered Institute of Environmental Health, Consultants Directory](http://www.ehn-online.com/consultantsdirectory/consultants.aspx?cdid=5548)\r\n- [The Royal Institution of Chartered Surveyors’ Find a Surveyor](https://www.ricsfirms.com/)\r\n- [The Expert Witness Directory (2015)](https://www.sweetandmaxwell.co.uk/our-businesses/directories.aspx)\r\n\r\nYou can also see the Shelter website for more about gathering information in preparation for a court case: [https://england.shelter.org.uk/legal/housing_conditions/taking_action_on_disrepair/county_court_action/gathering_information](https://england.shelter.org.uk/legal/housing_conditions/taking_action_on_disrepair/county_court_action/gathering_information).",
+      "html": "### Getting ready for going to court ###\r\n\r\nBefore going to court, you should try to gather as much information as you can about your case. \r\n\r\n[See more about getting ready for court](/court-expert-detail) ",
       "show": {
         "identifier": "auto_name__47",
         "operator": "is",
@@ -854,6 +867,9 @@
       "html": "[Print this page](#)"
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content--44",
       "_type": "content",
       "html": "[v2](https://oss-prototype.herokuapp.com/grey-skip-links/page-1)"
