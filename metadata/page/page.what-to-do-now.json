@@ -14,14 +14,6 @@
       "$component": true,
       "$content": true,
       "$definition": true,
-      "_id": "page.what-to-do-now--content--10",
-      "_type": "content",
-      "html": "## Understand your responsibilities and keep a record "
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
       "_id": "page.what-to-do-now--content--25",
       "_type": "content",
       "html": "### Take pictures and keep a record\r\n\r\nIt may help to take pictures of the problem, especially if it changes. Keep copies of all letters, text messages or emails. Note the date and time of any phone calls."
@@ -540,14 +532,6 @@
       "$component": true,
       "$content": true,
       "$definition": true,
-      "_id": "page.what-to-do-now--content--39",
-      "_type": "content",
-      "html": "## Work with your landlord or letting agent ##"
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
       "_id": "page.what-to-do-now--content--14",
       "_type": "content",
       "html": "### You need to tell your landlord or letting agent about the problem ###\r\n\r\nRemember to include these things in your letter or email:\r\n\r\n- specific details of what you are experiencing \r\n- date when the problem started \r\n- anything you have done since the problems started \r\n- when your landlord can come in to the property\r\n\r\nYou can use this [letter template](#). Send your letter by post or email. It may be helpful to include pictures of the problem. \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. \r\n\r\n#### A guide to working with your landlord ####\r\n[https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord](https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord)",
@@ -616,31 +600,6 @@
       "$component": true,
       "$content": true,
       "$definition": true,
-      "_id": "page.what-to-do-now--content--22",
-      "_type": "content",
-      "html": "## Problem with your landlord or letting agent ##",
-      "show": {
-        "any": [
-          {
-            "identifier": "auto_name__16",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__55",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__21",
-            "operator": "defined"
-          }
-        ],
-        "conditionsType": "any"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
       "_id": "page.what-to-do-now--content--26",
       "_type": "content",
       "html": "### Your landlord should not evict you because you asked for repairs to be done ### \r\n\r\nYour landlord has to keep your home in a good condition and do repairs if you need them. They can’t make you leave your home just for asking for repairs to be done - your landlord has to follow a proper eviction process if they want you to leave. \r\n\r\nSee more about this on the Citizen's Advice website: \r\n[https://www.citizensadvice.org.uk/housing/renting-privately/ending-your-tenancy/if-youre-being-evicted-because-you-asked-for-repairs](https://www.citizensadvice.org.uk/housing/renting-privately/ending-your-tenancy/if-youre-being-evicted-because-you-asked-for-repairs).",
@@ -685,14 +644,6 @@
         ],
         "conditionsType": "any"
       }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--40",
-      "_type": "content",
-      "html": "## Local Council ##"
     },
     {
       "$component": true,
@@ -765,38 +716,6 @@
       "$component": true,
       "$content": true,
       "$definition": true,
-      "_id": "page.what-to-do-now--content--42",
-      "_type": "content",
-      "html": "## About mediation and legal action ##",
-      "show": {
-        "any": [
-          {
-            "identifier": "auto_name__15",
-            "operator": "is",
-            "value": "auto_value__1"
-          },
-          {
-            "identifier": "auto_name__9",
-            "operator": "is",
-            "value": "No"
-          },
-          {
-            "identifier": "auto_name__45",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__47",
-            "operator": "is",
-            "value": "No"
-          }
-        ],
-        "conditionsType": "any"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
       "_id": "page.what-to-do-now--content--32",
       "_type": "content",
       "html": "### Apply to the court for an emergency injunction ###\r\n\r\nAsking the court to order that repairs be done immediately can only done when the problem is extremely serious. \r\n\r\nYou may want to get professional legal advice before starting an application. \r\n\r\nFind out more about applying for an emergency injunction here: [https://england.shelter.org.uk/housing_advice/eviction/how_to_get_an_illegal_eviction_injunction](https://england.shelter.org.uk/housing_advice/eviction/how_to_get_an_illegal_eviction_injunction)\r\n\r\nSee more about [finding a lawyer or legal advice](#).",
@@ -859,20 +778,17 @@
       }
     },
     {
+      "_id": "page.what-to-do-now--content--10",
+      "_type": "content",
+      "html": "### Future steps and useful resources ###\r\n\r\nIf you would like more support beyond these steps you can [read future steps and information](/useful-resources)."
+    },
+    {
       "$component": true,
       "$content": true,
       "$definition": true,
       "_id": "page.what-to-do-now--content--38",
       "_type": "content",
       "html": "[Print this page](#)"
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--44",
-      "_type": "content",
-      "html": "[v2](https://oss-prototype.herokuapp.com/grey-skip-links/page-1)"
     }
   ],
   "heading": "Next steps: what to do now",

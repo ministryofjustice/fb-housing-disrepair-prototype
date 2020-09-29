@@ -1,5 +1,5 @@
 {
-  "_id": "page.what-to-do-next",
+  "_id": "page.useful-resources",
   "_type": "page.content",
   "components": [
     {
@@ -43,5 +43,5 @@
   ],
   "heading": "Useful resources",
   "lede": "You'll find information that may be useful in the future, as well as links to other resources.",
-  "url": "what-to-do-next"
+  "url": "useful-resources"
 }
