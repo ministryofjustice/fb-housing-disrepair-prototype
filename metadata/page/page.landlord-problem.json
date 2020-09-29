@@ -8,12 +8,6 @@
       "hint": "You can choose more than one",
       "items": [
         {
-          "_id": "page.landlord-problem--checkboxes--checkbox.auto_name__5",
-          "_type": "checkbox",
-          "label": "No",
-          "name": "auto_name__5"
-        },
-        {
           "_id": "page.landlord-problem--checkboxes--checkbox.auto_name__21",
           "_type": "checkbox",
           "label": "Yes, my landlord or letting agent has been abusive or threatened eviction ",
@@ -30,7 +24,17 @@
           "_type": "checkbox",
           "hint": "Requests for repairs must have been made in writing (email or letter)",
           "label": "Yes, I have written to my landlord, but they have not replied or fixed the problem",
-          "name": "auto_name__16"
+          "name": "auto_name__16",
+          "show": {
+            "identifier": "auto_name__4",
+            "operator": "defined"
+          }
+        },
+        {
+          "_id": "page.landlord-problem--checkboxes--checkbox.auto_name__5",
+          "_type": "checkbox",
+          "label": "None of these",
+          "name": "auto_name__5"
         }
       ],
       "legend": "Is there a problem with your landlord or letting agent?",

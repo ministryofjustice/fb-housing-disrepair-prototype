@@ -24,7 +24,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--25",
       "_type": "content",
-      "html": "### Take pictures and keep a record\r\n\r\nIt may help to take pictures of the problem, especially if it changes. Keep copies of all letters, text messages or emails. \r\n\r\nIf you talk to your landlord or the local council on the phone, note the date and time of the call and what you spoke about. If you speak to someone at the council, make a note of their name."
+      "html": "### Take pictures and keep a record\r\n\r\nIt may help to take pictures of the problem, especially if it changes. Keep copies of all letters, text messages or emails. Note the date and time of any phone calls."
     },
     {
       "$component": true,
@@ -576,7 +576,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--23",
       "_type": "content",
-      "html": "### Contact your landlord or letting agent in writing ###\r\n\r\nEven if you have already told your landlord about the problem over the phone, by text message or in person, you need to tell them again in writing. This can be by email or letter. \r\n\r\nRemember to include these things in your letter or email:\r\n\r\n- specific details of what you are experiencing \r\n- date when the problem started \r\n- anything you have done since the problems started \r\n- when your landlord can come in to the property\r\n\r\nYou can use this [letter template](#). Send your letter by post or email. It may be helpful to include pictures of the problem. \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. \r\n\r\n#### Allow time for your landlord to get back to you ####\r\n\r\nYour landlord should get back to you within a reasonable amount of time. This can be anything from XX days for an emergency, to XX weeks for something less serious. \r\n\r\nRemember to keep copies of any messages you send, along with the dates you sent them.\r\n\r\n\r\n#### A guide to working with your landlord ####\r\n[https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord](https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord)\r\n",
+      "html": "### Contact your landlord or letting agent in writing ###\r\n\r\nEven if you have already told your landlord about the problem over the phone, by text message or in person, you need to tell them again in writing. This can be by email or letter. \r\n\r\n[See more about writing to your landlord](writing-to-landlord)",
       "show": {
         "all": [
           {
@@ -597,7 +597,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--24",
       "_type": "content",
-      "html": "### Write to your landlord or letting agent again ###\r\n\r\nIf you have waited a reasonable amount of time (usually this is XX days), you should write to your landlord again to tell them you will contact your local council for help with fixing the problem.\r\n\r\nYou an use this [letter template](#). \r\n\r\nInclude: \r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\nIt may be helpful to include pictures of the problem. Make sure you keep a record of this letter and the date that you sent it as you may need it in the future. \r\n\r\n#### A guide to working with your landlord ####\r\n\r\n[https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord](https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord)",
+      "html": "### Write to your landlord or letting agent again ###\r\n\r\nIf you have waited a reasonable amount of time (usually this is XX days), you should write to your landlord again to tell them you will contact your local council for help with fixing the problem.\r\n\r\n[See more about contacting your landlord again](/writing-to-landlord-again)",
       "show": {
         "any": [
           {
@@ -613,6 +613,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content--22",
       "_type": "content",
       "html": "## Problem with your landlord or letting agent ##",
@@ -672,7 +675,8 @@
             "operator": "defined"
           },
           {
-            "identifier": "auto_name__55"
+            "identifier": "auto_name__55",
+            "operator": "defined"
           },
           {
             "identifier": "auto_name__21",
@@ -683,6 +687,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content--40",
       "_type": "content",
       "html": "## Local Council ##"
@@ -742,6 +749,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content--41",
       "_type": "content",
       "html": "### Consider making a complaint to the local council ### \r\n\r\nYou can complain if you don't think the council has dealt with your problem properly. \r\n\r\nAsk for a copy of their: \r\n- housing enforcement policy \r\n- complaints procedure \r\n\r\nCheck the council have followed their own housing enforcement policy. If not, you can use the complaints procedure. You can use this service to complain about your local council: [https://www.gov.uk/complain-about-your-council](https://www.gov.uk/complain-about-your-council)\r\n\r\n#### Make a complaint to the Local Government and Social Care Ombudsman #### \r\n\r\nIf you're not satisfied with the council's response to your complaint, you can complain to the Local Government & Social Care Ombudsman. See: [https://www.lgo.org.uk/](https://www.lgo.org.uk/)",
@@ -752,6 +762,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content--42",
       "_type": "content",
       "html": "## About mediation and legal action ##",
@@ -854,6 +867,9 @@
       "html": "[Print this page](#)"
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content--44",
       "_type": "content",
       "html": "[v2](https://oss-prototype.herokuapp.com/grey-skip-links/page-1)"
