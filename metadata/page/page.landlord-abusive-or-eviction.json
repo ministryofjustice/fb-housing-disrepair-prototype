@@ -1,0 +1,27 @@
+{
+  "_id": "page.landlord-abusive-or-eviction",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.landlord-abusive-or-eviction--radios.auto_name__63",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.landlord-abusive-or-eviction--radios.auto_name__63--radio.auto_value__14",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__14"
+        },
+        {
+          "_id": "page.landlord-abusive-or-eviction--radios.auto_name__63--radio.auto_value__15",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__15"
+        }
+      ],
+      "legend": "Is your landlord being abusive or threatening eviction? ",
+      "name": "auto_name__63"
+    }
+  ],
+  "url": "landlord-abusive-or-eviction"
+}

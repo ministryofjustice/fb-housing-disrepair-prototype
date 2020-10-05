@@ -1,0 +1,28 @@
+{
+  "_id": "page.landlord-entering-without-notice",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.landlord-entering-without-notice--radios.auto_name__64",
+      "_type": "radios",
+      "hint": "This includes giving access to tradespeople\r\n\r\n",
+      "items": [
+        {
+          "_id": "page.landlord-entering-without-notice--radios.auto_name__64--radio.auto_value__16",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__16"
+        },
+        {
+          "_id": "page.landlord-entering-without-notice--radios.auto_name__64--radio.auto_value__17",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__17"
+        }
+      ],
+      "legend": "Is your landlord or letting agent entering your home without notice?",
+      "name": "auto_name__64"
+    }
+  ],
+  "url": "landlord-entering-without-notice"
+}
