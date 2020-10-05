@@ -1,9 +1,9 @@
 {
   "_id": "page.stopped-rent-payment",
   "_type": "page.content",
-  "body": "You don't have the right to stop paying rent - even if your landlord has not carried out repairs. Your landlord could evict you if you don't pay rent.",
-  "heading": "Not paying rent can make the problem worse ",
-  "lede": "",
+  "body": "You should continue to pay rent even if your landlord has not carried out repairs. Otherwise you may be at risk of eviction. ",
+  "heading": "You are advised not to stop paying rent ",
+  "lede": "Not paying rent can make the problem worse.",
   "show": {
     "identifier": "auto_name__7",
     "operator": "is",

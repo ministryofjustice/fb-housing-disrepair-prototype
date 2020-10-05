@@ -65,17 +65,14 @@
           "name": "auto_name__14"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.what-is-the-problem-with-your-housing--checkboxes--checkbox.auto_name__6",
           "_type": "checkbox",
           "hint": "Includes toilets, pipes, drains, sinks, showers and baths",
           "label": "Plumbing and leaks (inside or outside)",
           "name": "auto_name__6"
-        },
-        {
-          "_id": "page.what-is-the-problem-with-your-housing--checkboxes--checkbox.auto_name__17",
-          "_type": "checkbox",
-          "label": "Something else affecting your health",
-          "name": "auto_name__17"
         }
       ],
       "legend": "What is the problem with your housing?",

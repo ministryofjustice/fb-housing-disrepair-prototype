@@ -5,27 +5,34 @@
     {
       "_id": "page.problem-health--checkboxes",
       "_type": "checkboxes",
+      "hint": "Select all that apply",
       "items": [
         {
           "_id": "page.problem-health--checkboxes--checkbox.auto_name__53",
           "_type": "checkbox",
-          "label": "Physical health problem that's got worse",
+          "label": "Yes, it's caused, or made a physical health problem worse",
           "name": "auto_name__53"
         },
         {
           "_id": "page.problem-health--checkboxes--checkbox.auto_name__56",
           "_type": "checkbox",
-          "label": "Injury from a fall or other accident ",
+          "label": "Yes, I've been injured by a fall or had an accident ",
           "name": "auto_name__56"
         },
         {
           "_id": "page.problem-health--checkboxes--checkbox.auto_name__57",
           "_type": "checkbox",
-          "label": "Stress, anxiety or other mental health issue",
+          "label": "Yes, it's caused stress, anxiety or other mental health issue",
           "name": "auto_name__57"
+        },
+        {
+          "_id": "page.problem-health--checkboxes--checkbox.auto_name__5",
+          "_type": "checkbox",
+          "label": "No, my health has not been affected",
+          "name": "auto_name__5"
         }
       ],
-      "legend": "Something else affecting your health",
+      "legend": "Has your health been affected by this problem? ",
       "validation": {
         "required": true
       }
