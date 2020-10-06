@@ -520,18 +520,10 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--19",
       "_type": "content",
-      "html": "### Problem with damp or mould ###\r\n\r\nIt's not always easy to know whether your landlord is responsible for resolving problems with damp. This is because it can be difficult to find the exact cause of damp without the help of a surveyor. \r\n\r\nSee this guide about different kinds of damp: \r\n[https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/)",
+      "html": "### Problem with damp or mould ###\r\n\r\nIt's not always easy to know whether your landlord is responsible for resolving problems with damp. This is because it can be difficult to find the exact cause of damp without the help of a surveyor. \r\n\r\nYou should make sure you are not contributing to the problem of inadequate ventilation. For example by drying clothes on radiators without opening windows, or not using the extractor fan after a shower. \r\n\r\nSee this guide about different kinds of damp: \r\n[https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/)",
       "show": {
-        "all": [
-          {
-            "identifier": "auto_name__54",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__12",
-            "operator": "defined"
-          }
-        ]
+        "identifier": "auto_name__12",
+        "operator": "defined"
       }
     },
     {
@@ -541,18 +533,7 @@
       "_id": "page.what-to-do-now--content--18",
       "_type": "content",
       "html": "### Problem with inadequate ventilation ###\r\n\r\nYou should make sure you are not contributing to the problem of inadequate ventilation. For example by drying clothes on radiators without opening windows, or not using the extractor fan after a shower. ",
-      "show": {
-        "all": [
-          {
-            "identifier": "auto_name__25",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__12",
-            "operator": "defined"
-          }
-        ]
-      }
+      "show": false
     },
     {
       "$component": true,
@@ -561,18 +542,7 @@
       "_id": "page.what-to-do-now--content--16",
       "_type": "content",
       "html": "### Problem with damp affecting your health ###\r\n\r\nAs the damp problem is affecting your health, it may help to get a letter to explain this. Speak to your doctor or other healthcare professional. ",
-      "show": {
-        "all": [
-          {
-            "identifier": "auto_name__24",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__12",
-            "operator": "defined"
-          }
-        ]
-      }
+      "show": false
     },
     {
       "$component": true,
@@ -619,29 +589,38 @@
       "_type": "content",
       "html": "### Problem with your health ###\r\n\r\nContact your local council if you're not able to continue living in your home because it's making you unwell. They may be able to help arrange emergency housing.  Make sure you keep sick notes and hospital reports. \r\n\r\n#### Claim compensation for damage to your health\r\n\r\nYou can claim if your physical or mental health is affected by the conditions in your home.\r\n\r\nThe amount depends on how you were affected and for how long.\r\n\r\nYou can also claim for:\r\n\r\n- loss of earnings if you were unable to work\r\n- extra expenses such as prescriptions or travel to hospital\r\n\r\nSee the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/repairs/housing_disrepair_check_if_you_can_claim_compensation).",
       "show": {
-        "all": [
+        "any": [
           {
-            "any": [
-              {
-                "identifier": "auto_name__53",
-                "operator": "defined"
-              },
-              {
-                "identifier": "auto_name__56",
-                "operator": "defined"
-              },
-              {
-                "identifier": "auto_name__57",
-                "operator": "defined"
-              }
-            ],
-            "conditionsType": "any"
+            "0": {
+              "any": [
+                {
+                  "identifier": "auto_name__53",
+                  "operator": "defined"
+                },
+                {
+                  "identifier": "auto_name__56",
+                  "operator": "defined"
+                },
+                {
+                  "identifier": "auto_name__57",
+                  "operator": "defined"
+                }
+              ],
+              "conditionsType": "any"
+            },
+            "identifier": "auto_name__57",
+            "operator": "defined"
           },
           {
-            "identifier": "auto_name__17",
+            "identifier": "auto_name__56",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__53",
             "operator": "defined"
           }
-        ]
+        ],
+        "conditionsType": "any"
       }
     },
     {
