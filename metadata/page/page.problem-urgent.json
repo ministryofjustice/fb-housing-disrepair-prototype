@@ -1,12 +1,12 @@
 {
   "_id": "page.problem-urgent",
   "_type": "page.form",
-  "body": "The court will only grant emergency injunctions in extremely serious circumstances. The following list gives an idea of what the court considers to be serious. ",
+  "body": "The court will only grant emergency court orders  (injunctions) if the problem is extremely serious. This list gives you an idea of what the court considers to be serious. ",
   "components": [
     {
       "_id": "page.problem-urgent--content",
       "_type": "content",
-      "html": "- your house or flat cannot be lived in until the problem is fixed\r\n- your physical or mental health has been seriously affected (or that of someone else you live with) \r\n- financial compensation would not address the problem \r\n- you would be able to pay for the repairs if the court later decide that an emergency injunction should not have been granted\r\n\r\nYou will need to work with a solicitor or specialist adviser if you think that taking court action is the right option for you. \r\n\r\n"
+      "html": "- your house or flat cannot be lived in until the problem is fixed\r\n- your physical or mental health has been seriously affected (or that of someone else you live with) \r\n\r\nYou will need to work with a solicitor or specialist adviser if you think that taking urgent court action is the right option for you. \r\n\r\n"
     },
     {
       "_id": "page.problem-urgent--radios.auto_name__15",
@@ -15,7 +15,7 @@
         {
           "_id": "page.problem-urgent--radios.auto_name__15--radio.auto_value__1",
           "_type": "radio",
-          "label": "Yes, the problem is urgent and I want to apply for an emergency injunction",
+          "label": "Yes, the problem is urgent",
           "value": "auto_value__1"
         },
         {
@@ -25,12 +25,12 @@
           "value": "auto_value__2"
         }
       ],
-      "legend": "Do you want more information about emergency injunctions? ",
+      "legend": "Do you want more information about emergency court action? ",
       "name": "auto_name__15"
     }
   ],
   "heading": "It sounds like the problem may be urgent  ",
-  "lede": "If you are being seriously affected by a problem with your housing, you may be able to apply for an emergency court order. This is known as applying for an emergency injunction. ",
+  "lede": "If you are being seriously affected by a problem with your housing, you may be able to apply for an emergency court order. ",
   "show": {
     "any": [
       {

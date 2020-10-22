@@ -30,6 +30,12 @@
           "_type": "checkbox",
           "label": "Gone to an advice centre, eg Citizens Advice",
           "name": "auto_name__62"
+        },
+        {
+          "_id": "page.problem-steps--checkboxes--checkbox.auto_name__16",
+          "_type": "checkbox",
+          "label": "None of these",
+          "name": "auto_name__16"
         }
       ],
       "legend": "What else have you done to try and fix the problem? ",

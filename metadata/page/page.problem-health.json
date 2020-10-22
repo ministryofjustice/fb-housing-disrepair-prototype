@@ -10,7 +10,7 @@
         {
           "_id": "page.problem-health--checkboxes--checkbox.auto_name__53",
           "_type": "checkbox",
-          "label": "Yes, it's caused, or made a physical health problem worse",
+          "label": "Yes, it's caused a physical health problem, or made an existing problem worse",
           "name": "auto_name__53"
         },
         {
@@ -38,6 +38,9 @@
       }
     }
   ],
-  "show": true,
+  "show": {
+    "identifier": "auto_name__17",
+    "operator": "defined"
+  },
   "url": "problem-health"
 }
