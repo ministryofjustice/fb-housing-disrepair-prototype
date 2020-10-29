@@ -14,222 +14,6 @@
       "$component": true,
       "$content": true,
       "$definition": true,
-      "_id": "page.what-to-do-now--content--30",
-      "_type": "content",
-      "html": "### You said the problem had affected your health ###\r\n\r\nContact your local council if you're not able to continue living in your home because it's making you unwell. They may be able to help arrange emergency housing.  Make sure you keep sick notes and hospital reports. \r\n\r\n#### Claim compensation for damage to your health\r\n\r\nYou can claim if your physical or mental health is affected by the conditions in your home.\r\n\r\nThe amount depends on how you were affected and for how long.\r\n\r\nYou can also claim for:\r\n\r\n- loss of earnings if you were unable to work\r\n- extra expenses such as prescriptions or travel to hospital\r\n\r\nSee the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/repairs/housing_disrepair_check_if_you_can_claim_compensation).",
-      "show": {
-        "any": [
-          {
-            "0": {
-              "any": [
-                {
-                  "identifier": "auto_name__53",
-                  "operator": "defined"
-                },
-                {
-                  "identifier": "auto_name__56",
-                  "operator": "defined"
-                },
-                {
-                  "identifier": "auto_name__57",
-                  "operator": "defined"
-                }
-              ],
-              "conditionsType": "any"
-            },
-            "identifier": "auto_name__57",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__56",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__53",
-            "operator": "defined"
-          }
-        ],
-        "conditionsType": "any"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--32",
-      "_type": "content",
-      "html": "### You said the problem may be serious enough for an emergency court order ###\r\n\r\nAsking the court to order that repairs be done immediately can only be done when the problem is extremely serious. \r\n\r\nYou may want to get professional legal advice before starting an application. \r\n\r\nFind out more about applying for an emergency injunction on the [Shelter website](https://england.shelter.org.uk/housing_advice/eviction/how_to_get_an_illegal_eviction_injunction).\r\n\r\nSee more about [finding a lawyer or legal advice](#).",
-      "show": {
-        "identifier": "auto_name__15",
-        "operator": "is",
-        "value": "auto_value__1"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--26",
-      "_type": "content",
-      "html": "### Your landlord should not evict you because you asked for repairs to be done ### \r\n\r\nYour landlord has to keep your home in a good condition and do repairs if you need them. They can’t make you leave your home just for asking for repairs to be done - your landlord has to follow a proper eviction process if they want you to leave. \r\n\r\nSee more about this on the [Shelter website](https://england.shelter.org.uk/housing_advice/repairs/revenge_eviction_if_you_ask_for_repairs). ",
-      "show": {
-        "identifier": "auto_name__63",
-        "operator": "is",
-        "value": "auto_value__14"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--27",
-      "_type": "content",
-      "html": "### Your landlord may not enter your home without notice ###\r\n\r\nIt is against the law for landlords to enter your home without giving you notice. It is also against the law for them to arrange for anyone else to enter your home, eg builders, without giving you notice. \r\n\r\nSee the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/repairs/repairs_and_inspections_access_to_your_rented_home).",
-      "show": {
-        "identifier": "auto_name__64",
-        "operator": "is",
-        "value": "auto_value__16"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--35",
-      "_type": "content",
-      "html": "### Consider taking legal action against your landlord or letting agent ###\r\n\r\nGoing to court can be expensive and time-consuming, but it is an option if you have not been able to resolve the problem in another way. You may want to talk to a solicitor or qualified legal professional before you start any legal action. \r\n\r\nThere is a process you need to follow to make a claim. See the [law that protects tenants' living conditions](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018)\r\n\r\n[See more about taking legal action](/legal-action-detail)",
-      "show": {
-        "identifier": "auto_name__45",
-        "operator": "is",
-        "value": "Yes"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--14",
-      "_type": "content",
-      "html": "### You need to tell your landlord or letting agent about the problem ###\r\n\r\nRemember to include these things in your letter or email:\r\n\r\n- specific details of what you are experiencing \r\n- date when the problem started \r\n- anything you have done since the problems started \r\n- when your landlord can come in to the property\r\n\r\nYou can use this [letter template](#). Send your letter by post or email. It may be helpful to include pictures of the problem. \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. \r\n\r\n#### A guide to working with your landlord ####\r\n[https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord](https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord)\r\n\r\nSee this Citizens Advice guide about [what you and your landlord are responsible for](https://www.citizensadvice.org.uk/housing/renting-privately/during-your-tenancy/dealing-with-repairs/).",
-      "show": {
-        "all": [
-          {
-            "identifier": "auto_name__43",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__4",
-            "negated": true,
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__44",
-            "negated": true,
-            "operator": "defined"
-          }
-        ]
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--23",
-      "_type": "content",
-      "html": "### Contact your landlord or letting agent in writing ###\r\n\r\nEven if you have already told your landlord about the problem over the phone, by text message or in person, you need to tell them again in writing. This can be by email or letter. \r\n\r\n[See more about writing to your landlord](writing-to-landlord)",
-      "show": {
-        "all": [
-          {
-            "identifier": "auto_name__44",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__4",
-            "negated": true,
-            "operator": "defined"
-          }
-        ]
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--29",
-      "_type": "content",
-      "html": "### Contact your local council ###\r\n\r\nYou should contact the housing team at your local council. They have an obligation to make sure that tenants are living in properties that are looked after by landlords, and kept in a reasonable state of repair.\r\n\r\nYou can find your local council using this service: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council).\r\n\r\n[See more about contacting your council](/local-council-detail)",
-      "show": {
-        "any": [
-          {
-            "all": [
-              {
-                "identifier": "auto_name__4",
-                "operator": "defined"
-              },
-              {
-                "any": [
-                  {
-                    "identifier": "auto_name__32",
-                    "operator": "is",
-                    "value": "No"
-                  },
-                  {
-                    "identifier": "auto_name__32",
-                    "negated": true,
-                    "operator": "defined"
-                  }
-                ],
-                "conditionsType": "any"
-              }
-            ]
-          },
-          {
-            "identifier": "auto_name__32",
-            "operator": "is",
-            "value": "No"
-          }
-        ],
-        "conditionsType": "any"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--24",
-      "_type": "content",
-      "html": "### Write to your landlord or letting agent again ###\r\n\r\nIf you have waited a reasonable amount of time (usually this is 10 working days), you should write to your landlord again to tell them you will contact your local council for help with fixing the problem.\r\n\r\n[See more about contacting your landlord again](/writing-to-landlord-again)",
-      "show": {
-        "any": [
-          {
-            "identifier": "auto_name__4",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__16",
-            "operator": "defined"
-          }
-        ],
-        "conditionsType": "any"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--31",
-      "_type": "content",
-      "html": "### Contact your local council again ###\r\n\r\nIf you have contacted your local council and they have not responded or carried out an informal inspection, you should contact them again and ask for a formal inspection against the Housing Health and Safety Rating System (HHSRS) for rented homes. \r\n\r\nYou can use this [letter template](#). \r\n\r\nRemember to include: \r\n\r\n- details of the problem and how it is affecting you\r\n- dates of when you contacted your landlord \r\n- date when you previously contacted the local council \r\n\r\n#### Consider making a complaint to the local council ####\r\n\r\nYou can complain if you don't think the council has dealt with your problem properly. \r\n\r\nAsk for a copy of their: \r\n- housing enforcement policy \r\n- complaints procedure \r\n\r\nCheck the council have followed their own housing enforcement policy. If not, you can use the complaints procedure. You can use this service to complain about your local council: [https://www.gov.uk/complain-about-your-council](https://www.gov.uk/complain-about-your-council).\r\n\r\n#### Consider legal action ####\r\n\r\nYou can take court action to get work done or claim compensation if your landlord fails to deal with repairs, poor conditions or safety issues. \r\n \r\nThe court can order your landlord to: \r\n- carry out the repairs \r\n- pay you compensation \r\n- make an unsafe property fit to live in \r\n\r\nSee the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs).\r\n\r\n#### Make a complaint to the Local Government and Social Care Ombudsman ####\r\n\r\nIf you're not satisfied with the council's response to your complaint, you can complain to the Local Government & Social Care Ombudsman. See: [https://www.lgo.org.uk/](https://www.lgo.org.uk/)",
-      "show": {
-        "identifier": "auto_name__20",
-        "operator": "is",
-        "value": "No"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
       "_id": "page.what-to-do-now--content--25",
       "_type": "content",
       "html": "### Take pictures and keep a record\r\n\r\nIt may help to take pictures of the problem, especially if it changes. Keep copies of all letters, text messages or emails. Note the date and time of any phone calls."
@@ -792,6 +576,142 @@
       "$component": true,
       "$content": true,
       "$definition": true,
+      "_id": "page.what-to-do-now--content--30",
+      "_type": "content",
+      "html": "### Problem with your health ###\r\n\r\nContact your local council if you're not able to continue living in your home because it's making you unwell. They may be able to help arrange emergency housing.  Make sure you keep sick notes and hospital reports. \r\n\r\n#### Claim compensation for damage to your health\r\n\r\nYou can claim if your physical or mental health is affected by the conditions in your home.\r\n\r\nThe amount depends on how you were affected and for how long.\r\n\r\nYou can also claim for:\r\n\r\n- loss of earnings if you were unable to work\r\n- extra expenses such as prescriptions or travel to hospital\r\n\r\nSee the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/repairs/housing_disrepair_check_if_you_can_claim_compensation).",
+      "show": {
+        "any": [
+          {
+            "0": {
+              "any": [
+                {
+                  "identifier": "auto_name__53",
+                  "operator": "defined"
+                },
+                {
+                  "identifier": "auto_name__56",
+                  "operator": "defined"
+                },
+                {
+                  "identifier": "auto_name__57",
+                  "operator": "defined"
+                }
+              ],
+              "conditionsType": "any"
+            },
+            "identifier": "auto_name__57",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__56",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__53",
+            "operator": "defined"
+          }
+        ],
+        "conditionsType": "any"
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--14",
+      "_type": "content",
+      "html": "### You need to tell your landlord or letting agent about the problem ###\r\n\r\nRemember to include these things in your letter or email:\r\n\r\n- specific details of what you are experiencing \r\n- date when the problem started \r\n- anything you have done since the problems started \r\n- when your landlord can come in to the property\r\n\r\nYou can use this [letter template](#). Send your letter by post or email. It may be helpful to include pictures of the problem. \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. \r\n\r\n#### A guide to working with your landlord ####\r\n[https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord](https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord)\r\n\r\nSee this Citizens Advice guide about [what you and your landlord are responsible for](https://www.citizensadvice.org.uk/housing/renting-privately/during-your-tenancy/dealing-with-repairs/).",
+      "show": {
+        "all": [
+          {
+            "identifier": "auto_name__43",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__4",
+            "negated": true,
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__44",
+            "negated": true,
+            "operator": "defined"
+          }
+        ]
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--23",
+      "_type": "content",
+      "html": "### Contact your landlord or letting agent in writing ###\r\n\r\nEven if you have already told your landlord about the problem over the phone, by text message or in person, you need to tell them again in writing. This can be by email or letter. \r\n\r\n[See more about writing to your landlord](writing-to-landlord)",
+      "show": {
+        "all": [
+          {
+            "identifier": "auto_name__44",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__4",
+            "negated": true,
+            "operator": "defined"
+          }
+        ]
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--24",
+      "_type": "content",
+      "html": "### Write to your landlord or letting agent again ###\r\n\r\nIf you have waited a reasonable amount of time (usually this is 10 working days), you should write to your landlord again to tell them you will contact your local council for help with fixing the problem.\r\n\r\n[See more about contacting your landlord again](/writing-to-landlord-again)",
+      "show": {
+        "any": [
+          {
+            "identifier": "auto_name__4",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__16",
+            "operator": "defined"
+          }
+        ],
+        "conditionsType": "any"
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--26",
+      "_type": "content",
+      "html": "### Your landlord should not evict you because you asked for repairs to be done ### \r\n\r\nYour landlord has to keep your home in a good condition and do repairs if you need them. They can’t make you leave your home just for asking for repairs to be done - your landlord has to follow a proper eviction process if they want you to leave. \r\n\r\nSee more about this on the [Shelter website](https://england.shelter.org.uk/housing_advice/repairs/revenge_eviction_if_you_ask_for_repairs). ",
+      "show": {
+        "identifier": "auto_name__63",
+        "operator": "is",
+        "value": "auto_value__14"
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--27",
+      "_type": "content",
+      "html": "### Your landlord may not enter your home without notice ###\r\n\r\nIt is against the law for landlords to enter your home without giving you notice. It is also against the law for them to arrange for anyone else to enter your home, eg builders, without giving you notice. \r\n\r\nSee the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/repairs/repairs_and_inspections_access_to_your_rented_home).",
+      "show": {
+        "identifier": "auto_name__64",
+        "operator": "is",
+        "value": "auto_value__16"
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content--28",
       "_type": "content",
       "html": "### Consider making a complaint about a landlord or letting agent ###\r\n\r\nIf you're unhappy with the way your landlord or letting agent has responded, you could consider making a complaint. See the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/private_renting/complaints_about_letting_agents).",
@@ -817,6 +737,60 @@
       "$component": true,
       "$content": true,
       "$definition": true,
+      "_id": "page.what-to-do-now--content--29",
+      "_type": "content",
+      "html": "### Contact your local council ###\r\n\r\nYou should contact the housing team at your local council. They have an obligation to make sure that tenants are living in properties that are looked after by landlords, and kept in a reasonable state of repair.\r\n\r\nYou can find your local council using this service: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council).\r\n\r\n[See more about contacting your council](/local-council-detail)",
+      "show": {
+        "any": [
+          {
+            "all": [
+              {
+                "identifier": "auto_name__4",
+                "operator": "defined"
+              },
+              {
+                "any": [
+                  {
+                    "identifier": "auto_name__32",
+                    "operator": "is",
+                    "value": "No"
+                  },
+                  {
+                    "identifier": "auto_name__32",
+                    "negated": true,
+                    "operator": "defined"
+                  }
+                ],
+                "conditionsType": "any"
+              }
+            ]
+          },
+          {
+            "identifier": "auto_name__32",
+            "operator": "is",
+            "value": "No"
+          }
+        ],
+        "conditionsType": "any"
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--31",
+      "_type": "content",
+      "html": "### Contact your local council again ###\r\n\r\nIf you have contacted your local council and they have not responded or carried out an informal inspection, you should contact them again and ask for a formal inspection against the Housing Health and Safety Rating System (HHSRS) for rented homes. \r\n\r\nYou can use this [letter template](#). \r\n\r\nRemember to include: \r\n\r\n- details of the problem and how it is affecting you\r\n- dates of when you contacted your landlord \r\n- date when you previously contacted the local council \r\n\r\n#### Consider making a complaint to the local council ####\r\n\r\nYou can complain if you don't think the council has dealt with your problem properly. \r\n\r\nAsk for a copy of their: \r\n- housing enforcement policy \r\n- complaints procedure \r\n\r\nCheck the council have followed their own housing enforcement policy. If not, you can use the complaints procedure. You can use this service to complain about your local council: [https://www.gov.uk/complain-about-your-council](https://www.gov.uk/complain-about-your-council).\r\n\r\n#### Consider legal action ####\r\n\r\nYou can take court action to get work done or claim compensation if your landlord fails to deal with repairs, poor conditions or safety issues. \r\n \r\nThe court can order your landlord to: \r\n- carry out the repairs \r\n- pay you compensation \r\n- make an unsafe property fit to live in \r\n\r\nSee the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs).\r\n\r\n#### Make a complaint to the Local Government and Social Care Ombudsman ####\r\n\r\nIf you're not satisfied with the council's response to your complaint, you can complain to the Local Government & Social Care Ombudsman. See: [https://www.lgo.org.uk/](https://www.lgo.org.uk/)",
+      "show": {
+        "identifier": "auto_name__20",
+        "operator": "is",
+        "value": "No"
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content--41",
       "_type": "content",
       "html": "### Consider making a complaint to the local council ### \r\n\r\nYou can complain if you don't think the council has dealt with your problem properly. \r\n\r\nAsk for a copy of their: \r\n- housing enforcement policy \r\n- complaints procedure \r\n\r\nCheck the council have followed their own housing enforcement policy. If not, you can use the complaints procedure. You can use this service to complain about your local council: [https://www.gov.uk/complain-about-your-council](https://www.gov.uk/complain-about-your-council)\r\n\r\n#### Make a complaint to the Local Government and Social Care Ombudsman #### \r\n\r\nIf you're not satisfied with the council's response to your complaint, you can complain to the Local Government & Social Care Ombudsman. See: [https://www.lgo.org.uk/](https://www.lgo.org.uk/)",
@@ -830,6 +804,19 @@
       "$component": true,
       "$content": true,
       "$definition": true,
+      "_id": "page.what-to-do-now--content--32",
+      "_type": "content",
+      "html": "### Apply to the court for an emergency injunction ###\r\n\r\nAsking the court to order that repairs be done immediately can only done when the problem is extremely serious. \r\n\r\nYou may want to get professional legal advice before starting an application. \r\n\r\nFind out more about applying for an emergency injunction on the [Shelter website](https://england.shelter.org.uk/housing_advice/eviction/how_to_get_an_illegal_eviction_injunction).\r\n\r\nSee more about [finding a lawyer or legal advice](#).",
+      "show": {
+        "identifier": "auto_name__15",
+        "operator": "is",
+        "value": "auto_value__1"
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content--34",
       "_type": "content",
       "html": "### Consider working with a mediator to resolve the problem ###\r\n\r\nA mediator should work with both you and your landlord so that you can find a solution everyone agrees with. \r\n\r\nMediation is usually less costly than taking legal action. And if you do end up taking legal action, you may be asked for evidence that you tried to mediation first. \r\n\r\nSee: [http://www.civilmediation.org](http://www.civilmediation.org)",
@@ -837,6 +824,19 @@
         "identifier": "auto_name__9",
         "operator": "is",
         "value": "No"
+      }
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
+      "_id": "page.what-to-do-now--content--35",
+      "_type": "content",
+      "html": "### About taking legal action ###\r\n\r\n#### Taking legal action against your landlord or letting agent ####\r\n\r\nGoing to court can be expensive and time-consuming, but it is an option if you have not been able to resolve the problem in another way. You may want to talk to a solicitor or qualified legal professional before you start any legal action. \r\n\r\nThere is a process you need to follow to make a claim. See the [law that protects tenants' living conditions](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018)\r\n\r\n[See more about taking legal action](/legal-action-detail)",
+      "show": {
+        "identifier": "auto_name__45",
+        "operator": "is",
+        "value": "Yes"
       }
     },
     {
