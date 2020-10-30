@@ -1,12 +1,24 @@
 {
   "_id": "page.rights-responsibilities-",
   "_type": "page.content",
-  "body": "",
+  "body": "### You said you had a problem with:  ",
   "components": [
     {
       "_id": "page.rights-responsibilities---content",
       "_type": "content",
-      "html": "### Problem with electricity or electric wiring ###\r\n\r\nYour landlord is responsible for making sure you are not exposed to shocks or burns caused by a faulty electricity supply. See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). "
+      "html": "###  Electricity or electric wiring ###\r\n\r\nYour landlord is responsible for making sure you are not exposed to shocks or burns caused by a faulty electricity supply. See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
+      "show": {
+        "all": [
+          {
+            "identifier": "auto_name__33",
+            "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__8",
+            "operator": "defined"
+          }
+        ]
+      }
     },
     {
       "_id": "page.rights-responsibilities---content--2",
