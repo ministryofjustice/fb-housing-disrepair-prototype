@@ -97,7 +97,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--35",
       "_type": "content",
-      "html": "### Consider taking legal action against your landlord or letting agent ###\r\n\r\nGoing to court can be expensive and time-consuming, but it is an option if you have not been able to resolve the problem in another way. You may want to talk to a solicitor or qualified legal professional before you start any legal action. \r\n\r\nThere is a process you need to follow to make a claim. See the [law that protects tenants' living conditions](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018)\r\n\r\nFind out more about [taking legal action](/legal-action-detail)",
+      "html": "### Consider taking legal action against your landlord or letting agent ###\r\n\r\nGoing to court can be expensive and time-consuming, but it is an option if you have not been able to resolve the problem in another way. You may want to talk to a solicitor or qualified legal professional before you start any legal action. \r\n\r\nThere is a process you need to follow to make a claim. Find out more about [taking legal action](/legal-action-detail)",
       "show": {
         "identifier": "auto_name__45",
         "operator": "is",
@@ -110,7 +110,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--14",
       "_type": "content",
-      "html": "### You need to tell your landlord or letting agent about the problem ###\r\n\r\nRemember to include these things in your letter or email:\r\n\r\n- specific details of what you are experiencing \r\n- date when the problem started \r\n- anything you have done since the problems started \r\n- when your landlord can come in to the property\r\n\r\nYou can use this [letter template](#). Send your letter by post or email. It may be helpful to include pictures of the problem. \r\n\r\nMake sure you keep a record of this letter and the date that you sent it as you may need it in the future. \r\n\r\n#### A guide to working with your landlord ####\r\n[https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord](https://www.advicenow.org.uk/know-hows/how-negotiate-your-landlord)",
+      "html": "### You need to tell your landlord or letting agent about the problem ###\r\n\r\nYou can find out more about [writing to your landlord](/writing-to-landlord), including links to letter templates. \r\n\r\nRemember to keep copies of any letters you send, and the dates you sent them. ",
       "show": {
         "all": [
           {
