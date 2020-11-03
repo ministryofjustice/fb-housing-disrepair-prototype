@@ -58,7 +58,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--32",
       "_type": "content",
-      "html": "### You said the problem may be serious enough for an emergency court order ###\r\n\r\nAsking the court to order that repairs be done immediately can only be done when the problem is extremely serious. \r\n\r\nYou may want to get professional legal advice before starting an application. \r\n\r\nFind out more about applying for an emergency injunction on the [Shelter website](https://england.shelter.org.uk/housing_advice/eviction/how_to_get_an_illegal_eviction_injunction).\r\n\r\nSee more about [finding a lawyer or legal advice](#).",
+      "html": "### You said the problem may be serious enough for an emergency court order ###\r\n\r\nAsking the court to order that repairs be done immediately can only be done when the problem is extremely serious. \r\n\r\nYou may want to get professional legal advice before starting an application. \r\n\r\nFind out more about applying for an emergency injunction on the [Shelter website](https://england.shelter.org.uk/housing_advice/eviction/how_to_get_an_illegal_eviction_injunction).",
       "show": {
         "identifier": "auto_name__15",
         "operator": "is",
@@ -97,7 +97,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--35",
       "_type": "content",
-      "html": "### Consider taking legal action against your landlord or letting agent ###\r\n\r\nGoing to court can be expensive and time-consuming, but it is an option if you have not been able to resolve the problem in another way. You may want to talk to a solicitor or qualified legal professional before you start any legal action. \r\n\r\nThere is a process you need to follow to make a claim. Find out more about [taking legal action](/legal-action-detail)",
+      "html": "### You said you may consider taking legal action ###\r\n\r\nGoing to court can be expensive and time-consuming, but it is an option if you have not been able to resolve the problem in another way. You may want to talk to a solicitor or qualified legal professional before you start any legal action. \r\n\r\nThere is a process you need to follow to make a claim. Find out more about [taking legal action](/legal-action-detail)",
       "show": {
         "identifier": "auto_name__45",
         "operator": "is",
@@ -136,7 +136,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--23",
       "_type": "content",
-      "html": "### Contact your landlord or letting agent in writing ###\r\n\r\nEven if you have already told your landlord about the problem over the phone, by text message or in person, you need to tell them again in writing. This can be by email or letter. \r\n\r\nFind out more about [writing to your landlord](writing-to-landlord)",
+      "html": "### You need to contact your landlord or letting agent in writing ###\r\n\r\nEven if you have already told your landlord about the problem over the phone, by text message or in person, you need to tell them again in writing. This can be by email or letter. \r\n\r\nFind out more about [writing to your landlord](writing-to-landlord)",
       "show": {
         "all": [
           {
@@ -198,7 +198,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--24",
       "_type": "content",
-      "html": "### Write to your landlord or letting agent again ###\r\n\r\nIf you have waited a reasonable amount of time (usually this is 10 working days), you should write to your landlord again to tell them you will contact your local council for help with fixing the problem.\r\n\r\nFind out more about [contacting your landlord again](/writing-to-landlord-again)",
+      "html": "### Write to your landlord or letting agent again ###\r\n\r\nIf you have waited a reasonable amount of time (usually this is 10 working days), you should write to your landlord again. \r\n\r\nFind out more about [contacting your landlord again](/writing-to-landlord-again)",
       "show": {
         "any": [
           {
@@ -219,7 +219,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--31",
       "_type": "content",
-      "html": "### Contact your local council again ###\r\n\r\nIf you have contacted your local council and they have not responded or carried out an informal inspection, you should contact them again and ask for a formal inspection against the Housing Health and Safety Rating System (HHSRS) for rented homes. \r\n\r\nFind out more about [contacting your local council again](#).",
+      "html": "### Contact your local council again ###\r\n\r\nIf you have contacted your local council and they have not responded or have not helped to fix the problem, you should contact them again.  \r\n\r\nFind out more about [contacting your local council again](#).",
       "show": {
         "identifier": "auto_name__20",
         "operator": "is",
@@ -227,6 +227,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content",
       "_type": "content",
       "html": "### Know your rights and your landlord's responsibilities \r\n\r\nCheck whether your landlord or letting agent is responsible for the problem you told us about in [your rights and your landlord's responsibilities](/rights-responsibilities).   "
@@ -235,62 +238,11 @@
       "$component": true,
       "$content": true,
       "$definition": true,
-      "_id": "page.what-to-do-now--content--28",
-      "_type": "content",
-      "html": "### Consider making a complaint about a landlord or letting agent ###\r\n\r\nIf you're unhappy with the way your landlord or letting agent has responded, you could consider making a complaint. See the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/private_renting/complaints_about_letting_agents).",
-      "show": {
-        "any": [
-          {
-            "identifier": "auto_name__16",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__55",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__21",
-            "operator": "defined"
-          }
-        ],
-        "conditionsType": "any"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--41",
-      "_type": "content",
-      "html": "### Consider making a complaint to the local council ### \r\n\r\nYou can complain if you don't think the council has dealt with your problem properly. \r\n\r\nAsk for a copy of their: \r\n- housing enforcement policy \r\n- complaints procedure \r\n\r\nCheck the council have followed their own housing enforcement policy. If not, you can use the complaints procedure. You can use this service to complain about your local council: [https://www.gov.uk/complain-about-your-council](https://www.gov.uk/complain-about-your-council)\r\n\r\n#### Make a complaint to the Local Government and Social Care Ombudsman #### \r\n\r\nIf you're not satisfied with the council's response to your complaint, you can complain to the Local Government & Social Care Ombudsman. See: [https://www.lgo.org.uk/](https://www.lgo.org.uk/)",
-      "show": {
-        "identifier": "auto_name__20",
-        "operator": "is",
-        "value": "Yes"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
       "_id": "page.what-to-do-now--content--34",
       "_type": "content",
-      "html": "### Consider working with a mediator to resolve the problem ###\r\n\r\nA mediator should work with both you and your landlord so that you can find a solution everyone agrees with. \r\n\r\nMediation is usually less costly than taking legal action. And if you do end up taking legal action, you may be asked for evidence that you tried to mediation first. \r\n\r\nSee: [http://www.civilmediation.org](http://www.civilmediation.org)",
+      "html": "### You could consider working with a mediator  ###\r\n\r\nA mediator will work with both you and your landlord so that you can find a solution everyone agrees with. \r\n\r\nMediation is usually less costly than taking legal action. And if you do end up taking legal action, you may be asked for evidence that you tried to mediation first. \r\n\r\nFor more information about how mediation works and to find a mediator, visit [www.civilmediation.org](http://www.civilmediation.org)",
       "show": {
         "identifier": "auto_name__9",
-        "operator": "is",
-        "value": "No"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--36",
-      "_type": "content",
-      "html": "### Taking legal action against your landlord or letting agent ###\r\n\r\nGoing to court can be expensive and time-consuming, but it is an option if you have not been able to resolve the problem in another way. You may want to talk to a solicitor or qualified legal professional before you start any legal action. \r\n\r\nThere is a process you need to follow to make a claim. See the [law that protects tenants' living conditions](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018).\r\n\r\nRead more about taking legal action on the [Shelter website](https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs) and the [Citizens Advice website](https://www.citizensadvice.org.uk/housing/renting-privately/during-your-tenancy/going-to-court-if-your-landlord-wont-do-repairs/).",
-      "show": {
-        "identifier": "auto_name__45",
         "operator": "is",
         "value": "No"
       }

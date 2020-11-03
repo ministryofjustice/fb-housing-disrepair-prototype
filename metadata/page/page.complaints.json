@@ -1,0 +1,19 @@
+{
+  "_id": "page.complaints",
+  "_type": "page.content",
+  "body": "### Complaints about  landlords or letting agents ###\r\n\r\nIf you're unhappy with the way your landlord or letting agent has responded, you could consider making a complaint. See the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/private_renting/complaints_about_letting_agents).",
+  "components": [
+    {
+      "_id": "page.complaints--content",
+      "_type": "content",
+      "html": "### Complaints to a local council ### \r\n\r\nYou can complain if you don't think the council has dealt with your problem properly. \r\n\r\nAsk for a copy of their: \r\n- housing enforcement policy \r\n- complaints procedure \r\n\r\nCheck the council have followed their own housing enforcement policy. If not, you can use the complaints procedure. \r\n\r\nYou can use this service to complain about your local council: [https://www.gov.uk/complain-about-your-council](https://www.gov.uk/complain-about-your-council)"
+    },
+    {
+      "_id": "page.complaints--content--2",
+      "_type": "content",
+      "html": "### Complaints about a local council \r\n\r\nIf you're not satisfied with the council's response to your complaint, you can complain to the Local Government & Social Care Ombudsman. See: [https://www.lgo.org.uk/](https://www.lgo.org.uk/)"
+    }
+  ],
+  "heading": "Complaints about a landlord, letting agent or local council ",
+  "url": "complaints"
+}
