@@ -74,7 +74,8 @@
         ]
       },
       {
-        "identifier": "auto_name__4"
+        "identifier": "auto_name__4",
+        "operator": "defined"
       }
     ]
   },
