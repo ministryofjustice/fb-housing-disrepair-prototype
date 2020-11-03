@@ -70,12 +70,12 @@
             "identifier": "auto_name__30",
             "negated": true,
             "operator": "defined"
+          },
+          {
+            "identifier": "auto_name__4",
+            "operator": "defined"
           }
         ]
-      },
-      {
-        "identifier": "auto_name__4",
-        "operator": "defined"
       }
     ]
   },
