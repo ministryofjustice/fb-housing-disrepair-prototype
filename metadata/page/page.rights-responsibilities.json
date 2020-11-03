@@ -1,7 +1,7 @@
 {
   "_id": "page.rights-responsibilities",
   "_type": "page.content",
-  "body": "### You said you had a problem with:  ",
+  "body": "## You said you had a problem with:  ",
   "components": [
     {
       "_id": "page.rights-responsibilities--content",
@@ -40,7 +40,7 @@
     {
       "_id": "page.rights-responsibilities--content--3",
       "_type": "content",
-      "html": "### Problems with temperature extremes ###\r\n\r\nYour landlord is responsible for making sure that living conditions are not too hot or too cold.See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). \r\n\r\n#### Home Heat Helpine ####\r\n\r\nCall the home heat helpine if you are worried about paying energy bills and keeping warm in winter. \r\n\r\nTel: 0800 33 66 99\r\n9am- 5.30pm Monday to Friday \r\n[www.homeheathelpine.org.uk](www.homeheathelpine.org.uk)",
+      "html": "### Temperature extremes ###\r\n\r\nYour landlord is responsible for making sure that living conditions are not too hot or too cold.See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). \r\n\r\n#### Home Heat Helpine ####\r\n\r\nCall the home heat helpine if you are worried about paying energy bills and keeping warm in winter. \r\n\r\nTel: 0800 33 66 99\r\n9am- 5.30pm Monday to Friday \r\n[www.homeheathelpine.org.uk](www.homeheathelpine.org.uk)",
       "show": {
         "all": [
           {
@@ -76,7 +76,7 @@
     {
       "_id": "page.rights-responsibilities--content--4",
       "_type": "content",
-      "html": "### Problem with hot water supply ###\r\n\r\nIt is your landlord's responsibility to ensure a reliable supply of hot water, that is free of contaminants.See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
+      "html": "### Hot water supply ###\r\n\r\nIt is your landlord's responsibility to ensure a reliable supply of hot water, that is free of contaminants.See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
       "show": {
         "all": [
           {
@@ -93,7 +93,7 @@
     {
       "_id": "page.rights-responsibilities--content--5",
       "_type": "content",
-      "html": "### Problem with locks on doors ###\r\n\r\nIt is your landlord's responsibility to make sure that your home can be kept secure. See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
+      "html": "### Locks on doors ###\r\n\r\nIt is your landlord's responsibility to make sure that your home can be kept secure. See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
       "show": {
         "all": [
           {
@@ -110,7 +110,7 @@
     {
       "_id": "page.rights-responsibilities--content--6",
       "_type": "content",
-      "html": "### Problem with structure of the building, foundations or roof ###\r\n\r\nIt is your landlord's responsibility to make sure that your home is structurally sound. See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
+      "html": "### Structure of the building, foundations or roof ###\r\n\r\nIt is your landlord's responsibility to make sure that your home is structurally sound. See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
       "show": {
         "all": [
           {
@@ -127,7 +127,7 @@
     {
       "_id": "page.rights-responsibilities--content--7",
       "_type": "content",
-      "html": "### Problem with broken windows or doors ###\r\n\r\nIt is your landlord's responsibility to make sure that your home can be kept secure. See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
+      "html": "### Broken windows or doors ###\r\n\r\nIt is your landlord's responsibility to make sure that your home can be kept secure. See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
       "show": {
         "all": [
           {
@@ -149,7 +149,7 @@
     {
       "_id": "page.rights-responsibilities--content--8",
       "_type": "content",
-      "html": "### Problem with doors or windows that won't open or close ###\r\n\r\nIt is your landlord's responsibility to make sure that your home can be kept secure. See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
+      "html": "### Doors or windows that won't open or close ###\r\n\r\nIt is your landlord's responsibility to make sure that your home can be kept secure. See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
       "show": {
         "all": [
           {
@@ -171,7 +171,7 @@
     {
       "_id": "page.rights-responsibilities--content--9",
       "_type": "content",
-      "html": "### Problem with stairs, bannisters or other shared common areas that need repair ###\r\n\r\nIt is your landlord's responsibility to make sure that falls on stairs are not likely to happen because of disrepair.See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). \r\n\r\nRepairs or upkeep of common areas may not be the sole responsibility of your landlord. ",
+      "html": "### Stairs, bannisters or other shared common areas that need repair ###\r\n\r\nIt is your landlord's responsibility to make sure that falls on stairs are not likely to happen because of disrepair.See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). \r\n\r\nRepairs or upkeep of common areas may not be the sole responsibility of your landlord. ",
       "show": {
         "all": [
           {
@@ -188,7 +188,7 @@
     {
       "_id": "page.rights-responsibilities--content--10",
       "_type": "content",
-      "html": "### Problem with access to the property ###\r\n\r\nIt is your landlord's responsibility to make sure the property is kept clear of anything that blocks access, particularly if this causes a fire hazard. See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
+      "html": "### Access to the property ###\r\n\r\nIt is your landlord's responsibility to make sure the property is kept clear of anything that blocks access, particularly if this causes a fire hazard. See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
       "show": {
         "all": [
           {
@@ -205,7 +205,7 @@
     {
       "_id": "page.rights-responsibilities--content--11",
       "_type": "content",
-      "html": "### Problem with smoke or carbon monoxide detectors ###\r\n\r\nIt is your landlord's responsibility to make sure smoke and carbon monoxide detectors work properly.See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
+      "html": "### Smoke or carbon monoxide detectors ###\r\n\r\nIt is your landlord's responsibility to make sure smoke and carbon monoxide detectors work properly.See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
       "show": {
         "all": [
           {
@@ -222,7 +222,7 @@
     {
       "_id": "page.rights-responsibilities--content--12",
       "_type": "content",
-      "html": "### Problem with fire hazard ###\r\n\r\nIt is your landlord's responsibility to address any fire hazards if this is not something you are able to fix. See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
+      "html": "### Fire hazard ###\r\n\r\nIt is your landlord's responsibility to address any fire hazards if this is not something you are able to fix. See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
       "show": {
         "all": [
           {
@@ -239,7 +239,7 @@
     {
       "_id": "page.rights-responsibilities--content--13",
       "_type": "content",
-      "html": "### Problem with a leak (inside or outside) ###\r\n\r\nIt's not always easy to determine whether your landlord is responsible for resolving problems with leaks. \r\n\r\nSee this guide for information about when your landlord may have fix leaks or repair water damage: \r\n[https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-leak-from-a-neighbouring-property/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-leak-from-a-neighbouring-property/).",
+      "html": "### Water leaks (inside or outside) ###\r\n\r\nIt's not always easy to determine whether your landlord is responsible for resolving problems with leaks. \r\n\r\nSee this guide for information about when your landlord may have fix leaks or repair water damage: \r\n[https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-leak-from-a-neighbouring-property/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-leak-from-a-neighbouring-property/).",
       "show": {
         "all": [
           {
@@ -261,7 +261,7 @@
     {
       "_id": "page.rights-responsibilities--content--14",
       "_type": "content",
-      "html": "### Problem with a faulty or missing appliance ###\r\n\r\nYour landlord or letting agent is only responsible for the maintenance of appliances that were in the property when you moved in. ",
+      "html": "### Faulty or missing appliance ###\r\n\r\nYour landlord or letting agent is only responsible for the maintenance of appliances that were in the property when you moved in. ",
       "show": {
         "identifier": "auto_name__14",
         "operator": "defined"
@@ -270,7 +270,7 @@
     {
       "_id": "page.rights-responsibilities--content--15",
       "_type": "content",
-      "html": "### Problem with a toilet not working ###\r\n\r\nIt is your landlord's responsibility to make sure the property has adequate sanitation and drainage. See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
+      "html": "### Toilet not working ###\r\n\r\nIt is your landlord's responsibility to make sure the property has adequate sanitation and drainage. See more about your rights as a tenant in the [Guide for tenants: Homes (Fitness for Human Habitation) Act 2018](https://www.gov.uk/government/publications/homes-fitness-for-human-habitation-act-2018/guide-for-tenants-homes-fitness-for-human-habitation-act-2018). ",
       "show": {
         "all": [
           {
@@ -287,7 +287,7 @@
     {
       "_id": "page.rights-responsibilities--content--16",
       "_type": "content",
-      "html": "### Problem with damp or mould ###\r\n\r\nIt's not always easy to know whether your landlord is responsible for resolving problems with damp. This is because it can be difficult to find the exact cause of damp without the help of a surveyor. \r\n\r\nYou should make sure you are not contributing to the problem. For example by drying clothes on radiators without opening windows, or not using the extractor fan after a shower. \r\n\r\nSee this guide about different kinds of damp: \r\n[https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/)",
+      "html": "### Damp or mould ###\r\n\r\nIt's not always easy to know whether your landlord is responsible for resolving problems with damp. This is because it can be difficult to find the exact cause of damp without the help of a surveyor. \r\n\r\nYou should make sure you are not contributing to the problem. For example by drying clothes on radiators without opening windows, or not using the extractor fan after a shower. \r\n\r\nSee this guide about different kinds of damp: \r\n[https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/)",
       "show": {
         "identifier": "auto_name__12",
         "operator": "defined"
@@ -296,7 +296,7 @@
     {
       "_id": "page.rights-responsibilities--content--17",
       "_type": "content",
-      "html": "### Problem with an infestation ###\r\n\r\nIt's not always easy to determine whether your landlord is responsible for resolving problems with mice and other infestations. \r\n\r\nSee this [Citizens Advice guide for more information](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-infestations-of-pests-and-vermin/). ",
+      "html": "### Infestation ###\r\n\r\nIt's not always easy to determine whether your landlord is responsible for resolving problems with mice and other infestations. \r\n\r\nSee this [Citizens Advice guide for more information](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-infestations-of-pests-and-vermin/). ",
       "show": {
         "identifier": "auto_name__11",
         "operator": "defined"

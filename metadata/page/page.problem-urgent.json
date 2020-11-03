@@ -68,6 +68,13 @@
             "operator": "defined"
           }
         ]
+      },
+      {
+        "identifier": "auto_name__4",
+        "operator": "defined"
+      },
+      {
+        "identifier": "auto_name__44"
       }
     ],
     "conditionsType": "any"

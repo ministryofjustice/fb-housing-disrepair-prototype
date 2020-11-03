@@ -240,7 +240,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--34",
       "_type": "content",
-      "html": "### You could consider working with a mediator  ###\r\n\r\nA mediator will work with both you and your landlord so that you can find a solution everyone agrees with. \r\n\r\nMediation is usually less costly than taking legal action. And if you do end up taking legal action, you may be asked for evidence that you tried to mediation first. \r\n\r\nFor more information about how mediation works and to find a mediator, visit [www.civilmediation.org](http://www.civilmediation.org)",
+      "html": "### You could consider working with a mediator  ###\r\n\r\nA mediator will work with both you and your landlord so that you can find a solution everyone agrees with. \r\n\r\nMediation is usually less costly than taking legal action. \r\n\r\nFor more information about how mediation works and to find a mediator, visit [www.civilmediation.org](http://www.civilmediation.org)",
       "show": {
         "identifier": "auto_name__9",
         "operator": "is",
@@ -253,11 +253,20 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--37",
       "_type": "content",
-      "html": "### Getting ready for going to court ###\r\n\r\nBefore going to court, you should try to gather as much information as you can about your case. \r\n\r\n[See more about getting ready for court](/court-expert-detail) ",
+      "html": "### Get ready for going to court ###\r\n\r\nBefore going to court, you should try to gather as much information as you can about your case. \r\n\r\n[See more about getting ready for court](/court-expert-detail) ",
       "show": {
-        "identifier": "auto_name__47",
-        "operator": "is",
-        "value": "No"
+        "all": [
+          {
+            "identifier": "auto_name__47",
+            "operator": "is",
+            "value": "No"
+          },
+          {
+            "identifier": "auto_name__45",
+            "operator": "is",
+            "value": "Yes"
+          }
+        ]
       }
     },
     {

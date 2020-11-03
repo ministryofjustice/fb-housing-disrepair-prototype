@@ -35,6 +35,11 @@
         "identifier": "auto_name__20",
         "operator": "is",
         "value": "Yes"
+      },
+      {
+        "identifier": "auto_name__20",
+        "operator": "is",
+        "value": "auto_value__2"
       }
     ]
   },

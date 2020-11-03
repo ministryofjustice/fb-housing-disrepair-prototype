@@ -39,7 +39,7 @@
       "$definition": true,
       "_id": "page.future-resources---content--2",
       "_type": "content",
-      "html": "## Speak to someone about the problem ##\r\n\r\n### Citizens Advice ###\r\n\r\nCitizens Advice provide information and guidance on housing problems online. You can also chat with an adviser online, call their helpline, or visit one of their face-to-face centres.\r\n\r\n### Shelter ###\r\nShelter provide advice and support to people with housing issues of all kinds. "
+      "html": "## Speak to someone about the problem ##\r\n\r\n### Citizens Advice ###\r\n\r\nCitizens Advice provide information and guidance on housing problems online. You can also chat with an adviser online, call their helpline, or visit one of their face-to-face centres.\r\n\r\nAdviceline (England): 0800 144 8848\r\n\r\nAdvicelink (Wales): 03444 77 20 20\r\n\r\n### Shelter ###\r\nShelter provide advice and support to people with housing issues of all kinds. \r\n\r\nHelpline: 0808 800 4444"
     },
     {
       "$component": true,
@@ -47,7 +47,7 @@
       "$definition": true,
       "_id": "page.future-resources---content--3",
       "_type": "content",
-      "html": "## Find a legal service provider ##\r\n\r\n### Find a solicitor ###\r\n[Find a Solicitor](https://solicitors.lawsociety.org.uk) is a free service for anyone looking for information about organisations or people providing legal services in England and Wales that are regulated by the Solicitors Regulation Authority (SRA). \r\n\r\n### Law Works ###\r\nThe LawWorks Clinics Network provides free initial advice to individuals on housing matters. Find out more at [https://www.lawworks.org.uk/](https://www.lawworks.org.uk/).\r\n\r\n### Law Centre Network ###\r\nLaw Centres offer legal advice, casework and representation to individuals and groups. The Law Centre Network helps users to locate a law centre. Find out more at [www.lawcentres.org.uk](https://www.lawcentres.org.uk)\r\n\r\n### Advocate ###\r\nAdvocate is a charity that finds free legal assistance from volunteer barristers. [https://weareadvocate.org.uk/](https://weareadvocate.org.uk/).",
+      "html": "## Find a legal service provider ##\r\n\r\n### Find a solicitor ###\r\n[Find a Solicitor](https://solicitors.lawsociety.org.uk) is a free service for anyone looking for information about organisations or people providing legal services in England and Wales that are regulated by the Solicitors Regulation Authority (SRA). \r\n\r\n### Law Works ###\r\nThe LawWorks Clinics Network provides free initial advice to individuals on housing matters. Find out more at [https://www.lawworks.org.uk/](https://www.lawworks.org.uk/).\r\n\r\n### Law Centre Network ###\r\nLaw Centres offer legal advice, casework and representation to individuals and groups. The Law Centre Network helps users to locate a law centre. Find out more at [www.lawcentres.org.uk](https://www.lawcentres.org.uk)\r\n\r\n### Advocate ###\r\nAdvocate is a charity that offers free legal assistance from volunteer barristers. [https://weareadvocate.org.uk/](https://weareadvocate.org.uk/).",
       "show": {
         "identifier": "auto_name__45",
         "operator": "is",
