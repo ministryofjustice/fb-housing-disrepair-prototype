@@ -275,7 +275,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--10",
       "_type": "content",
-      "html": "### Future steps and useful resources ###\r\n\r\nIf you would like more support beyond these steps you can [read future steps and information](/useful-resources)."
+      "html": "### Future steps and useful resources ###\r\n\r\nIf you would like more support beyond these steps you can [read future steps and information](/future-resources)."
     },
     {
       "$component": true,
