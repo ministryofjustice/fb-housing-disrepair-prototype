@@ -38,9 +38,6 @@
       }
     }
   ],
-  "show": {
-    "identifier": "auto_name__17",
-    "operator": "defined"
-  },
+  "show": true,
   "url": "problem-health"
 }
