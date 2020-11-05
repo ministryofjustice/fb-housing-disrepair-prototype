@@ -16,7 +16,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--30",
       "_type": "content",
-      "html": "### You said the problem had affected your health ###\r\n\r\nContact your local council if you're not able to continue living in your home because it's making you unwell. They may be able to help arrange emergency housing.  Make sure you keep sick notes and hospital reports. \r\n\r\n#### Claim compensation for damage to your health\r\n\r\nYou can claim if your physical or mental health is affected by the conditions in your home.\r\n\r\nThe amount depends on how you were affected and for how long.\r\n\r\nYou can also claim for:\r\n\r\n- loss of earnings if you were unable to work\r\n- extra expenses such as prescriptions or travel to hospital\r\n\r\nVisit the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/repairs/housing_disrepair_check_if_you_can_claim_compensation).",
+      "html": "## You said the problem had affected your health \r\n\r\nContact your local council if you're not able to continue living in your home because it's making you unwell. They may be able to help arrange emergency housing.  Make sure you keep sick notes and hospital reports. \r\n\r\n### Claim compensation for damage to your health\r\n\r\nYou can claim if your physical or mental health is affected by the conditions in your home.\r\n\r\nThe amount depends on how you were affected and for how long.\r\n\r\nYou can also claim for:\r\n\r\n- loss of earnings if you were unable to work\r\n- extra expenses such as prescriptions or travel to hospital\r\n\r\nVisit the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/repairs/housing_disrepair_check_if_you_can_claim_compensation).",
       "show": {
         "any": [
           {
@@ -58,7 +58,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--32",
       "_type": "content",
-      "html": "### You said the problem may be serious enough for an emergency court order ###\r\n\r\nAsking the court to order that repairs be done immediately can only be done when the problem is extremely serious. \r\n\r\nYou may want to get professional legal advice before starting an application. \r\n\r\nFind out more about applying for an emergency injunction on the [Shelter website](https://england.shelter.org.uk/housing_advice/eviction/how_to_get_an_illegal_eviction_injunction).",
+      "html": "## You said the problem may be serious enough for an emergency court order \r\n\r\nAsking the court to order that repairs be done immediately can only be done when the problem is extremely serious. \r\n\r\nYou may want to get professional legal advice before starting an application. \r\n\r\nFind out more about applying for an emergency injunction on the [Shelter website](https://england.shelter.org.uk/housing_advice/eviction/how_to_get_an_illegal_eviction_injunction).",
       "show": {
         "identifier": "auto_name__15",
         "operator": "is",

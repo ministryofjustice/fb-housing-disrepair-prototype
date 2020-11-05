@@ -36,22 +36,18 @@
           {
             "identifier": "auto_name__20",
             "operator": "is",
-            "value": "Yes"
+            "value": "auto_value__2"
           },
           {
             "identifier": "auto_name__20",
             "operator": "is",
-            "value": "auto_value__2"
+            "value": "Yes"
           }
         ],
         "conditionsType": "any"
-      },
-      {
-        "identifier": "auto_name__20",
-        "operator": "is",
-        "value": "auto_value__2"
       }
-    ]
+    ],
+    "conditionsType": "all"
   },
   "url": "letter-of-claim"
 }
