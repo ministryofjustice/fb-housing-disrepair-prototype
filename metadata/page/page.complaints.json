@@ -1,7 +1,7 @@
 {
   "_id": "page.complaints",
   "_type": "page.content",
-  "body": "### Complaints about  landlords or letting agents ###\r\n\r\nIf you're unhappy with the way your landlord or letting agent has responded, you could consider making a complaint. See the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/private_renting/complaints_about_letting_agents).",
+  "body": "### Complaints about  landlords or letting agents ###\r\n\r\nIf you're unhappy with the way your landlord or letting agent has responded, you could consider making a complaint. \r\n\r\nYou can find more information about [making complaints](https://england.shelter.org.uk/housing_advice/private_renting/complaints_about_letting_agents) on the Shelter website. \r\n\r\n#### Letting agent redress schemes \r\n\r\nAll letting agents must be registered with a 'letting agent redress' scheme. You can make a complaint about a letting agent to the organisation they are registered with.  \r\n\r\nFind out more about [letting agent redress schemes](https://england.shelter.org.uk/housing_advice/private_renting/letting_agent_redress_schemes) on the Shelter website.  ",
   "components": [
     {
       "_id": "page.complaints--content",

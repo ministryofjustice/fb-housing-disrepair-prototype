@@ -58,7 +58,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--32",
       "_type": "content",
-      "html": "## You said the problem may be serious enough for an emergency court order \r\n\r\nAsking the court to order that repairs be done immediately can only be done when the problem is extremely serious. \r\n\r\nYou may want to get professional legal advice before starting an application. \r\n\r\nFind out more about applying for an emergency injunction on the [Shelter website](https://england.shelter.org.uk/housing_advice/eviction/how_to_get_an_illegal_eviction_injunction).",
+      "html": "## You said the problem may be serious enough for an emergency court order \r\n\r\nAsking the court to order that repairs be done immediately can only be done when the problem is extremely serious. \r\n\r\nYou should consider getting professional legal advice before starting an application. You can get information on finding a solicitor and other sources of legal help in [useful resources](/future-resources)   \r\n\r\nYou can also find out more about [what to do if your landlord won't do repairs](https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs) on the Shelter website. \r\n\r\n### Contact your local council \r\nYou should also contact your local council if the problem is urgent. Find out more about [contacting your local council](/local-council-detail) ",
       "show": {
         "identifier": "auto_name__15",
         "operator": "is",
@@ -240,7 +240,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--34",
       "_type": "content",
-      "html": "### You could consider working with a mediator  ###\r\n\r\nA mediator will work with both you and your landlord so that you can find a solution everyone agrees with. \r\n\r\nMediation is usually less costly than taking legal action. \r\n\r\nFor more information about how mediation works and to find a mediator, visit [www.civilmediation.org](http://www.civilmediation.org)",
+      "html": "## You could consider working with a mediator  \r\n\r\nA mediator will work with both you and your landlord so that you can find a solution everyone agrees with. \r\n\r\nMediation is usually less costly than taking legal action. \r\n\r\nFor more information about how mediation works and to find a mediator, visit [www.civilmediation.org](http://www.civilmediation.org)",
       "show": {
         "identifier": "auto_name__9",
         "operator": "is",
