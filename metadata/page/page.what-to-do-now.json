@@ -16,7 +16,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--30",
       "_type": "content",
-      "html": "## You said the problem had affected your health \r\n\r\nContact your local council if you're not able to continue living in your home because it's making you unwell. They may be able to help arrange emergency housing.  Make sure you keep sick notes and hospital reports. \r\n\r\n### Claim compensation for damage to your health\r\n\r\nYou can claim if your physical or mental health is affected by the conditions in your home.\r\n\r\nThe amount depends on how you were affected and for how long.\r\n\r\nYou can also claim for:\r\n\r\n- loss of earnings if you were unable to work\r\n- extra expenses such as prescriptions or travel to hospital\r\n\r\nVisit the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/repairs/housing_disrepair_check_if_you_can_claim_compensation).",
+      "html": "## You said the problem had affected your health \r\n\r\nContact your local council if you're not able to continue living in your home because it's making you unwell. They may be able to help arrange emergency housing.  Make sure you keep sick notes and hospital reports. \r\n\r\n### Claim compensation for damage to your health\r\n\r\nYou can claim if your physical or mental health is affected by the conditions in your home.\r\n\r\nThe amount depends on how you were affected and for how long.\r\n\r\nYou can also claim for:\r\n\r\n- loss of earnings if you were unable to work\r\n- extra expenses such as prescriptions or travel to hospital\r\n\r\nVisit the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/repairs/housing_disrepair_check_if_you_can_claim_compensation)",
       "show": {
         "any": [
           {
@@ -71,7 +71,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--26",
       "_type": "content",
-      "html": "## Your landlord should not evict you because you asked for repairs to be done \r\n\r\nYour landlord has to keep your home in a good condition and do repairs if you need them. They can’t make you leave your home just for asking for repairs to be done - your landlord has to follow a proper eviction process if they want you to leave. \r\n\r\nFind out more about this on the [Shelter website](https://england.shelter.org.uk/housing_advice/repairs/revenge_eviction_if_you_ask_for_repairs). ",
+      "html": "## Your landlord should not evict you because you asked for repairs to be done \r\n\r\nYour landlord has to keep your home in a good condition and do repairs if you need them. They can’t make you leave your home just for asking for repairs to be done - your landlord has to follow a proper eviction process if they want you to leave. \r\n\r\nFind out more about this on the [Shelter website](https://england.shelter.org.uk/housing_advice/repairs/revenge_eviction_if_you_ask_for_repairs)",
       "show": {
         "identifier": "auto_name__63",
         "operator": "is",
@@ -84,7 +84,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--27",
       "_type": "content",
-      "html": "## Your landlord may not enter your home without notice \r\n\r\nIt is against the law for landlords to enter your home without giving you notice. It is also against the law for them to arrange for anyone else to enter your home, eg builders, without giving you notice. \r\n\r\nFind out more about this on the [Shelter website](https://england.shelter.org.uk/housing_advice/repairs/repairs_and_inspections_access_to_your_rented_home).",
+      "html": "## Your landlord may not enter your home without notice \r\n\r\nIt is against the law for landlords to enter your home without giving you notice. It is also against the law for them to arrange for anyone else to enter your home, eg builders, without giving you notice. \r\n\r\nFind out more about this on the [Shelter website](https://england.shelter.org.uk/housing_advice/repairs/repairs_and_inspections_access_to_your_rented_home)",
       "show": {
         "identifier": "auto_name__64",
         "operator": "is",
@@ -110,7 +110,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--14",
       "_type": "content",
-      "html": "## You need to tell your landlord or letting agent about the problem \r\n\r\nYou can find out more about [writing to your landlord](/writing-to-landlord), including links to letter templates. \r\n\r\nRemember to keep copies of any letters you send, and the dates you sent them. ",
+      "html": "## You need to tell your landlord or letting agent about the problem \r\n\r\nYou can find out more about [writing to your landlord](/writing-to-landlord) including links to letter templates. \r\n\r\nRemember to keep copies of any letters you send, and the dates you sent them. ",
       "show": {
         "all": [
           {
@@ -219,7 +219,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--31",
       "_type": "content",
-      "html": "## Contact your local council again\r\n\r\nIf you have contacted your local council and they have not responded or have not helped to fix the problem, you should contact them again.  \r\n\r\nFind out more about [contacting your local council again](#).",
+      "html": "## Contact your local council again\r\n\r\nIf you have contacted your local council and they have not responded or have not helped to fix the problem, you should contact them again.  \r\n\r\nFind out more about [contacting your local council again](/contact-council-again)",
       "show": {
         "identifier": "auto_name__20",
         "operator": "is",
