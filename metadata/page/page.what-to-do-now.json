@@ -1,15 +1,8 @@
 {
   "_id": "page.what-to-do-now",
   "_type": "page.content",
+  "actionType": "continue",
   "components": [
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--17",
-      "_type": "content",
-      "html": "You'll find information about what to do now based on the answers you've given."
-    },
     {
       "$component": true,
       "$content": true,
@@ -281,12 +274,20 @@
       "$component": true,
       "$content": true,
       "$definition": true,
+      "_id": "page.what-to-do-now--content--2",
+      "_type": "content",
+      "html": "## Help us improve, complete the survey \r\n\r\nThis is a new service, and we're keen to hear your views so we can improve it. We'd really appreciate if if you would [complete our survey](#), it should take no more than 5 minutes. "
+    },
+    {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content--38",
       "_type": "content",
       "html": "[Print this page](#)"
     }
   ],
   "heading": "Next steps: what to do now",
-  "lede": "",
+  "lede": "You'll find information about what to do now based on the answers you've given.",
   "url": "what-to-do-now"
 }

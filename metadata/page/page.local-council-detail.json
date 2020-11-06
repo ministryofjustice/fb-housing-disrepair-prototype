@@ -6,6 +6,11 @@
       "_id": "page.local-council-detail--content",
       "_type": "content",
       "html": "### Find your local council  \r\n\r\nYou can [find your local council](https://www.gov.uk/find-local-council) on the GOV.UK website. \r\n\r\n### Email or write a letter \r\n\r\nRemember to include:\r\n\r\n- details of the problem\r\n- how the problem is affecting you \r\n- when and how you have already told the landlord about the problem \r\n\r\nYou can use one of the letter templates on the [Shelter website](https://england.shelter.org.uk/housing_advice/downloads_and_tools/sample_letters). \r\n\r\nIt may be helpful to include pictures of the problem. Make sure you keep a record of this letter and the date that you sent it as you may need it in the future. "
+    },
+    {
+      "_id": "page.local-council-detail--content--2",
+      "_type": "content",
+      "html": "**Go [back to the 'What to do now'](/what-to-do-now) page.** "
     }
   ],
   "heading": "Contact your local council",

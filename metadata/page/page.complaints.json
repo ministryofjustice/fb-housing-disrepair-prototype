@@ -12,6 +12,11 @@
       "_id": "page.complaints--content--2",
       "_type": "content",
       "html": "### Complaints about a local council \r\n\r\nIf you're not satisfied with the council's response to your complaint, you can complain to the Local Government & Social Care Ombudsman. See: [https://www.lgo.org.uk/](https://www.lgo.org.uk/)"
+    },
+    {
+      "_id": "page.complaints--content--3",
+      "_type": "content",
+      "html": "**Go [back to the 'What to do now'](/what-to-do-now) page.** "
     }
   ],
   "heading": "Complaints about a landlord, letting agent or local council ",
