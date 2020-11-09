@@ -51,14 +51,68 @@
       "show": {
         "any": [
           {
-            "identifier": "auto_name__45",
-            "operator": "is",
-            "value": "Yes"
+            "all": [
+              {
+                "identifier": "auto_name__45",
+                "operator": "is",
+                "value": "Yes"
+              },
+              {
+                "identifier": "auto_name__20",
+                "operator": "is",
+                "value": "Yes"
+              },
+              {
+                "identifier": "auto_name__32",
+                "operator": "is",
+                "value": "Yes"
+              },
+              {
+                "identifier": "auto_name__4",
+                "operator": "defined"
+              },
+              {
+                "conditionsType": "exactly",
+                "exactly": [
+                  {
+                    "identifier": "auto_name__15",
+                    "operator": "is",
+                    "value": "auto_value__2"
+                  },
+                  {
+                    "identifier": "auto_name__15",
+                    "negated": true,
+                    "operator": "defined"
+                  }
+                ]
+              }
+            ]
           },
           {
-            "identifier": "auto_name__15",
-            "operator": "is",
-            "value": "auto_value__1"
+            "all": [
+              {
+                "identifier": "auto_name__15",
+                "operator": "is",
+                "value": "auto_value__1"
+              },
+              {
+                "any": [
+                  {
+                    "identifier": "auto_name__37",
+                    "operator": "defined"
+                  },
+                  {
+                    "identifier": "auto_name__27",
+                    "operator": "defined"
+                  },
+                  {
+                    "identifier": "auto_name__30",
+                    "operator": "defined"
+                  }
+                ],
+                "conditionsType": "any"
+              }
+            ]
           }
         ],
         "conditionsType": "any"
@@ -72,19 +126,74 @@
       "_type": "content",
       "html": "## Legal funding ##\r\n\r\n### Check whether you are eligible for legal aid ###\r\n\r\nLegal aid is only available where there's a serious risk to you or a family member's health and safety.  You can [check if you are eligible for Legal Aid](https://www.gov.uk/check-legal-aid).\r\n\r\n### Free legal help and advice ###\r\n\r\nIf you're on a low income, you may qualify for free legal help. Find out more on the [Citizens Advice website](https://www.citizensadvice.org.uk/law-and-courts/legal-system/finding-free-or-affordable-legal-help/)\r\n\r\n### Check insurance policies or credit card agreements ###\r\n\r\nIf you don't qualify for legal aid, you should check any insurance policies or credit card agreements you have as these may include legal expenses insurance. Trade unions may also provide legal advice on matters other than work-related issues.\r\n\r\n### 'No win, no fee' representation ###\r\n\r\nSome solicitors may also offer 'no win, no fee' agreements as a way of funding a repair claim. You should check any agreement carefully before you sign it.\r\n\r\nFor more information about legal funding, follow these links: \r\n\r\n- legal funding on the [Citizens Advice website](https://www.citizensadvice.org.uk/law-and-courts/legal-system/taking-legal-action/)  \r\n\r\n- paying legal fees on the [Law Society website](https://www.lawsociety.org.uk/for-the-public/faqs/#paying-legal-fees)",
       "show": {
-        "any": [
+        "conditionsType": "exactly",
+        "exactly": [
           {
-            "identifier": "auto_name__45",
-            "operator": "is",
-            "value": "Yes"
+            "all": [
+              {
+                "identifier": "auto_name__45",
+                "operator": "is",
+                "value": "Yes"
+              },
+              {
+                "identifier": "auto_name__20",
+                "negated": true,
+                "operator": "is",
+                "value": "No"
+              },
+              {
+                "identifier": "auto_name__32",
+                "operator": "is",
+                "value": "Yes"
+              },
+              {
+                "identifier": "auto_name__4",
+                "operator": "defined"
+              },
+              {
+                "conditionsType": "exactly",
+                "exactly": [
+                  {
+                    "identifier": "auto_name__15",
+                    "operator": "is",
+                    "value": "auto_value__2"
+                  },
+                  {
+                    "identifier": "auto_name__15",
+                    "negated": true,
+                    "operator": "defined"
+                  }
+                ]
+              }
+            ]
           },
           {
-            "identifier": "auto_name__15",
-            "operator": "is",
-            "value": "auto_value__1"
+            "all": [
+              {
+                "identifier": "auto_name__15",
+                "operator": "is",
+                "value": "auto_value__1"
+              },
+              {
+                "any": [
+                  {
+                    "identifier": "auto_name__37",
+                    "operator": "defined"
+                  },
+                  {
+                    "identifier": "auto_name__30",
+                    "operator": "defined"
+                  },
+                  {
+                    "identifier": "auto_name__27",
+                    "operator": "defined"
+                  }
+                ],
+                "conditionsType": "any"
+              }
+            ]
           }
-        ],
-        "conditionsType": "any"
+        ]
       }
     },
     {
@@ -95,19 +204,74 @@
       "_type": "content",
       "html": "## Support if you don't have legal representation ##\r\n\r\nSupport through the Court is a charity supporting people who face court alone so that they can represent themselves to the best of their abilities. Support through the Court cannot provide legal advice or legal representation. \r\nSee: [https://www.supportthroughcourt.org/](https://www.supportthroughcourt.org/)",
       "show": {
-        "any": [
+        "conditionsType": "exactly",
+        "exactly": [
           {
-            "identifier": "auto_name__45",
-            "operator": "is",
-            "value": "Yes"
+            "all": [
+              {
+                "identifier": "auto_name__20",
+                "negated": true,
+                "operator": "is",
+                "value": "No"
+              },
+              {
+                "identifier": "auto_name__32",
+                "operator": "is",
+                "value": "Yes"
+              },
+              {
+                "identifier": "auto_name__4",
+                "operator": "defined"
+              },
+              {
+                "conditionsType": "exactly",
+                "exactly": [
+                  {
+                    "identifier": "auto_name__15",
+                    "negated": true,
+                    "operator": "defined"
+                  },
+                  {
+                    "identifier": "auto_name__15",
+                    "operator": "is",
+                    "value": "auto_value__2"
+                  }
+                ]
+              },
+              {
+                "identifier": "auto_name__45",
+                "operator": "is",
+                "value": "Yes"
+              }
+            ]
           },
           {
-            "identifier": "auto_name__15",
-            "operator": "is",
-            "value": "auto_value__1"
+            "all": [
+              {
+                "identifier": "auto_name__15",
+                "operator": "is",
+                "value": "auto_value__1"
+              },
+              {
+                "any": [
+                  {
+                    "identifier": "auto_name__37",
+                    "operator": "defined"
+                  },
+                  {
+                    "identifier": "auto_name__30",
+                    "operator": "defined"
+                  },
+                  {
+                    "identifier": "auto_name__27",
+                    "operator": "defined"
+                  }
+                ],
+                "conditionsType": "any"
+              }
+            ]
           }
-        ],
-        "conditionsType": "any"
+        ]
       }
     },
     {

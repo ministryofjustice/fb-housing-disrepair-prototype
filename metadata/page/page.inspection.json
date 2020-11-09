@@ -31,9 +31,28 @@
     }
   ],
   "show": {
-    "identifier": "auto_name__32",
-    "operator": "is",
-    "value": "Yes"
+    "all": [
+      {
+        "identifier": "auto_name__32",
+        "operator": "is",
+        "value": "Yes"
+      },
+      {
+        "conditionsType": "exactly",
+        "exactly": [
+          {
+            "identifier": "auto_name__15",
+            "operator": "is",
+            "value": "auto_value__2"
+          },
+          {
+            "identifier": "auto_name__15",
+            "negated": true,
+            "operator": "defined"
+          }
+        ]
+      }
+    ]
   },
   "url": "inspection"
 }
