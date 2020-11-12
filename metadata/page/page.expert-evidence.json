@@ -27,37 +27,101 @@
   "show": {
     "all": [
       {
-        "0": {
-          "identifier": "auto_name__32",
-          "operator": "is",
-          "value": "Yes"
-        },
-        "identifier": "auto_name__32",
-        "operator": "is",
-        "value": "Yes"
-      },
-      {
-        "any": [
-          {
-            "identifier": "auto_name__20",
-            "operator": "is",
-            "value": "Yes"
-          },
-          {
-            "identifier": "auto_name__20",
-            "operator": "is",
-            "value": "auto_value__2"
-          }
-        ],
-        "conditionsType": "any"
+        "identifier": "auto_name__9",
+        "operator": "defined"
       },
       {
         "identifier": "auto_name__45",
         "operator": "defined"
       },
       {
-        "identifier": "auto_name__9",
-        "operator": "defined"
+        "0": {
+          "identifier": "auto_name__20",
+          "operator": "is"
+        },
+        "identifier": "auto_name__20",
+        "negated": true,
+        "operator": "is",
+        "value": "No"
+      },
+      {
+        "identifier": "auto_name__32",
+        "operator": "is",
+        "value": "Yes"
+      },
+      {
+        "conditionsType": "exactly",
+        "exactly": [
+          {
+            "identifier": "auto_name__15",
+            "operator": "is",
+            "value": "auto_value__2"
+          },
+          {
+            "identifier": "auto_name__15",
+            "negated": true,
+            "operator": "defined"
+          },
+          {
+            "all": [
+              {
+                "identifier": "auto_name__15",
+                "operator": "is",
+                "value": "auto_value__1"
+              },
+              {
+                "identifier": "auto_name__37",
+                "negated": true,
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__27",
+                "negated": true,
+                "operator": "defined"
+              },
+              {
+                "identifier": "auto_name__30",
+                "negated": true,
+                "operator": "defined"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "conditionsType": "exactly",
+        "exactly": [
+          {
+            "identifier": "auto_name__4",
+            "operator": "defined"
+          },
+          {
+            "all": [
+              {
+                "identifier": "auto_name__4",
+                "negated": true,
+                "operator": "defined"
+              },
+              {
+                "any": [
+                  {
+                    "identifier": "auto_name__37",
+                    "operator": "defined"
+                  },
+                  {
+                    "identifier": "auto_name__30",
+                    "operator": "defined"
+                  },
+                  {
+                    "identifier": "auto_name__27",
+                    "operator": "defined"
+                  }
+                ],
+                "conditionsType": "any"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

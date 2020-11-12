@@ -49,27 +49,30 @@
       "_type": "content",
       "html": "## Find a legal service provider ##\r\n\r\n### Find a solicitor ###\r\n[Find a Solicitor](https://solicitors.lawsociety.org.uk) is a free service for anyone looking for information about organisations or people providing legal services in England and Wales that are regulated by the Solicitors Regulation Authority (SRA). \r\n\r\n### Law Works ###\r\nThe LawWorks Clinics Network provides free initial advice to individuals on housing matters. Find out more at [https://www.lawworks.org.uk/](https://www.lawworks.org.uk/).\r\n\r\n### Law Centre Network ###\r\nLaw Centres offer legal advice, casework and representation to individuals and groups. The Law Centre Network helps users to locate a law centre. Find out more at [www.lawcentres.org.uk](https://www.lawcentres.org.uk)\r\n\r\n### Advocate ###\r\nAdvocate is a charity that offers free legal assistance from volunteer barristers. [https://weareadvocate.org.uk/](https://weareadvocate.org.uk/).",
       "show": {
-        "any": [
+        "conditionsType": "exactly",
+        "exactly": [
           {
             "all": [
               {
+                "0": {
+                  "identifier": "auto_name__45",
+                  "operator": "is",
+                  "value": "Yes"
+                },
                 "identifier": "auto_name__45",
                 "operator": "is",
                 "value": "Yes"
               },
               {
                 "identifier": "auto_name__20",
+                "negated": true,
                 "operator": "is",
-                "value": "Yes"
+                "value": "No"
               },
               {
                 "identifier": "auto_name__32",
                 "operator": "is",
                 "value": "Yes"
-              },
-              {
-                "identifier": "auto_name__4",
-                "operator": "defined"
               },
               {
                 "conditionsType": "exactly",
@@ -83,6 +86,70 @@
                     "identifier": "auto_name__15",
                     "negated": true,
                     "operator": "defined"
+                  },
+                  {
+                    "all": [
+                      {
+                        "identifier": "auto_name__15",
+                        "operator": "is",
+                        "value": "auto_value__1"
+                      },
+                      {
+                        "identifier": "auto_name__37",
+                        "negated": true,
+                        "operator": "defined"
+                      },
+                      {
+                        "identifier": "auto_name__27",
+                        "negated": true,
+                        "operator": "defined"
+                      },
+                      {
+                        "identifier": "auto_name__30",
+                        "negated": true,
+                        "operator": "defined"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "conditionsType": "exactly",
+                "exactly": [
+                  {
+                    "identifier": "auto_name__4",
+                    "operator": "defined"
+                  },
+                  {
+                    "all": [
+                      {
+                        "identifier": "auto_name__4",
+                        "negated": true,
+                        "operator": "defined"
+                      },
+                      {
+                        "identifier": "auto_name__15",
+                        "operator": "is",
+                        "value": "auto_value__2"
+                      },
+                      {
+                        "any": [
+                          {
+                            "identifier": "auto_name__37",
+                            "operator": "defined"
+                          },
+                          {
+                            "identifier": "auto_name__27",
+                            "operator": "defined"
+                          },
+                          {
+                            "identifier": "auto_name__30",
+                            "operator": "defined"
+                          }
+                        ],
+                        "conditionsType": "any"
+                      }
+                    ]
                   }
                 ]
               }
@@ -114,8 +181,7 @@
               }
             ]
           }
-        ],
-        "conditionsType": "any"
+        ]
       }
     },
     {
@@ -147,8 +213,27 @@
                 "value": "Yes"
               },
               {
-                "identifier": "auto_name__4",
-                "operator": "defined"
+                "conditionsType": "exactly",
+                "exactly": [
+                  {
+                    "identifier": "auto_name__4",
+                    "operator": "defined"
+                  },
+                  {
+                    "all": [
+                      {
+                        "identifier": "auto_name__4",
+                        "negated": true,
+                        "operator": "defined"
+                      },
+                      {
+                        "identifier": "auto_name__15",
+                        "operator": "is",
+                        "value": "auto_value__2"
+                      }
+                    ]
+                  }
+                ]
               },
               {
                 "conditionsType": "exactly",
@@ -162,6 +247,30 @@
                     "identifier": "auto_name__15",
                     "negated": true,
                     "operator": "defined"
+                  },
+                  {
+                    "all": [
+                      {
+                        "identifier": "auto_name__15",
+                        "operator": "is",
+                        "value": "auto_value__1"
+                      },
+                      {
+                        "identifier": "auto_name__27",
+                        "negated": true,
+                        "operator": "defined"
+                      },
+                      {
+                        "identifier": "auto_name__37",
+                        "negated": true,
+                        "operator": "defined"
+                      },
+                      {
+                        "identifier": "auto_name__30",
+                        "negated": true,
+                        "operator": "defined"
+                      }
+                    ]
                   }
                 ]
               }
@@ -220,8 +329,27 @@
                 "value": "Yes"
               },
               {
-                "identifier": "auto_name__4",
-                "operator": "defined"
+                "conditionsType": "exactly",
+                "exactly": [
+                  {
+                    "identifier": "auto_name__4",
+                    "operator": "defined"
+                  },
+                  {
+                    "all": [
+                      {
+                        "identifier": "auto_name__4",
+                        "negated": true,
+                        "operator": "defined"
+                      },
+                      {
+                        "identifier": "auto_name__15",
+                        "operator": "is",
+                        "value": "auto_value__2"
+                      }
+                    ]
+                  }
+                ]
               },
               {
                 "conditionsType": "exactly",
@@ -235,6 +363,35 @@
                     "identifier": "auto_name__15",
                     "operator": "is",
                     "value": "auto_value__2"
+                  },
+                  {
+                    "all": [
+                      {
+                        "identifier": "auto_name__15",
+                        "operator": "is",
+                        "value": "auto_value__1"
+                      },
+                      {
+                        "0": {
+                          "identifier": "auto_name__37",
+                          "negated": true,
+                          "operator": "defined"
+                        },
+                        "identifier": "auto_name__37",
+                        "negated": true,
+                        "operator": "defined"
+                      },
+                      {
+                        "identifier": "auto_name__27",
+                        "negated": true,
+                        "operator": "defined"
+                      },
+                      {
+                        "identifier": "auto_name__30",
+                        "negated": true,
+                        "operator": "defined"
+                      }
+                    ]
                   }
                 ]
               },
