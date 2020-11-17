@@ -1,7 +1,7 @@
 {
   "_id": "page.contact-council-again",
   "_type": "page.content",
-  "body": "When you write to your council, remember to include: \r\n\r\n- details of the problem and how it is affecting you\r\n- dates of when you contacted your landlord \r\n- date when you previously contacted the local council \r\n\r\nYou can use one of the letter templates on the [Shelter website](https://england.shelter.org.uk/housing_advice/downloads_and_tools/sample_letters). \r\n\r\nIf you are not happy with the way your housing disrepair problem has been dealt with, you can [make a complaint](#) about your local council. ",
+  "body": "When you write to your council, remember to include: \r\n\r\n- details of the problem and how it is affecting you\r\n- dates of when you contacted your landlord \r\n- date when you previously contacted the local council \r\n\r\nYou can use one of the letter templates on the [Shelter website](https://england.shelter.org.uk/housing_advice/downloads_and_tools/sample_letters). \r\n\r\nIf you are not happy with the way your housing disrepair problem has been dealt with, you can [make a complaint](/complaints) about your local council. ",
   "components": [
     {
       "_id": "page.contact-council-again--content",
