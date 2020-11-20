@@ -9,7 +9,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--30",
       "_type": "content",
-      "html": "## You said the problem had affected your health \r\n\r\nContact your local council if you're not able to continue living in your home because it's making you unwell. They may be able to help arrange emergency housing.  Make sure you keep sick notes and hospital reports. \r\n\r\n### Claim compensation for damage to your health\r\n\r\nYou can claim if your physical or mental health is affected by the conditions in your home.\r\n\r\nThe amount depends on how you were affected and for how long.\r\n\r\nYou can also claim for:\r\n\r\n- loss of earnings if you were unable to work\r\n- extra expenses such as prescriptions or travel to hospital\r\n\r\nVisit the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/repairs/housing_disrepair_check_if_you_can_claim_compensation)",
+      "html": "## You said the problem had affected your health \r\n\r\nContact your local council if you're not able to continue living in your home because it's making you unwell. They may be able to help arrange emergency housing.  Make sure you keep sick notes and hospital reports. \r\n\r\n### Claim compensation for damage to your health\r\n\r\nYou can claim compensation if your physical or mental health has been affected by the conditions in your home.\r\n\r\nVisit the [Shelter website for more information](https://england.shelter.org.uk/housing_advice/repairs/housing_disrepair_check_if_you_can_claim_compensation)",
       "show": {
         "any": [
           {
@@ -51,7 +51,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--32",
       "_type": "content",
-      "html": "## You said the problem may be serious enough for an emergency court order \r\n\r\nAsking the court to order that repairs be done immediately can only be done when the problem is extremely serious. \r\n\r\nYou should consider getting professional legal advice before starting an application. You can get information on finding a solicitor and other sources of legal help in [useful resources](/future-resources)   \r\n\r\nYou can also find out more about [what to do if your landlord won't do repairs](https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs) on the Shelter website. \r\n\r\n### Contact your local council \r\nYou should also contact your local council if the problem is urgent. Find out more about [contacting your local council](/local-council-detail) ",
+      "html": "## You said the problem was urgent \r\n\r\nYou should contact your local council immediately if the problem is urgent. Find out more about [contacting your local council](/local-council-detail) \r\n\r\n### Emergency court orders \r\n\r\nYou could also consider applying for an emergency court order. However, \r\nyou should seek professional legal advice before starting an application. You can get information on finding a solicitor and other sources of legal help in [useful resources](/future-resources)   \r\n\r\nYou can also find out more about [what to do if your landlord won't do repairs](https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs) on the Shelter website. ",
       "show": {
         "all": [
           {
@@ -355,27 +355,6 @@
       "$component": true,
       "$content": true,
       "$definition": true,
-      "_id": "page.what-to-do-now--content--24",
-      "_type": "content",
-      "html": "## Write to your landlord or letting agent again\r\n\r\nIf you have waited a reasonable amount of time (usually this is 10 working days), you should write to your landlord again. \r\n\r\nFind out more about [contacting your landlord again](/writing-to-landlord-again)",
-      "show": {
-        "any": [
-          {
-            "identifier": "auto_name__4",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__16",
-            "operator": "defined"
-          }
-        ],
-        "conditionsType": "any"
-      }
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
       "_id": "page.what-to-do-now--content--31",
       "_type": "content",
       "html": "## Contact your local council again\r\n\r\nIf you have contacted your local council and they have not responded or have not helped to fix the problem, you should contact them again.  \r\n\r\nFind out more about [contacting your local council again](/contact-council-again)",
@@ -454,6 +433,16 @@
             ]
           }
         ]
+      }
+    },
+    {
+      "_id": "page.what-to-do-now--content--3",
+      "_type": "content",
+      "html": "## Not paying rent can make the problem worse \r\n\r\nYour landlord may have reason to evict you if you stop paying rent. You can find out more about [withholding rent because repairs haven't been done](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-what-are-your-options-if-you-are-a-social-housing-tenant/withholding-rent-because-repairs-havent-been-done/) on the Citizens Advice website. ",
+      "show": {
+        "identifier": "auto_name__7",
+        "operator": "is",
+        "value": "auto_value__7"
       }
     },
     {

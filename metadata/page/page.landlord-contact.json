@@ -32,7 +32,7 @@
           "$option": true,
           "_id": "page.landlord-contact--checkboxes--checkbox.auto_name__4",
           "_type": "checkbox",
-          "label": "Yes, I have written an email or letter",
+          "label": "Yes, I have written a text message, email or letter",
           "name": "auto_name__4"
         }
       ],
