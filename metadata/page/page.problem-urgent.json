@@ -1,7 +1,7 @@
 {
   "_id": "page.problem-urgent",
   "_type": "page.form",
-  "body": "The court will only grant emergency court orders  (injunctions) if the problem is extremely serious. This list gives you an idea of what the court considers to be serious. ",
+  "body": "## Emergency court orders \r\n\r\nYou may also be able to apply for an emergency court order.\r\n\r\nThe court will only grant emergency court orders  (injunctions) if the problem is extremely serious. This list gives you an idea of what the court considers to be serious. ",
   "components": [
     {
       "_id": "page.problem-urgent--content",
@@ -25,12 +25,12 @@
           "value": "auto_value__2"
         }
       ],
-      "legend": "Do you want more information about emergency court action? ",
+      "legend": "Do you think the problem is urgent? ",
       "name": "auto_name__15"
     }
   ],
   "heading": "It sounds like the problem may be urgent  ",
-  "lede": "If you are being seriously affected by a problem with your housing, you may be able to apply for an emergency court order. ",
+  "lede": "You should contact your Local Council immediately if the problem is urgent. Local councils have the power to enforce rules and get problems fixed.  ",
   "show": {
     "any": [
       {
