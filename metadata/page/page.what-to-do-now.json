@@ -647,7 +647,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--2",
       "_type": "content",
-      "html": "## Help us improve, complete the survey \r\n\r\nThis is a new service, and we're keen to hear your views so we can improve it. We'd really appreciate if if you would [complete our survey](#), it should take no more than 5 minutes. "
+      "html": "## Help us improve, complete the survey \r\n\r\nThis is a new service, and we're keen to hear your views so we can improve it. We'd really appreciate if if you would [complete our survey]( https://www.smartsurvey.co.uk/s/housingdisrepairviews). "
     },
     {
       "$component": true,
