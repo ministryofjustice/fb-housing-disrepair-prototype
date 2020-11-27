@@ -4,5 +4,6 @@
   "_type": "config.service",
   "name": "Check how to get repairs done in your rented home",
   "phase": "beta",
-  "phaseText": "This is a new service. [Your feedback]( https://www.smartsurvey.co.uk/s/housingdisrepairviews) will help us improve it for everyone."
+  "phaseText": "This is a new service. [Your feedback]( https://www.smartsurvey.co.uk/s/housingdisrepairviews) will help us improve it for everyone.",
+  "sessionDuration": 1440
 }
