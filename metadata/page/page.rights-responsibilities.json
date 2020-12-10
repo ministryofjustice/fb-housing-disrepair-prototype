@@ -46,10 +46,6 @@
           {
             "any": [
               {
-                "0": {
-                  "identifier": "auto_name__35",
-                  "operator": "defined"
-                },
                 "identifier": "auto_name__35",
                 "operator": "defined"
               },
@@ -61,16 +57,10 @@
             "conditionsType": "any"
           },
           {
-            "identifier": "auto_name__37",
-            "negated": true,
-            "operator": "defined"
-          },
-          {
             "identifier": "auto_name__8",
             "operator": "defined"
           }
-        ],
-        "conditionsType": "all"
+        ]
       }
     },
     {
