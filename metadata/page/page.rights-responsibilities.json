@@ -46,6 +46,10 @@
           {
             "any": [
               {
+                "0": {
+                  "identifier": "auto_name__35",
+                  "operator": "defined"
+                },
                 "identifier": "auto_name__35",
                 "operator": "defined"
               },
@@ -57,10 +61,16 @@
             "conditionsType": "any"
           },
           {
+            "identifier": "auto_name__37",
+            "negated": true,
+            "operator": "defined"
+          },
+          {
             "identifier": "auto_name__8",
             "operator": "defined"
           }
-        ]
+        ],
+        "conditionsType": "all"
       }
     },
     {
@@ -231,7 +241,7 @@
       "_type": "content",
       "html": "### Water leaks (inside or outside) ###\r\n\r\nIt's not always easy to determine whether your landlord is responsible for resolving problems with leaks. \r\n\r\nSee this guide for information about when your landlord may have fix leaks or repair water damage: \r\n[https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-leak-from-a-neighbouring-property/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-leak-from-a-neighbouring-property/).",
       "show": {
-        "all": [
+        "any": [
           {
             "identifier": "auto_name__31",
             "operator": "defined"
@@ -242,10 +252,10 @@
           },
           {
             "identifier": "auto_name__27",
-            "negated": true,
             "operator": "defined"
           }
-        ]
+        ],
+        "conditionsType": "any"
       }
     },
     {
