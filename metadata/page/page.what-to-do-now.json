@@ -1,7 +1,6 @@
 {
   "_id": "page.what-to-do-now",
-  "_type": "page.content",
-  "actionType": "continue",
+  "_type": "page.exit",
   "components": [
     {
       "$component": true,
