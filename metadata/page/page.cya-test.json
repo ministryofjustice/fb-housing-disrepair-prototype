@@ -1,7 +1,8 @@
 {
   "_id": "page.cya-test",
   "_type": "page.summary",
-  "actionType": "confirm",
+  "actionType": "custom-5",
+  "lede": "You'll receive information about next steps based on the answers you've given. ",
   "sendBody": "[Print this page](#)",
   "sendHeading": "",
   "show": true,
