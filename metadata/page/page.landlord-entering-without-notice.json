@@ -5,7 +5,7 @@
     {
       "_id": "page.landlord-entering-without-notice--radios.auto_name__64",
       "_type": "radios",
-      "hint": "This includes giving access to tradespeople.\r\n\r\n",
+      "hint": "This includes giving access to tradespeople. No-one should enter your home without you having notice. \r\n\r\n",
       "items": [
         {
           "_id": "page.landlord-entering-without-notice--radios.auto_name__64--radio.auto_value__16",

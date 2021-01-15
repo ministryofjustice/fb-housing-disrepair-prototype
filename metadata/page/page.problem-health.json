@@ -5,7 +5,7 @@
     {
       "_id": "page.problem-health--checkboxes",
       "_type": "checkboxes",
-      "hint": "Select all that apply",
+      "hint": "If your health is being affected because of a problem in your home, the Local Council may help you work with your landlord or letting agent to get it fixed. ",
       "items": [
         {
           "_id": "page.problem-health--checkboxes--checkbox.auto_name__53",

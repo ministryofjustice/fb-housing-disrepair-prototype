@@ -5,25 +5,25 @@
     {
       "_id": "page.inspection--radios.auto_name__20",
       "_type": "radios",
-      "hint": "The local council's Environmental Health team inspect homes to assess problems. ",
+      "hint": "The local council's Environmental Health team carry out inspections. This is so that they can work out whether the problem is urgent, and what needs to happen to get it fixed. ",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.inspection--radios.auto_name__20--radio.auto_value__9",
           "_type": "radio",
           "label": "Yes",
           "value": "Yes"
         },
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.inspection--radios.auto_name__20--radio.auto_value__9--2",
           "_type": "radio",
           "label": "No",
           "value": "No"
-        },
-        {
-          "_id": "page.inspection--radios.auto_name__20--radio.auto_value__2",
-          "_type": "radio",
-          "label": "No, and the problem has got worse ",
-          "value": "auto_value__2"
         }
       ],
       "legend": "Have the local council carried out an inspection? ",
