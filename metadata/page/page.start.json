@@ -7,6 +7,11 @@
       "_id": "page.start--warning",
       "_type": "warning",
       "html": "If you are about to lose your home, contact [Shelter](https://england.shelter.org.uk/get_help) or [Citizens Advice](https://www.citizensadvice.org.uk/about-us/contact-us/contact-us/contact-us/) for help."
+    },
+    {
+      "_id": "page.start--content",
+      "_type": "content",
+      "html": "[...](https://drive.google.com/file/d/1Fv8l9dX6Yd8CawpjtBRvecsi6DyrUw4C/view?usp=sharing)"
     }
   ],
   "heading": "Check how to get repairs done in your rented home",
