@@ -443,6 +443,15 @@
       "_id": "page.future-resources---content--8",
       "_type": "content",
       "html": "**Go [back to the 'What to do now'](/what-to-do-now) page.** "
+    },
+    {
+      "_id": "page.future-resources---content--9",
+      "_type": "content",
+      "html": "## Mental health resources \r\n\r\nYou said the problem had affected your mental health. You may want to consider speaking to your GP or one of the charities listed below for support.\r\n\r\n- [Mind](https://www.mind.org.uk/) provides help and support for people experiencing mental health problems.  \r\n\r\n",
+      "show": {
+        "identifier": "auto_name__57",
+        "operator": "defined"
+      }
     }
   ],
   "heading": "Future steps and useful resources",
