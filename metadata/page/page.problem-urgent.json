@@ -1,86 +1,30 @@
 {
   "_id": "page.problem-urgent",
   "_type": "page.form",
-  "body": "",
+  "body": "Local councils have a duty to respond quickly to urgent problems. This may involve finding temporary housing or working with your landlord or letting agent to get the problem fixed. \r\n\r\nYou may also be able to apply for an emergency court order to get the work done. ",
   "components": [
     {
-      "_id": "page.problem-urgent--content--2",
-      "_type": "content",
-      "html": "## 1. Contact your local council \r\n\r\nYou should contact your Local Council immediately if the problem is urgent. Local councils have the power to enforce rules and get problems fixed.  "
-    },
-    {
-      "_id": "page.problem-urgent--content--3",
-      "_type": "content",
-      "html": "## 2. Consider an emergency court order \r\n\r\nThe court can order that the disrepair work is carried out with an emergency court order. \r\n\r\nThe court will only grant emergency court orders  (injunctions) if the problem is extremely serious. This list gives you an idea of what the court considers to be serious. "
-    },
-    {
-      "_id": "page.problem-urgent--content",
-      "_type": "content",
-      "html": "- your house or flat cannot be lived in until the problem is fixed\r\n- your physical or mental health has been seriously affected (or that of someone else you live with) \r\n\r\nYou will need to work with a solicitor or specialist adviser if you think that taking urgent court action is the right option for you. \r\n\r\n"
-    },
-    {
-      "_id": "page.problem-urgent--radios.auto_name__15",
+      "_id": "page.problem-urgent--radios.auto_name__3",
       "_type": "radios",
       "items": [
         {
-          "_id": "page.problem-urgent--radios.auto_name__15--radio.auto_value__1",
+          "_id": "page.problem-urgent--radios.auto_name__3--radio.auto_value__1",
           "_type": "radio",
-          "label": "Yes, the problem is urgent",
+          "label": "Yes",
           "value": "auto_value__1"
         },
         {
-          "_id": "page.problem-urgent--radios.auto_name__15--radio.auto_value__2",
+          "_id": "page.problem-urgent--radios.auto_name__3--radio.auto_value__1--2",
           "_type": "radio",
-          "label": "No, I don't think this is right option for me",
-          "value": "auto_value__2"
+          "label": "No",
+          "value": "auto_value__1"
         }
       ],
-      "legend": "Do you think the problem is urgent? ",
-      "name": "auto_name__15"
+      "legend": "Is the problem urgent? ",
+      "name": "auto_name__3"
     }
   ],
-  "heading": "It sounds like the problem may be urgent  ",
-  "lede": "Housing disrepair problems are considered urgent when you are unable to continue living in your home, or your health is being seriously affected. ",
-  "show": {
-    "any": [
-      {
-        "all": [
-          {
-            "identifier": "auto_name__10",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__30",
-            "operator": "defined"
-          }
-        ]
-      },
-      {
-        "all": [
-          {
-            "identifier": "auto_name__8",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__37",
-            "operator": "defined"
-          }
-        ]
-      },
-      {
-        "all": [
-          {
-            "identifier": "auto_name__6",
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__27",
-            "operator": "defined"
-          }
-        ]
-      }
-    ],
-    "conditionsType": "any"
-  },
+  "heading": "Is the problem urgent?   ",
+  "lede": "Housing disrepair problems are considered urgent when you are unable to continue living in your home, or your health is being seriously affected.",
   "url": "problem-urgent"
 }
