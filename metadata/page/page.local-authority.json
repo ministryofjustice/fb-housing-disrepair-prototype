@@ -28,54 +28,13 @@
     "conditionsType": "exactly",
     "exactly": [
       {
-        "all": [
-          {
-            "any": [
-              {
-                "identifier": "auto_name__37",
-                "operator": "defined"
-              },
-              {
-                "identifier": "auto_name__27",
-                "operator": "defined"
-              },
-              {
-                "identifier": "auto_name__30",
-                "operator": "defined"
-              }
-            ],
-            "conditionsType": "any"
-          },
-          {
-            "identifier": "auto_name__15",
-            "operator": "is",
-            "value": "auto_value__2"
-          }
-        ],
-        "conditionsType": "all"
-      },
-      {
-        "all": [
-          {
-            "identifier": "auto_name__37",
-            "negated": true,
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__27",
-            "negated": true,
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__30",
-            "negated": true,
-            "operator": "defined"
-          },
-          {
-            "identifier": "auto_name__4",
-            "operator": "defined"
-          }
-        ]
+        "0": {
+          "identifier": "auto_name__4",
+          "operator": "defined"
+        },
+        "identifier": "auto_name__3",
+        "operator": "is",
+        "value": "auto_value__1"
       }
     ]
   },
