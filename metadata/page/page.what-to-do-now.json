@@ -52,54 +52,9 @@
       "_type": "content",
       "html": "## You said the problem was urgent \r\n\r\nYou should contact your local council immediately if the problem is urgent. Find out more about [contacting your local council](/local-council-detail) \r\n\r\n### Emergency court orders \r\n\r\nYou could also consider applying for an emergency court order. However, \r\nyou should seek professional legal advice before starting an application. You can get information on finding a solicitor and other sources of legal help in [useful resources](/future-resources)   \r\n\r\nYou can also find out more about [what to do if your landlord won't do repairs](https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs) on the Shelter website. ",
       "show": {
-        "all": [
-          {
-            "identifier": "auto_name__15",
-            "operator": "is",
-            "value": "auto_value__1"
-          },
-          {
-            "any": [
-              {
-                "all": [
-                  {
-                    "identifier": "auto_name__8",
-                    "operator": "defined"
-                  },
-                  {
-                    "identifier": "auto_name__37",
-                    "operator": "defined"
-                  }
-                ]
-              },
-              {
-                "all": [
-                  {
-                    "identifier": "auto_name__10",
-                    "operator": "defined"
-                  },
-                  {
-                    "identifier": "auto_name__30",
-                    "operator": "defined"
-                  }
-                ]
-              },
-              {
-                "all": [
-                  {
-                    "identifier": "auto_name__6",
-                    "operator": "defined"
-                  },
-                  {
-                    "identifier": "auto_name__27",
-                    "operator": "defined"
-                  }
-                ]
-              }
-            ],
-            "conditionsType": "any"
-          }
-        ]
+        "identifier": "auto_name__3",
+        "operator": "is",
+        "value": "auto_value__1"
       }
     },
     {
