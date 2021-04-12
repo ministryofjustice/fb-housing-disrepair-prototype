@@ -1,0 +1,29 @@
+{
+  "_id": "page.urgency",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.urgency--radios.auto_name__3",
+      "_type": "radios",
+      "hint": "If you're not able to live in your home then your problem is probably urgent. \\\r\nLocal councils have a duty to respond quickly to urgent problems. You may also be able to apply for an emergency court order to get the work done.\r\n",
+      "items": [
+        {
+          "_id": "page.urgency--radios.auto_name__3--radio.auto_value__1",
+          "_type": "radio",
+          "hint": "",
+          "label": "Yes, the problem is urgent",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.urgency--radios.auto_name__3--radio.auto_value__1--2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__1"
+        }
+      ],
+      "legend": "Is the problem urgent? ",
+      "name": "auto_name__3"
+    }
+  ],
+  "url": "urgency"
+}

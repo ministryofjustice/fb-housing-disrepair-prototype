@@ -1,30 +1,6 @@
 {
   "_id": "page.problem-urgent",
-  "_type": "page.singlequestion",
-  "actionType": "saveContinue",
-  "body": "Local councils have a duty to respond quickly to urgent problems. This may involve finding temporary housing or working with your landlord or letting agent to get the problem fixed. \r\n\r\nYou may also be able to apply for an emergency court order to get the work done. ",
-  "components": [
-    {
-      "_id": "page.problem-urgent--radios.auto_name__3",
-      "_type": "radios",
-      "items": [
-        {
-          "_id": "page.problem-urgent--radios.auto_name__3--radio.auto_value__1",
-          "_type": "radio",
-          "label": "Yes",
-          "value": "auto_value__1"
-        },
-        {
-          "_id": "page.problem-urgent--radios.auto_name__3--radio.auto_value__1--2",
-          "_type": "radio",
-          "label": "No",
-          "value": "auto_value__1"
-        }
-      ],
-      "legend": "Is the problem urgent? ",
-      "name": "auto_name__3"
-    }
-  ],
-  "lede": "If you're unable to continue living in your home, or you have a serious health concern, then your problem is probably urgent. ",
+  "_type": "page.form",
+  "heading": "Is the problem urgent?   ",
   "url": "problem-urgent"
 }
