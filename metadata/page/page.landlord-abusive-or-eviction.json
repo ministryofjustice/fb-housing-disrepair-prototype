@@ -5,7 +5,7 @@
     {
       "_id": "page.landlord-abusive-or-eviction--radios.auto_name__63",
       "_type": "radios",
-      "hint": "As a tenant you are protected from being evicted by your landlord or letting agent because you asked for repairs to be done. ",
+      "hint": "",
       "items": [
         {
           "_id": "page.landlord-abusive-or-eviction--radios.auto_name__63--radio.auto_value__14",

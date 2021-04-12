@@ -447,7 +447,7 @@
     {
       "_id": "page.future-resources---content--9",
       "_type": "content",
-      "html": "## Mental health resources \r\n\r\nYou said the problem had affected your mental health. You may want to consider speaking to your GP or one of the charities listed below for support.\r\n\r\n- [Mind](https://www.mind.org.uk/) provides help and support for people experiencing mental health problems.  \r\n\r\n",
+      "html": "## Mental health resources \r\n\r\nYou said the problem had affected your mental health. You may want to consider speaking to your GP or one of the charities listed below for support.\r\n\r\n- [Mind](https://www.mind.org.uk/) provides help and support for people experiencing mental health problems.  \r\n\r\n- [Hub of hope](https://hubofhope.co.uk/) directs you to mental health support and resources in your area.\r\n\r\n- [Samaritans](https://www.samaritans.org/) 24hr phone line for people to talk through problems of all kinds. Call 116 123.\r\n\r\n- [Sane line]   ",
       "show": {
         "identifier": "auto_name__57",
         "operator": "defined"
