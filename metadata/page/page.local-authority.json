@@ -25,13 +25,12 @@
     }
   ],
   "show": {
-    "conditionsType": "exactly",
-    "exactly": [
+    "all": [
       {
-        "0": {
-          "identifier": "auto_name__4",
-          "operator": "defined"
-        },
+        "identifier": "auto_name__3",
+        "operator": "defined"
+      },
+      {
         "identifier": "auto_name__3",
         "operator": "is",
         "value": "auto_value__1"
