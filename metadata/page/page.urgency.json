@@ -8,6 +8,9 @@
       "hint": "If you're not able to live in your home then your problem is probably urgent. \\\r\nLocal councils have a duty to respond quickly to urgent problems. You may also be able to apply for an emergency court order to get the work done.\r\n",
       "items": [
         {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
           "_id": "page.urgency--radios.auto_name__3--radio.auto_value__1",
           "_type": "radio",
           "hint": "",

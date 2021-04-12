@@ -58,6 +58,7 @@
           "value": "auto_value__1"
         },
         "identifier": "auto_name__3",
+        "negated": true,
         "operator": "is",
         "value": "auto_value__1"
       }
