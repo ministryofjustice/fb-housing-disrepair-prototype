@@ -44,7 +44,8 @@
           ]
         },
         "identifier": "auto_name__32",
-        "operator": "defined"
+        "operator": "is",
+        "value": "Yes"
       }
     ]
   },

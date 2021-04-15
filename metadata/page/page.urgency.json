@@ -21,7 +21,7 @@
           "_id": "page.urgency--radios.auto_name__3--radio.auto_value__1--2",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__1"
+          "value": "auto_value__2"
         }
       ],
       "legend": "Is the problem urgent? ",
