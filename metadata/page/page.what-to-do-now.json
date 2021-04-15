@@ -55,10 +55,9 @@
         "0": {
           "identifier": "auto_name__3",
           "operator": "is",
-          "value": "auto_value__1"
+          "value": "auto_value__2"
         },
         "identifier": "auto_name__3",
-        "negated": true,
         "operator": "is",
         "value": "auto_value__1"
       }
