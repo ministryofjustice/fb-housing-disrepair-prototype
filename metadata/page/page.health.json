@@ -7,6 +7,11 @@
       "_id": "page.health--content",
       "_type": "content",
       "html": "### Mental health resources \r\n\r\nIf your mental health has been affected speak to your GP or one of the charities listed below for support.\r\n\r\n- [Hub of hope](https://hubofhope.co.uk/) directs you to mental health support and resources in your area.\r\n\r\n- [Mind](https://www.mind.org.uk/) provides help and support for people experiencing mental health problems.  \r\n\r\n- [NHS mental health support](https://www.nhs.uk/mental-health/get-urgent-help-for-mental-health/) gives mental health support information, including where to get urgent help. \r\n\r\n- [Samaritans](https://www.samaritans.org/) 24hr phone line for people to talk through problems of all kinds. Call 116 123.\r\n\r\n- [Sane line](http://www.sane.org.uk/what_we_do/support/helpline) SANEline is a national out-of-hours mental health helpline. "
+    },
+    {
+      "_id": "page.health--content--2",
+      "_type": "content",
+      "html": "**Go [back to the ‘What to do now’](/what-to-do-now) page.**"
     }
   ],
   "heading": "Housing disrepair and your health ",
