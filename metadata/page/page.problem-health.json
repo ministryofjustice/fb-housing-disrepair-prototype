@@ -5,12 +5,12 @@
     {
       "_id": "page.problem-health--checkboxes",
       "_type": "checkboxes",
-      "hint": "If your health is being affected because of a problem in your home, the Local Council may help you work with your landlord or letting agent to get it fixed. ",
+      "hint": "You should contact your local council if your health has been affected (or there’s a risk that it may be). They can work with landlords or letting agents to get health hazards fixed.",
       "items": [
         {
           "_id": "page.problem-health--checkboxes--checkbox.auto_name__53",
           "_type": "checkbox",
-          "label": "Yes, it's caused a physical health problem, or made an existing problem worse",
+          "label": "Yes, there's a risk of developing or aggravating a physical health problem",
           "name": "auto_name__53"
         },
         {
