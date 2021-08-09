@@ -2,7 +2,7 @@
   "_id": "page.exit-non-private-landlord",
   "_type": "page.exit",
   "heading": "Sorry, you’re not able to use this checker ",
-  "lede": "It's only for people who rent privately at the moment. See information for [housing association](https://www.gov.uk/housing-association-homes/complaints) and [council housing](https://www.gov.uk/council-housing/repairs-and-maintenance)  tenants on GOV.UK  ",
+  "lede": "It's only for people who rent privately at the moment. See information for [housing association](https://www.gov.uk/housing-association-homes/complaints) and [council housing](https://www.gov.uk/council-housing/repairs-and-maintenance)  tenants on GOV.UK.   ",
   "show": {
     "identifier": "auto_name__2",
     "operator": "is",
