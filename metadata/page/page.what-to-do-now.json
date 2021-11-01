@@ -94,7 +94,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--35",
       "_type": "content",
-      "html": "## You said you may consider taking legal action \r\n\r\nGoing to court can be expensive and time-consuming, but it is an option if you have not been able to resolve the problem in another way. You may want to talk to a solicitor or qualified legal professional before you start any legal action. \r\n\r\nThere is a process you need to follow to make a claim. Find out more about [taking legal action](/legal-action-detail).",
+      "html": "## You said you may consider taking legal action \r\n\r\nGoing to court can be expensive and time-consuming, but it is an option if you have not been able to resolve the problem in another way. You may want to talk to a solicitor or qualified legal professional before you start any legal action. \r\n\r\nThere is a process you need to follow to make a claim. [Find out about taking legal action](/legal-action-detail).",
       "show": {
         "all": [
           {
@@ -185,7 +185,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--14",
       "_type": "content",
-      "html": "## You need to tell your landlord or letting agent about the problem \r\n\r\nYou can find out more about [writing to your landlord](/writing-to-landlord) including links to letter templates. \r\n\r\nRemember to keep copies of any letters you send, and the dates you sent them. ",
+      "html": "## You need to tell your landlord or letting agent about the problem \r\n\r\nYou can [find out more about writing to your landlord](/writing-to-landlord) including links to letter templates. \r\n\r\nRemember to keep copies of any letters you send, and the dates you sent them. ",
       "show": {
         "all": [
           {
@@ -211,7 +211,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--23",
       "_type": "content",
-      "html": "## You need to contact your landlord or letting agent in writing \r\n\r\nEven if you have already told your landlord about the problem over the phone, by text message or in person, you need to tell them again in writing. This can be by email or letter. \r\n\r\nFind out more about [writing to your landlord](writing-to-landlord).",
+      "html": "## You need to contact your landlord or letting agent in writing \r\n\r\nEven if you have already told your landlord about the problem over the phone, by text message or in person, you need to tell them again in writing. This can be by email or letter. \r\n\r\n[Find out more about writing to your landlord](writing-to-landlord).",
       "show": {
         "all": [
           {
@@ -232,7 +232,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--29",
       "_type": "content",
-      "html": "## Contact your local council \r\n\r\nYou should contact the housing team at your local council. They have an obligation to make sure that tenants are living in properties that are looked after by landlords, and kept in a reasonable state of repair.\r\n\r\nYou can find your local council using this service: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council).\r\n\r\nFind out more about [contacting your council](/local-council-detail).",
+      "html": "## Contact your local council \r\n\r\nYou should contact the housing team at your local council. They have an obligation to make sure that tenants are living in properties that are looked after by landlords, and kept in a reasonable state of repair.\r\n\r\nYou can find your local council using this service: [https://www.gov.uk/find-local-council](https://www.gov.uk/find-local-council).\r\n\r\n[Find out more about contacting your council](/local-council-detail).",
       "show": {
         "all": [
           {
@@ -316,7 +316,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--31",
       "_type": "content",
-      "html": "## Contact your local council again\r\n\r\nIf you have contacted your local council and they have not responded or have not helped to fix the problem, you should contact them again.  \r\n\r\nFind out more about [contacting your local council again](/contact-council-again).",
+      "html": "## Contact your local council again\r\n\r\nIf you have contacted your local council and they have not responded or have not helped to fix the problem, you should contact them again.  \r\n\r\n[Find out more about contacting your local council again](/contact-council-again).",
       "show": {
         "all": [
           {
@@ -598,7 +598,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--10",
       "_type": "content",
-      "html": "## Future steps and useful resources \r\n\r\nGet more information on [future steps](/future-resources) to help address the problem."
+      "html": "## Future steps and useful resources \r\n\r\n[Get more information on future steps](/future-resources) to help address the problem."
     },
     {
       "$component": true,

@@ -239,7 +239,7 @@
     {
       "_id": "page.rights-responsibilities--content--13",
       "_type": "content",
-      "html": "### Water leaks (inside or outside) ###\r\n\r\nIt's not always easy to determine whether your landlord is responsible for resolving problems with leaks. \r\n\r\nSee this guide for information about when your landlord may have fix leaks or repair water damage: \r\n[https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-leak-from-a-neighbouring-property/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-leak-from-a-neighbouring-property/).",
+      "html": "### Water leaks (inside or outside) ###\r\n\r\nIt's not always easy to determine whether your landlord is responsible for resolving problems with leaks. \r\n\r\nSee this guide for information about when your landlord may have to fix leaks or repair water damage: \r\n[www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-leak-from-a-neighbouring-property/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-leak-from-a-neighbouring-property/).",
       "show": {
         "any": [
           {
@@ -287,7 +287,7 @@
     {
       "_id": "page.rights-responsibilities--content--16",
       "_type": "content",
-      "html": "### Damp or mould ###\r\n\r\nIt's not always easy to know whether your landlord is responsible for resolving problems with damp. This is because it can be difficult to find the exact cause of damp without the help of a surveyor. \r\n\r\nYou should make sure you are not contributing to the problem. For example by drying clothes on radiators without opening windows, or not using the extractor fan after a shower. \r\n\r\nSee this guide about different kinds of damp: \r\n[https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/)",
+      "html": "### Damp or mould ###\r\n\r\nIt's not always easy to know whether your landlord is responsible for resolving problems with damp. This is because it can be difficult to find the exact cause of damp without the help of a surveyor. \r\n\r\nYou should make sure you are not contributing to the problem. For example by drying clothes on radiators without opening windows, or not using the extractor fan after a shower. \r\n\r\nSee this guide about different kinds of damp: \r\n[www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-damp/)",
       "show": {
         "identifier": "auto_name__12",
         "operator": "defined"
@@ -296,7 +296,7 @@
     {
       "_id": "page.rights-responsibilities--content--17",
       "_type": "content",
-      "html": "### Infestation ###\r\n\r\nIt's not always easy to determine whether your landlord is responsible for resolving problems with mice and other infestations. \r\n\r\nSee this [Citizens Advice guide for more information](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-infestations-of-pests-and-vermin/). ",
+      "html": "### Infestation ###\r\n\r\nIt's not always easy to determine whether your landlord is responsible for resolving problems with mice and other infestations. \r\n\r\nSee this guide to who is responsible for infestations:  [www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-infestations-of-pests-and-vermin](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-common-problems/repairs-infestations-of-pests-and-vermin/). ",
       "show": {
         "identifier": "auto_name__11",
         "operator": "defined"

@@ -17,7 +17,7 @@
       "$definition": true,
       "_id": "page.future-resources---content--6",
       "_type": "content",
-      "html": "## Consider organising the repair work yourself ##\r\n\r\nIf the problem is relatively small, you could arrange for the repairs to be done and take the cost out of your rent. However, it's important to keep your landlord informed, and follow a step-by-step process. You must not stop paying rent without notice. \r\n\r\nFind out more about [organising repairs yourself](https://england.shelter.org.uk/housing_advice/repairs/doing_the_repairs_if_your_landlord_wont) on the Shelter website. ",
+      "html": "## Consider organising the repair work yourself ##\r\n\r\nIf the problem is relatively small, you could arrange for the repairs to be done and take the cost out of your rent. However, it's important to keep your landlord informed, and follow a step-by-step process. You must not stop paying rent without notice. \r\n\r\n[Find out more about organising repairs yourself](https://england.shelter.org.uk/housing_advice/repairs/doing_the_repairs_if_your_landlord_wont) on the Shelter website. ",
       "show": {
         "all": [
           {
@@ -39,7 +39,7 @@
       "$definition": true,
       "_id": "page.future-resources---content--2",
       "_type": "content",
-      "html": "## Speak to someone about the problem ##\r\n\r\n### Citizens Advice ###\r\n\r\nCitizens Advice provide information and guidance on housing problems online. You can also chat with an adviser online, call their helpline, or visit one of their face-to-face centres.\r\n\r\nAdviceline (England): 0800 144 8848\r\n\r\nAdvicelink (Wales): 03444 77 20 20\r\n\r\n### Shelter ###\r\nShelter provides advice and support to people with housing issues of all kinds. \r\n\r\n[https://england.shelter.org.uk/get_help](https://england.shelter.org.uk/get_help)  "
+      "html": "## Speak to someone about the problem ##\r\n\r\n### Citizens Advice ###\r\n\r\nCitizens Advice provide information and guidance on housing problems online. You can also chat with an adviser online, call their helpline, or visit one of their face-to-face centres.\r\n\r\nAdviceline (England): 0800 144 8848\r\n\r\nAdvicelink (Wales): 03444 77 20 20\r\n\r\n### Shelter ###\r\nShelter provides advice and support to people with housing issues of all kinds. [See the Shelter website for contact details](https://england.shelter.org.uk/get_help). "
     },
     {
       "$component": true,
@@ -47,7 +47,7 @@
       "$definition": true,
       "_id": "page.future-resources---content--3",
       "_type": "content",
-      "html": "## Find a legal service provider ##\r\n\r\n### Find a solicitor ###\r\n[Find a Solicitor](https://solicitors.lawsociety.org.uk) is a free service for anyone looking for information about organisations or people providing legal services in England and Wales that are regulated by the Solicitors Regulation Authority (SRA). \r\n\r\n### Law Works ###\r\nThe LawWorks Clinics Network provides free initial advice to individuals on housing matters. Find out more at [https://www.lawworks.org.uk/](https://www.lawworks.org.uk/).\r\n\r\n### Law Centre Network ###\r\nLaw Centres offer legal advice, casework and representation to individuals and groups. The Law Centre Network helps users to locate a law centre. Find out more at [www.lawcentres.org.uk](https://www.lawcentres.org.uk)\r\n\r\n### Legal Choices ###\r\nLegal Choices gives you independent, factual information about legal issues and legal advisers. Read their [guide to housing and legal issues](https://www.legalchoices.org.uk/legal-choices/got-a-legal-issue/houses).  \r\n\r\n### Advocate ###\r\nAdvocate is a charity that offers free legal assistance from volunteer barristers. [https://weareadvocate.org.uk/](https://weareadvocate.org.uk/).",
+      "html": "## Find a legal service provider ##\r\n\r\n### Find a solicitor ###\r\n[Find a Solicitor](https://solicitors.lawsociety.org.uk) is a free service for anyone looking for information about organisations or people providing legal services in England and Wales that are regulated by the Solicitors Regulation Authority (SRA). \r\n\r\n### Law Works ###\r\nThe LawWorks Clinics Network provides free initial advice to individuals on housing matters. Find out more at [www.lawworks.org.uk/](https://www.lawworks.org.uk/).\r\n\r\n### Law Centre Network ###\r\nLaw Centres offer legal advice, casework and representation to individuals and groups. The Law Centre Network helps users to locate a law centre. Find out more at [www.lawcentres.org.uk](https://www.lawcentres.org.uk)\r\n\r\n### Legal Choices ###\r\nLegal Choices gives you independent, factual information about legal issues and legal advisers. Read their [guide to housing and legal issues](https://www.legalchoices.org.uk/legal-choices/got-a-legal-issue/houses).  \r\n\r\n### Advocate ###\r\nAdvocate is a charity that offers free legal assistance from volunteer barristers. [https://weareadvocate.org.uk/](https://weareadvocate.org.uk/).",
       "show": {
         "conditionsType": "exactly",
         "exactly": [
@@ -311,7 +311,7 @@
       "$definition": true,
       "_id": "page.future-resources---content--5",
       "_type": "content",
-      "html": "## Support if you don't have legal representation ##\r\n\r\nSupport through the Court is a charity supporting people who face court alone so that they can represent themselves to the best of their abilities. Support through the Court cannot provide legal advice or legal representation. \r\nSee: [https://www.supportthroughcourt.org](https://www.supportthroughcourt.org).",
+      "html": "## Support if you don't have legal representation ##\r\n\r\nSupport through the Court is a charity supporting people who face court alone so that they can represent themselves to the best of their abilities. Support through the Court cannot provide legal advice or legal representation. \r\nSee: [www.supportthroughcourt.org](https://www.supportthroughcourt.org).",
       "show": {
         "conditionsType": "exactly",
         "exactly": [
@@ -437,7 +437,7 @@
       "$definition": true,
       "_id": "page.future-resources---content--7",
       "_type": "content",
-      "html": "## Making complaints about landlords, letting agents and the local council \r\n\r\nIf you're unhappy with the way your landlord, letting agent or local council have dealt with the problem, you can make a complaint. \r\n\r\nFind out more about [making complaints](/complaints)"
+      "html": "## Making complaints about landlords, letting agents and the local council \r\n\r\nIf you're unhappy with the way your landlord, letting agent or local council have dealt with the problem, you can make a complaint. \r\n\r\n[Find out more about making complaints about landlords](/complaints)"
     },
     {
       "_id": "page.future-resources---content--8",
