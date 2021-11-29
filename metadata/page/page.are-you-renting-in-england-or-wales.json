@@ -6,6 +6,11 @@
     {
       "_id": "page.are-you-renting-in-england-or-wales--radios.auto_name__1",
       "_type": "radios",
+      "errors": {
+        "required": {
+          "any": "Select yes if you are renting your home in England or Wales"
+        }
+      },
       "items": [
         {
           "$component": true,
