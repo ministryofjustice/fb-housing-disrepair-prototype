@@ -5,6 +5,11 @@
     {
       "_id": "page.what-is-the-problem-with-your-housing--checkboxes",
       "_type": "checkboxes",
+      "errors": {
+        "required": {
+          "any": "Select the problems you have with your housing"
+        }
+      },
       "hint": "Select all that apply.",
       "items": [
         {
