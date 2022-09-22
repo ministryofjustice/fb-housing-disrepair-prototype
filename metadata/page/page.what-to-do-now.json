@@ -395,6 +395,9 @@
       }
     },
     {
+      "$component": true,
+      "$content": true,
+      "$definition": true,
       "_id": "page.what-to-do-now--content--3",
       "_type": "content",
       "html": "## Not paying rent can make the problem worse \r\n\r\nYour landlord may have reason to evict you if you stop paying rent. You can find out more about [withholding rent because repairs haven't been done](https://www.citizensadvice.org.uk/housing/repairs-in-rented-housing/repairs-what-are-your-options-if-you-are-a-social-housing-tenant/withholding-rent-because-repairs-havent-been-done/) on the Citizens Advice website. ",
@@ -599,14 +602,6 @@
       "_id": "page.what-to-do-now--content--10",
       "_type": "content",
       "html": "## Future steps and useful resources \r\n\r\n[Get more information on future steps](/future-resources) to help address the problem."
-    },
-    {
-      "$component": true,
-      "$content": true,
-      "$definition": true,
-      "_id": "page.what-to-do-now--content--2",
-      "_type": "content",
-      "html": "## Help us improve, complete the survey \r\n\r\nThis is a new service, and we're keen to hear your views so we can improve it. We'd really appreciate if if you would [complete our survey]( https://www.smartsurvey.co.uk/s/housingdisrepairviews). "
     },
     {
       "$component": true,
