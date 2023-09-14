@@ -50,7 +50,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--32",
       "_type": "content",
-      "html": "## You said the problem was urgent \r\n\r\n[Contact your local council](/local-council-detail) immediately if the problem is urgent. \r\n\r\n### Emergency court orders \r\n\r\nYou could apply for an emergency court order to fix an urgent problem. However, you should seek professional legal advice before starting an application. You can get information on finding a solicitor and other sources of legal help in [useful resources](/future-resources).   \r\n\r\nYou can also find out more about [what to do if your landlord won't do repairs](https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs) on the Shelter website. ",
+      "html": "## You said the problem was urgent \r\n\r\n[Contact your local council](/local-council-detail) immediately if the problem is urgent. \r\n\r\n### Emergency court orders \r\n\r\n\r\nYou can also find out more about [what to do if your landlord won't do repairs](https://england.shelter.org.uk/housing_advice/repairs/legal_action_if_your_landlord_wont_do_repairs) on the Shelter website. ",
       "show": {
         "0": {
           "identifier": "auto_name__3",
@@ -68,7 +68,7 @@
       "$definition": true,
       "_id": "page.what-to-do-now--content--26",
       "_type": "content",
-      "html": "## Your landlord should not evict you because you asked for repairs to be done \r\n\r\nYour landlord has to keep your home in a good condition and do repairs if you need them. They can’t make you leave your home just for asking for repairs to be done. Your landlord has to follow a proper eviction process if they want you to leave. \r\n\r\nFind out more about this on the [Shelter website](https://england.shelter.org.uk/housing_advice/repairs/revenge_eviction_if_you_ask_for_repairs).\r\n\r\n### Get free legal help if you are at risk of losing your home\r\n\r\nGovernment funded legal advice and representation (legal aid) is available to people facing the loss of their home. You must have written evidence (for example a letter from your landlord saying they are going to evict you) to access support.\r\n\r\nFind out more about [legal aid for possession proceedings](https://www.gov.uk/guidance/legal-aid-for-possession-proceedings).\r\n",
+      "html": "asdfds",
       "show": {
         "identifier": "auto_name__63",
         "operator": "is",
